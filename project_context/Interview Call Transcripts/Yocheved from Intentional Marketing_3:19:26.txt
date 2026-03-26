@@ -1,0 +1,240 @@
+User Research: Jeff<>Yocheved
+
+Date: 3/19/2026, 9:30:47 AM • Duration: 57m
+
+Participants: Intentional Marketing, Jeff Whitlock
+
+Grain URL: https://grain.com/share/recording/b06ee1eb-50b7-4a55-b890-c3e6915c98f6/a8hq8ikklQ4ZSYJJ8PJK7vFGZQGkqgbMnySpTt3x
+
+--- TRANSCRIPT ---
+
+Intentional Marketing
+Hi, Jeff, good morning.
+
+Jeff Whitlock
+How's it going.
+
+Intentional Marketing
+Good? I'm so sorry. I was waiting on my Zoom. I didn't realize that was a Zoom from you. So I just like opened my Zoom and kind of waited there. Yeah, it's because I had my head that you grabbed the time on my calendar. So I just like popped the zoom open and continued working while waiting. I was like, you know, let me check again. And I saw, so I apologize for that.
+
+Jeff Whitlock
+No, no, it's totally okay. It's totally okay. How's your day? I guess, yeah, how'd your day going?
+
+Intentional Marketing
+Yeah, my days are in good and I love it. This is, we got now two great members on this call. It's always a war.
+
+Jeff Whitlock
+Yeah. Yeah. I got mine. That's great. Where are you taking the call from.
+
+Intentional Marketing
+Jersey? I know it looks like snorkeling background, but it's just a white fence.
+
+Jeff Whitlock
+Okay. Okay. Okay. Nice. Yeah. I'm hearing I'm in Utah and we don't have snow. It's pretty much spring and things, things are melted. All right.
+
+Intentional Marketing
+So, uh, first that was excited to have the opportunity to get on a call, even just to say a thank you, big fan. Um, underrated, I always shout out, uh, Grain took a ball. Yeah, I'm going to try grain. And I know it's maybe less of the noisy ones and the market of no takers, but I tell people it's amazing. So you got to go, go give it a spin, go try it. It's great to do.
+
+Jeff Whitlock
+Thank you. That we appreciate that. We're a small company. So, uh, yeah, and the bigger ones out there. So we, we feel like we care a lot about the product. We try to make it good.
+
+Intentional Marketing
+And that's why I, uh, this is a first for me to kind of take these kind of call where, you know, it's not something that I need. But, um, I was, I'm telling you, I, I, I love Grain. Um, I've used before, you know, with your puppy cures, but I use the Fathom and Fireflies before, uh, for me, this was like a golden solution, like I could tell you why I love moving over from those to this, but, uh, you know, so I was so happy. Thank you.
+
+Jeff Whitlock
+Thank you. Yeah. I mean, I'm actually curious. It's not necessarily why I wanted to talk, but I love anything.
+
+Intentional Marketing
+Yeah. So, um, Wilbrief, and I know this is how I take it. So I'm kind of like, you know, from the outside my understanding is that maybe kind of idealized people, like the ideal use case for grain is maybe more sales. Geared. You know, kind of like, okay, Fung is a, you know, machine gun trying to shoot a mosquito. So, you know, Grain will be a great solution. That's the impression I get. I might be wrong on that. Um, and with, and even the win organization that does a lot of sales, um, I have a deck in a time to configure the product or like make it work in that way. And we use it in a very, um, basic way of just being the note taker of choice. That being said, it's very, very minimalistic. So the other ones I felt like just had so much going on and the, just even on the app and the homepage, just UI, like, like it was, it was not fast enough. So this one is very fast. Um. Doesn't have any of these weird recordings. You're being, your meeting is being recorded. So I understand. And there's some now understanding the, you know, experience of my users on the call. So to me, I know that's a detail. But I just think, you know, everybody by now is okay seeing a recorder and everybody knows it's being recorded, but that voice, your meeting is being recorded is just not human, not pleasant. So that was a big thing for me. I know it's a detail. That was a big thing. And then being able to after call Willie briefly go, um, really powerful how I can grab the whole transcript in a click of a button. Um, I can segment. I can highlight and create a clip. I can share that clip. Very, very, very agile. Um, sharing a clip out is very clean. So the recipient just gets a super clean experience without all that, um, noise on the UI. So those are small details, but they keep the experience very minimal and clean, which to me is very appreciated. Nice.
+
+Jeff Whitlock
+That's awesome. I love hearing that. Uh, well you, you, I think you teed up really nicely why I wanted to chat. So, um. Yeah, historically we have been. We have been focused on sales teams, not necessarily as our primary. We're generally four companies, small companies. And we notice that when a whole company adopts grain, the salespeople have certain needs. And like, we noticed that like. We would get with the company and then the sales team would say, Oh, we don't like grain. We're going to rip the mountain. And, you know, by gong or something like that. And so we started like, okay, if we just gave them a little bit of features, could we stick with the whole company. And that's been a decent strategy for us. But, but it's a little bit, it just seems like it hasn't been as coherent as it needs to be. And so we're looking at potentially refocusing on our best users. And I think I mentioned my email that people who are at either independent consultants or small agencies or, um, uh, advisors, these types of people tend to be some of our best and heaviest users. And we have some beliefs that we can serve you all better. Um, and so anyway, that's kind of the, the context conversation. And so, um. I have just in general questions about how you were, uh, problems you experience. And I'd love you to share any insight you feel comfortable sharing. We can talk specifically about the product, but it's generally kind of more about like, uh, your needs.
+
+Intentional Marketing
+Absolutely. So is that okay for sure screen real quick.
+
+Jeff Whitlock
+Oh yeah, of course.
+
+Intentional Marketing
+So I think that, uh, you know, bringing from the, you know, Kang, uh, kind of use case, um, I think that even is a small consultant. My feeling is, and again, you know, we are definitely in that space, but I also, um, you know, I have a strong background in kind of, you know, product development. Right. And like in the back of my head, I'm like, I think this could do so much more than it's actually doing for me. But I think that the challenge is and we're going, you know, Gang has a very premium price tag. Right. The features there aren't anything that, like everybody can come up with those features, but the features, you know, their features aren't. Some, you know, secret sauce. It's really just kind of, you know, a lot of layers of everything that everybody else could do. And I think that the success factor is in very, very heavy implementation support. And essentially you're paying a fraction for the actual product at a huge amount really for that team support. Because if they were just kind of sell you off the license and you can sign up and you have access, people will just use it again at the very surface level.
+
+Jeff Whitlock
+In the basic way. Yeah. Yeah.
+
+Intentional Marketing
+Yes. And they're putting such heavy implementation that they're really turning it into a sales tool. So I want to say even with grain, like the way I use it, I am sure that they can be templates. They can be different configuration with ingrained that would make it so much more powerful for me. But even me that I'm pretty techie, um, you know, I build a lot of, um, vibe AI. But because this is, so you see, this isn't like an open vibe, you know, environment where I can just like vibe code what I want. Right. So it's got all the capabilities, but some, somehow it's still not my product that I feel confident to go in and, you know, maybe if I turned that into a project and be like, okay, the next few weeks I'm focusing in it. I want to turn this into a super tool for my use case. But like, it would take a lot to get me to do that. Right. So I don't know in terms of, you know, cost on margin and, you know, if it makes sense. But, um, if there was. Like I would, I would guess that the use cases are not endless. Especially if you're going to be focusing a space. So the use case is end up being similar enough. And then if there can be, um, somehow either, because I think that even, even if the use cases are limited, it's still not going to be a case of like, okay, we could just like have it ready out of the box. You will need some human implementation to it. But if there was a good strong implementation, then to me, that would be like a super too. Now that gets tricky because now it's not a purely, it's not purely a product, but it's kind of like a product slash service. So it becomes tricky. But then again, my hunch would be that after, you know, a number of implementations, you will be like, wait, they're all the same. Right. So they're all almost the same. And so the product can be defined more closely to the use case. Does that make sense? Oh, yeah.
+
+Jeff Whitlock
+For sure.
+
+Intentional Marketing
+Just from my level. Then I can just walk you through. Just some of like almost like my, uh, you know, top five features. Type six features. Um, sorry, I'm just going to.
+
+Jeff Whitlock
+Worries.
+
+Intentional Marketing
+Yeah.
+
+Jeff Whitlock
+Sorry before doing that. Could I just ask a couple of questions about your context just so as you'd love to just kind of hear a little bit about your, your work and your practice.
+
+Intentional Marketing
+So we are an agency. We are a digital agency. We have under our company kind of four sister companies, uh, for child companies, if you may, but they're all in the sort of digital services digital agency space. So we are a team of about 25. Poor team about eight. The other. 14, 15 are production. So with that core team, there is a lot, a lot of meetings, um, we're fully remote. Um, we are on your space, but we're fully remote. So the, a lot of meetings. So my, so the way I, so here's something that I found difficulty back in August, we had another core team member that joined. And since we are still small companies, so we kind of butch straps or like we all show the same zoom login and the conflict. So we all show the same, you know, paid seat and zoom. And so we have one pit seat and zoom. And then we have, you know, one grain attached. And then we have this new person come in. So I want to allow her into the organization of Grain. But, um, you know, I'm the owner of a partner of another partner. So I still, you know, we want four admin. And then this add the new person joined and she's just a team member. So senior battae member. So I want to allow it to the organization. I got a paid seat. And then it was a mess because as soon as she signed on, he looked like, okay, now I have a choice of which meetings to share with her. Right. But then I didn't realize that all historical meetings don't have that kind of default setting. And so I signed her in and all of a sudden she has access to a full historical meeting. Some of them have a lot of sensitive data or, you know, midic other team members. And that was like, you know, a panic attack. Thank goodness I caught it like within moments. So I quickly kicked it off the plan. Hoping that she hadn't seen anything that she shouldn't see. So I rectify it within five minutes. So that was an initial. But that to me was a gap in the, maybe, you know, in terms of features, like I think there has to be a stronger permission level. Um, like there has to be like that's just so critical. Um, why? Because after that happened. Again, could have reached out to support. You guys are great. Could have, but I was like, forget it. I'm not putting anybody else on my, on my grain. Right. And so a few months later, um, we became more involved with client calls. And I have two additional members from our core team that takes calls. And I really want those calls recorded. And those goals were simply not being recorded because I'm afraid to allow them into migraine environment. And finally, I decided, you know what? I'm going to pay another system and open up. An entirely independent grain account attached to a different email. And now we have like two grand environments. They don't talk to each other. All because I was too afraid to kind of fall into a situation with all. Right. So just, um, again, I'm not a one person team. So I think that as soon as you get into small business of, you know, maybe like one to 11, like two to 11, right? Once you add up that like independent operator, like two to 11 is still, uh, a niche of very small businesses that are still somewhat bootstrapped. Like they're not going to spend a whole lot on software and whatnot. But if something is this critical and useful, yes, we're so happy to spend on it. But then again, commissions are important. So that was like one thing that it was, uh, you know, we had like a challenge. So I want to bring that. Then, um, so how we operate. So we do a lot of internal calls. And in that department, it would be super cool if there could be some AI level that would better organize those calls. Sorry.
+
+Jeff Whitlock
+Tell me more about that. Like what you have in mind there.
+
+Intentional Marketing
+Absolutely. So this is again, this is how we operate. Could be other people have them organized, but we have what we call our Zoom. We have our Zoom room. And Zoom room, I mean, we have a Zoom link that we just, everybody has it kind of tabbed, bookmarked. And if I ever be like, you know, like a quick slack or a quick message, Hey, hop into the Zoom room now, right? So we don't have to like schedule meeting, column meeting. We can just like jump into the Zoom room. And we have our conversation. Those conversations are usually anywhere between five to 20, 25 minutes. And they're very like spontaneous meetings. Right. So those meetings aren't scheduled. And so they don't have a clear title. And it will just be like, right, Jeff, you're a colleague of mine. And we're just like quickly jumped into Zoom room to discuss something. So what happens is because it's on the Zoom that's attached to grain, um, but because it was in a scheduled meeting, if I don't go into Grain to like. You know, toggle this meeting, Hey, record it, you won't record it. So that's the thing. Like it's nice to have like automatically somehow, even if it's not scheduled. Like as soon as the meeting started, right. That's one, two, what I end up with is a bunch of, bunch of meetings that are all titled Zoom room. Then I don't have a way to go back and figure out like who was in that call. Which one of the eight people were there with me? And what was that topic? Right. So I start going through them. So like in my head already, I was like, okay, if you want a meeting to be properly recorded, you have to schedule it and give it a title. But I'm sure that's something that can be implemented, you know, we are kind of AI extraction just to like, you know, put a better title, maybe like a secondary title, a tag which people want it, right? Um, you know, the challenge when you have like multiple people that are joining, um, under the same login. So they're all going to come up is intentional marketing. Right. Hey, some conversation extract the first name, put the names, tag them with names. Right. Um, tag the meeting internal, external. So I could filter by internal meetings, external meetings. So those things could be super useful. Um, that's one. Two would be, um. So those internal meetings that we have, that's, that's my feedback on that external meeting with clients. Um, again, those are consultancy, client success. Sales, you know, any one of those. And again, if there was better playbooks for that, definitely will work on that. That would be awesome. Um, anything else I can share in terms of how we wanted as a company. Well, that gave you a good idea. Yeah.
+
+Jeff Whitlock
+That's really good. By the way, how are you doing on time? I know we scheduled it for just about. Yes apologize.
+
+Intentional Marketing
+Um, I can go till 12 15, if that's okay with you. I'm just going to.
+
+Jeff Whitlock
+Yeah. I'm not sure we'll need all that time. I just wanted to know if you had a hard stop.
+
+Intentional Marketing
+Yeah. Um, then again, a couple of small features that I would just love. In my head this small, maybe they take more than it seems. But if there would be a way to set an image, like upload an image, um, to this little guy on the top, right. Instead of just saying Jeff's rain note taker, again, I think like this is just an enhancement. But what I would probably put here is like some nice company, something, just like an image. I feel like the black is still again that like harsh experience of like, there is a not take around the call. Right. Just an image. Upload an image. Um, again, tiny detail, but I feel like it feels so much nicer. And in an era where, you know, AI bots just joined every call. Like I think that's valuable. Yeah.
+
+Jeff Whitlock
+That's one.
+
+Intentional Marketing
+Two again, I know that's such a small detail, but I know the pretty good kind of, um, SKI questions and a call. But I don't know if that's just me, but I'm the person that very, very, very often goes in and grabs the entire transcript to feed it to the AI that I'm already working with. Right. So this is again, just a little UI thing, but right now what I have to do is I got to go into the call. I got to go into the transcript. And then press the copy button.
+
+Jeff Whitlock
+Yeah.
+
+Intentional Marketing
+It would be super nice if I was a, if there was a button right here, like, you know, some were right here without even having to go like into the three dots, um, you know, maybe right over here, just copy transcript. Because so often it's like all in one is just a full transcript to dump it into my AI of choice. So again, small, but low enhancement. I think those two were like, again, Oh, second. It was another one that I had sometimes. No. I think those two, it's really, I'm so happy. Like this is so clean to me. There's like nothing more than what you really need. Everything that you do need. So, um, maybe I'll, I'll let you ask me any questions. Oh my other big one is, um. I know integration. I know you guys integrate through Zapier, which is really great. Would love if you guys can expand it to some of the other ones. I don't know if that's asking too much. I know there's API access on the more kind of pro levels. But I feel like there is today like, um, make really like other integration that just people use like day to day. And I know that you guys have an API, you know, like a clean API. So, um, I know I approach really, I don't know if you, have you ever heard of relay that app.
+
+Jeff Whitlock
+Uh, yes, I have.
+
+Intentional Marketing
+I always tell them, like, this is like sister technology because they're also clean, concise. Nothing more than you need. Easy, great UI. And I would love to see an integration with them. Again, I'm not that's pushing too far, but, um, to have that integration would be huge. And I think that a lot of, um, people in the very small business sector, especially today, um, these are people that like they, you know, we're output is greater than input or, you know, output is proportionally greater than the investment. Right. So, um, people get really savvy using like AI agents and, you know, like all those automation type of stuff. And so having that ability is also a, um. A really big deal. Like there is so much more that I could do. And right now, um, again, because I don't use APR. So I experimented for a few months using ZPO just for that, but they didn't make sense to use a new tool just to be able to automate transcripts. So now I just like manually go grab a transcript and, you know, feed it, um, just
+
+Jeff Whitlock
+what are you feeding it into? Just out of curiosity when you copy and paste your transcripts.
+
+Intentional Marketing
+Great. So two things I do with it. Number one is we use smart suite. I don't know if you're familiar with that. So smart suite is kind of like an air table. Yeah. Just hero. No. So it's a, it's really a project management slash database. So because our agency, um, has our agency handles, um, like hundreds of accounts. So the ton of data that has to be stored aside from being able to project manage what we do. There's just like it has to be like a huge data storehouse. So smart switch is built sponsored is like an asana monday, um, equivalent, but it's built infrastructure is built as a database first. So it allows you to really design it as a database. And then from there, you can manage everything. So it's very strong. And, um, our smart width is very deeply embedded with many other tools via relay. So what I do now is very often like right after call, I'll go grab the whole transcript and put it into smart suite. So I'll have a field if they think air table have a field called trans. And then I just put the transcript in there and populating the transcript go ahead and triggers everything. But it's, it's, it would be super nice. If that can just be built, you know, in the back end without having to go grab the transcript, that's use case one use case two is, um, I know that's not very fashionable today to still be using chat GPT over clothing and whatnot. But, um, I'm still finding success in that. So what we do a lot of chat GPT and again, CC knows so much about right. So like I'll grab the whole transcript. Do a dump and then base on that. So I'm going to show you real quick. Just. An example. So for example, there's a really long four hour calls that are note, our grain, I'll take your joints instead of us. And this is a client call. Again, four or five hours. And then after the call, I just grabbed that four hour transcript fitted writing to chat GPT where I already have a running prompt as a project. And it will give me this kind of breakdown, which is again, super, super, super, super great. And, um, you know, we shared with our clients automatically, clients love it. So just having like such a clear, um, transcript, being able to fit it into AI. That's a really big power tool for us. And this isn't something that I find myself doing inside of Grain because, um, just the other day, uh, we were interviewing some candidates and my partner interviewed and post interview, you know, aside from seeing two minutes of the person's face, I was curious to know what that person expectation for compensation was. So, um, those are the kinds of things that work really great for me inside of Grain because I just ask, right? S grade, Hey, what's, what's her compensation expectation? And he was able to give it back to me right away. So those kinds of questions are great and great. But if I need like heavy processing, that's when I take the transcript out.
+
+Jeff Whitlock
+That makes sense.
+
+Intentional Marketing
+Um, and this is how I would use it mostly in, um, in, in like if I was to integrate that with Vlay, um, you know, obviously then I can feed the whole transcript into a CRM. But more than that is, and that's why really over Zapier. Really, we have a lot of AI agents running. Right. So I can do like more comprehensive processing of the transcript automatically and then have output that goes into various different, um, you know, software, right? It will update our database. It will send a specific snippet to the client. It will, um, update Google sheet that may fit into something else, you know, endless, limitless.
+
+Jeff Whitlock
+Right. Um, that's so, that's so helpful. That's really helpful. What, what are some other examples of things of like, I love this example you showed me. And actually, are you able to give me like, and if you need to like stop sharing your screen or whatever to like put it somewhere clean, that'd be fine. But would you be able to like give us a prompt you use when you created those notes? I'm just curious about.
+
+Intentional Marketing
+Yeah. Absolutely. Show you. So here's another use case. We onboard properties. So we have one of our companies intent ads. One, uh, Google PPC ads. So we own in the multifamily marketing vertical. So we want multifamily. We want ads for multifamily properties. So when our client on boards, they have the option, Hey, do you want a zero lift set up strategy development or do you want to be involved right? And if they pick zero lift, we have our playbook. If they pick, we want to be involved. We set up a call. And for 30 minutes, very conversational, we talk about, um, what's been working for the property in leasing, what's been not working. Uh, what's been the superpower. Like it's a very, very conversational. And then what we do is we take that entire transcript and, um. And we put it into, uh, writing to a field. It's not visible anymore here because we haven't done it in a little while, but it's called, uh, here, the onboarding transcript. Um, here you could see. So you see it's, it's a, it's a plain dump. It's literally a coffee from green dump into here, but as soon as this is populated, it goes to here. I'll show you the prompt. Wouldn't have much sensitive data. So. No, no issue in the share. We just change it. So I have to see if it's still even here. It might be here. Yeah. Okay. So, okay. So you could see here, um, again, hope this is, uh, you know, a comfortable space to see. But, um, the trigger is when the record first meets the condition, we're on boarding trends. It's not empty. So that means I populate the transcript. And here it goes into this prompt. You are more. So this is like a typical AI prompt, but it's a gendic. It's repeatable. So it's working really smoothly and reliably. You are a multifamily marketing expert to specialize knowledge on how to best present a market property online. Visit the listings page here and he sends them to the actual property listing and the, you know, Zillow co - star and gather. So we get some basic information. And sorry, this is not yet the prompt. Um, so he gets a pricing. He gets this then. It goes. Okay. Here comes the prompt. Act is a Google ads PPC strategies expert. You have deep understanding of what your family listening in the US. You understand different asset classes. Right. You then process transcript. Act is an expert PPC manager. Sorry. It's a bit repetitive, but, um, here.
+
+Jeff Whitlock
+Yeah. This is great. This is so helpful.
+
+Intentional Marketing
+Awesome. Property profile. Analyze the call on create a property profile in a bullet format describe the property field, describe if they offer a community or more of a privacy upside, describe the people on the residence, describe the workspace. Then it goes ahead to create keywords, create ad assets. And here's what I get back in the return. So I get something like that. Property identity. And this is a combination of structure data that is scraped for listing and the conversation. And it's really strong. So it goes through some key metrics about the property. Um, key metrics, geometrics. And then it uses DAI layer to really, um, listen to the call, process a call and start giving me, um, unique differentiators, policy signals, um, trust and credibility signals. We've write like all these different things that really relies on more processing. So those are ways that we use called transcript to like really do meaningful things. And if you're curious to know what happens as a result of that, once this gets populated, the next agent comes in with specifically this. So no prior context to get confused with starts fresh with CSS context. And then actually create all the ad assets. So now our Google ad campaigns go from like generic to like super hyper targeted, right? Like high quality copy based on like the human input that we got from them. And that all starts with that transcript. So it's really got layers following that.
+
+Jeff Whitlock
+Yeah. That is that's so helpful. Very interesting. Um. Do you all use a CRM.
+
+Intentional Marketing
+Um, use HubSpot, but very, very lightly really kind of just as like a backup. So I never have to regret not having one. But we really do everything outside of everything inside of SmartSuite. So kind of any CRM functions such as logging activities, call contacts, deal pipeline, all of that really happens inside of PPC because you could inside of SmartSuite. Again, think air table. It can be configured to act as such because we don't have like a cells organization or, you know, 10, 20 people. This really does work well.
+
+Jeff Whitlock
+Yeah. Um, and then that record you showed me that was like enriched in smart suite. Is that like there to just reference, do you share it with your client? Like how does that fit into your workflow.
+
+Intentional Marketing
+Yeah. So I just want to do one, but we have so many of these type of things going on. Some of them is internal for our team. Some of them go out to the client when it goes out to the client depending on the use case. Um, it may be a report. It may be a launch report which gets again, relay, which thinks Apier handles all of it. So it will actually export it as PDF and then sends an email without attached. Um, you know, maybe we'll just send an email. And this is all going to be the email body. But very versatile from there. Yeah.
+
+Jeff Whitlock
+And then, and then what, oh, sorry. I one more follow up question I was interested in based on what you showed me. Um. Do you ever show the, like you mentioned you create clips sometimes in grain. How do you use the clips? What's the, what's your use case for the clips?
+
+Intentional Marketing
+So the use case of the clip is, um, if it's internal call. So we may have like a 45 minute call and then somewhere during the call, we for five, six minutes discuss something that I wanted to be able to reference later. So after the call, I'll jump, find that chapter, clip it and send it to them. Right. So it's kind of like a little loom. Right? A little like two reference. I don't have to create a loom. We're already discussed it. I showed it to you on the call. Save this. So when you do it next week and you forgot how, you'll reference it. Okay. Got it.
+
+Jeff Whitlock
+Are you ever sharing the recordings with your clients as like a shared repository of all you're doing that. How are you doing that? Are you just doing kind of one off an email or like?
+
+Intentional Marketing
+Yeah. So I, I, I will never set kind of like an evil rule like share with clients because I don't like my notes are auto shared, but I'll go into the meeting, grab the link and just send that link. And again, I just love how the link shows up because I do think that it shows up very clean, you know, for sure comparing it to the other guys. Okay.
+
+Jeff Whitlock
+Great. Uh, I know we just had three more minutes. I'm shifting. I'm taking off my interview hat and I want to just share two things with you if that's okay based on that I might think might be helpful. Um. So it looks like, have you created a team in Grain. It looks like you have, or, or, or, or it was just, you're kind of legacy. So you have a legacy team.
+
+Intentional Marketing
+Is that a newer, is a team and no function.
+
+Jeff Whitlock
+Yeah. So we changed. Let me, I'll just explain it to you. And then if you want to talk more later or if you want like to your point about implementation help, if you want me to help you, um, so we kind of change how Grainward how it used to work is we there was like one workspace and the workspace was just one big bucket. So if anyone like to your experience anyone joined, they got access to that whole repository of calls. That's not how grain works anymore. Basically, how grain works is we have teams. And if people are explicitly invited to a team, they get access to the calls that are shared with that team. But if they are not invited to team, they don't get access to anything.
+
+Intentional Marketing
+So just a final question on that. Because I just added that second seat. Did I say right that team is only available on the business plan.
+
+Jeff Whitlock
+No, it just works for every, uh, if you want to create multiple teams, like if you want, I think we allow one or two free teams on starter or sorry. One or two teams on starter, but then if you want three or more, you get them on the business plan.
+
+Intentional Marketing
+Well, yeah. That was my challenge because again, we are, we are very aspirational and we tried to build a very strong foundation for scale, but we're very small still. You know, with like one mile revenue, right? So and we have a lot of people in organization. So still very small. And so for me, the price from the starter to business, so here's the thing, right? Many of the software, like I mentioned, like we all have a shared seat. Right? Which I know isn't. I know the force says that's a nightmare, right? Like, like you have 10 people on your team. Come on, get them 10 licenses, right? But, uh, he all adds up and we use so many different tools. So we kind of like, you know, in the habit of kind of sharing seats, right? So when I kicked a part that was like, you know what? I'm going to go from one set to three seats. So I wasn't going to jump from 15 to 45. It was always, it was always I'm going to be a jump from 15 to 90. Because now I have to spend the 29 per seat times three. So all of a sudden it's a consideration. It's like, Hey, right. Like do I go from 15 to 90? Nevermind. I'll just stick with a one seat. Now if I could buy swiss, it's a 15, that's only half. Right. So I might make a jump faster. Now the whole point of the whole, to me in my mind, I will not add more seats unless I can have multiple teams or else I'm running into the same issue again.
+
+Jeff Whitlock
+Yeah.
+
+Intentional Marketing
+So it's almost like it's almost like to me teams automatically means you got to move up to business, which is already just a bigger investment. So could we, we're just still so small to consider that. But if we want to kind of have
+
+Jeff Whitlock
+like, if we gave you like two or three teams on starter, would that meet your needs? It probably would. Right.
+
+Intentional Marketing
+And yeah, because again, as small, how many teams am I going to have? So there's going to be. Yeah. I would think so. Because now what I'm doing is I'm paying for two seats and two completely separate organizations. And that's just lousy. Because that means to say that I get a login to another user in order to view team calls. So yeah, essentially, you know, two or three teams would still, you know, would still function well.
+
+Jeff Whitlock
+Okay. Um, the other idea I had was I'm going to send you our MCP quick start guide. I'm not sure if you've heard of MCPs, but it's like, I did.
+
+Intentional Marketing
+So I tried working that.
+
+Jeff Whitlock
+Yeah.
+
+Intentional Marketing
+So is it MCP only working on Claude at the moment. It is.
+
+Jeff Whitlock
+Yeah. It works on ChatGPT, but it's not nearly as good. Claude is like a first class citizen. It's very, very good quality.
+
+Intentional Marketing
+So maybe I have to give it a spin on Claude because I don't use cloth that I know. I'm like, that's so not fashionable not to use clothes right now, but we have so much AI automations running through VALA utilizing cloud that I don't really need to work under. So yeah, so I'm not sure if, um, and I think the API was also only available on the business.
+
+Jeff Whitlock
+We just changed that. You, you now can use the API on starter API.
+
+Intentional Marketing
+Cool. So I'm going to, I'm going to, I've never done the API, but I know that you got very clean documentation cause I did read it. Um, you know, summertime. So I think I'm going to give it a spin and try to get the API and relay because that should be, that should work. That's great news.
+
+Jeff Whitlock
+I think so. But I'm really curious if it doesn't. You should, I would love to know if you run into challenges. Cause we'll try that.
+
+Intentional Marketing
+I'll give it a spin because that will be very big.
+
+Jeff Whitlock
+Okay. Thank you so much. I appreciate the time. Very kind of you.
+
+Intentional Marketing
+Anytime. And you have any follow up questions at all. Feel free to bring me, you know, I'll be responsive an email. I know it took a while together in this school. I apologize. Uh, you deserve. But, uh, you know, you have any follow up questions. You are the team. Very happy to answer.
+
+Jeff Whitlock
+I'm going to connect you with, uh, CSM and we'll give you a like a because of the time and the help. And I don't like the fact that you have three people on seven workspaces. I'm going to give you a complimentary upgrade to business. So you can kind of just get it going. So all right. Thank you so much. We'll see ya.
+
+Intentional Marketing
+Absolutely. Love it. Keep it up. And, uh, wishing you lots of growth.

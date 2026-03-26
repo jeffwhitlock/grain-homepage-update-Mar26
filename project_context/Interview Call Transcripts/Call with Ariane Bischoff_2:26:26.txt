@@ -1,0 +1,279 @@
+Jeff<>Ariane
+
+Date: 2/26/2026, 9:03:53 AM • Duration: 27m
+
+Participants: Jeff Whitlock, A. Bischoff | greeenNXT.eu
+
+Grain URL: https://grain.com/share/recording/9cc32e99-3605-4d53-bd5c-7d6d77a720a8/4PnUDKeydOl7K26jZ6mGY07LtrTGlQpI4QWXcu1X
+
+--- TRANSCRIPT ---
+
+Jeff Whitlock
+And so I was trying to join on the web, but it never gave me the chance to type in the password. So I don't know, I would have had to download the new version of Teams, which I will do, but I just, yeah, I'm just gonna take a minute.
+
+A. Bischoff | greeenNXT.eu
+It was just about to say, ah, funny, the grain working. I'm like, no, it's not funny. It's actually grain grain. Yeah, it's double grains, so to speak. Because I got so used to having grain log into our call.
+
+Jeff Whitlock
+That's awesome. Well, it's good to meet you. Thank you so much for making time. I appreciate it. You're having a good day.
+
+A. Bischoff | greeenNXT.eu
+I'm already done more or less with my day. So at the end of the day, so I'll go for work with the dog and that's about it.
+
+Jeff Whitlock
+Love it. Yeah, I'm just getting started. We're at 9 a. m. over here.
+
+A. Bischoff | greeenNXT.eu
+Yeah, yeah, yeah.
+
+Jeff Whitlock
+Are you in Germany, I suppose.
+
+A. Bischoff | greeenNXT.eu
+I'm in Germany. I'm now in southern Germany, well, compared to the US, that's not a big deal from the distances, but I mean, Southern Germany, close to Stuttgart. If you know where that is about, but normally I'm a bit further north in Düsseldorf, close to Cologne. Yeah. Where you base that, you're based in Utah. Is that right?
+
+Jeff Whitlock
+Correct, yep. I'm based in Utah. Yep.
+
+A. Bischoff | greeenNXT.eu
+I spent six month in Salt Lake when I was at high school. For an exchange student high school.
+
+Jeff Whitlock
+Oh, really? No, that's amazing. Yeah, we had a German exchange growing up in high school too, actually. That's funny, yeah. Yeah, I mean, I'm in a little bit south of Solic, like just in promo.
+
+A. Bischoff | greeenNXT.eu
+Yeah. Oh, nice. So how's it? We have March, but there's no snow left. Slow's gone.
+
+Jeff Whitlock
+Yeah, exactly. It's kind of we're right in between winter and spring. So it's like, it hasn't gotten green yet, but there's no left either.
+
+A. Bischoff | greeenNXT.eu
+I just go back this morning. I was skiing yesterday, so I was in the Alps the last day, basically. A Monday, still snow, but my season is finished now.
+
+Jeff Whitlock
+Beautiful, it's amazing. So I, uh, yeah, I appreciate making time. How much we good to go 15 minutes from now, or do you need?
+
+A. Bischoff | greeenNXT.eu
+I'm fine. If we have 20 minutes, I'm fine for that. So, uh, at half the 5. 30 need to be running.
+
+Jeff Whitlock
+Yeah, we can wrap up, hopefully, about five minutes before that. That'll be great. So I'd love to just, I'd like to just understand a little bit about your work. Like who you serve, what clients you have, what kind of work you do for them.
+
+A. Bischoff | greeenNXT.eu
+We're, we're an architectural firm, and we, but we don't do get my words booked together in English because I haven't explained the process so much in English. So an architectural firm, which is doing planning for refitting serial refitting of, uh, existing buildings. We're looking, we started, we found the company in May, it's going to be two years. We found it, the company three of us. So two architects and me being a business administration person looking at the process. And the interesting part is, um, they have been architects for many years and doing the planning and the architectural process procedure in conventional way. And for the serial refitting, we need to do it in a more scalable way in order to scale with tools and not as typically stand so far at least in Germany, um, by, with people looking at each building individual. So we are looking into serial refitting in the sense that repetitive elements. What are we going to do? What do we do over and over again? In which format. And in that sense, we're looking in all kinds of digital tools to, it's actually the process, more of the process that we had tried to digitalize, to standardize fine tools ways to make it repetitive. Knowing that we will always have individual buildings and needs of those buildings where we cannot define in a classical. We are not a classical startup, which kind of find the product once I fits all for everybody. But finding and grain plays one part in this one first attempt, because a lot of, we have a lot of call with the stakeholders where a lot of details are being discussed like, okay, how are we going to solve this problem? And there is an architectural specialist coming in saying, okay, from an electronic point of view, we have to interfere here and here. And all these, uh, parts are off made in discussions of made in calls, in regular cause, uh, in order to document those calls and have proper protocols and, uh, to do the high end. Project management where we looked into Grain in the sense of reducing the amount of time for the human and the loot to type, to evaluate.
+
+Jeff Whitlock
+Okay. Yeah. That's really helpful. How many clients do typically have at once.
+
+A. Bischoff | greeenNXT.eu
+Uh, in those sessions or typically
+
+Jeff Whitlock
+overall, like in your whole book of business
+
+A. Bischoff | greeenNXT.eu
+as we started a year and a half ago, uh, so we still have one client, two clients. Currently we're talking to two clients.
+
+Jeff Whitlock
+Yeah.
+
+A. Bischoff | greeenNXT.eu
+And then for those clients, when we started process, you have sure fixed meetings every, every other week or every week you have, um, call where. Five, six different disciplines come together. Five, six different people engineers from different disciplines come together. Plus the client.
+
+Jeff Whitlock
+Okay. And then, and then, um, are these typically like more, I think you told me this, but just make sure to understand these typically more like project based engagements or ongoing evergreen relationships.
+
+A. Bischoff | greeenNXT.eu
+Project based.
+
+Jeff Whitlock
+Nice. And then, um, are most of your interactions with your clients over video calls.
+
+A. Bischoff | greeenNXT.eu
+Yeah. There's also the Iron site meetings, of course, because when we go to the buildings and have a look at the buildings, um, but, um, the regular meetings are online meetings.
+
+Jeff Whitlock
+Okay. Um. And then, and then I think you just said this, but I just want to make sure so how like for one client how many meetings per week are usually having with them.
+
+A. Bischoff | greeenNXT.eu
+One client, it's probably every other week. You're not, it's not necessarily every week. It depends on the phase where when it's a very intensive phase at the beginning, it can be that you have different people in our team and in their team that interact, more email, why are, um, project management tools on a daily basis. But these, uh, when it comes to grain, uh, or when it comes to the point where we're looking for a tool that does a proper protocol, then it's probably weekly or bi - weekly. Yeah. And, um, I mean, the reason why we're looking for something is just to give you a feeling, um, today in the past, somebody has, has, and those meetings had two, three hours long. And intensive discussions about details. And then you need to be able, as an architect, you need to be able after four years to go back when somebody tells you, you made a mistake in that building. You need to be going back to those things and say, this is exactly where we discussed this detail. And we agreed upon that.
+
+Jeff Whitlock
+Got it. Okay. So, um, tell me a little bit, like after one of these calls is over, walk me through what typically happens.
+
+A. Bischoff | greeenNXT.eu
+Without grain or with green.
+
+Jeff Whitlock
+With, with green today. Yeah.
+
+A. Bischoff | greeenNXT.eu
+Today we're testing today. I'm testing it in the sense. That I, um, I started testing it in the thing how good, um, the details are registered. The protocol is in the quality, not only in the naming really the details, giving the one - to - one information that has been spoken, but also structuring the protocol and distracting to - dos, et cetera. What we have seen, and I'm quite a maze, I'm quite happy on how it works. Other members in the team have not been so surprised, amazed as I am, but they're, we're hoping to get the existing format of a protocol one - to - one in additional way, which I didn't expect because I mean, obviously, the one that you create by hand is not going to come out of a machine just by pushing a button. But the point where I understand there wishes and their hopes is, um, those protocols are, um. How do you say that.
+
+Jeff Whitlock
+You're doing great on the English, by the way.
+
+A. Bischoff | greeenNXT.eu
+Thanks very nice. Let's do a little bit of the word. Protocol basically, a rolling protocol. So you pick it up two weeks afterwards and you still, you look in, okay, last time we talked about X, Y, Z. And now give me heads up where are you, uh, and has that been completed? Is there any difficulties? Does anything need to be changed? It's a bit like in the coding, I guess, in the same way where you look at, and certain things I've finished and completed, um, they go out there, rolling protocol, but still are documented. This is where, this is where today, with the way we use grain, we don't have that. You know, you have one protocol and then you have to compare to the one from two weeks ago. And you have manually to put them on top of each other and see, and you copy paste what has been added to the same point A.
+
+Jeff Whitlock
+Interesting. So you, it's like the ideally what you would like is because sometimes details from the first meeting get changed in the second meeting. I think it more clarity or some research. And so what you would like ideally is like an ongoing document that kind of captures the current state of things after many, multiple meetings. Is that kind of?
+
+A. Bischoff | greeenNXT.eu
+Yeah, exactly. We have another tool. There's another tool which I'm thinking of testing where they say, um, this tool understands where, um, in the last meeting, you left off with a topic A, B, C, D. And D is completed A, B, and C, there is a deadline and the person who's going to work on it. And, uh, the tool offers me an agenda for the next call out of that protocol, agenda is going to be automatically generated for the next call. And from the agenda, you have a protocol where it says, okay, two weeks ago, we spoke about AYZ. And today the update to that point is. ABC.
+
+Jeff Whitlock
+Makes sense. What tools that I just had curiosity.
+
+A. Bischoff | greeenNXT.eu
+I was, uh, I feared you were asking that. And it's, Oh, it's called Baumaster.
+
+Jeff Whitlock
+Oh, master.
+
+A. Bischoff | greeenNXT.eu
+Okay. But it's from the name I will be. I type it in. Put it in the chat. It's a, um, a full project management tool. And the other one bell master and the other one is, I don't remember. Maybe I recall it later. Then I let you know.
+
+Jeff Whitlock
+Okay. Amazing. Um. So apart from that, uh, what, what would you say is the hardest part about, um. Run, running your practice.
+
+A. Bischoff | greeenNXT.eu
+It's fine. One colleague she mentioned, she takes four hours for a protocol. And that's where I figured four hours. This is, we're not getting paid for writing protocols as architects. This is just the overhead work, which is way too, um, time intensive. And on the time is one thing. But also mistakes happen. And, um, if I have a tool that, um, reduces the time but allows me also to. After a long meeting, if you had a meeting, they have meetings sometimes two, three hours. I mean, you're tired blah, blah, blah. And, uh, if you have then a protocol that you can read through and just correct and add and run over, that's much more efficient in the chance of correcting or wrong protocol is higher than me sitting down and writing a protocol and then have a drawn. So it's just a matter, it's an amount of time reduction, but also, uh, also then, um, we have here in Germany. A challenge of finding employees. So we also work with employees who, whom, who don't speak super German, we're not, uh, mother talent Chorman and still have to sit in German meetings. And. For them, it's not possible to write protocol.
+
+Jeff Whitlock
+Interesting. And tell me a little bit.
+
+A. Bischoff | greeenNXT.eu
+Or easily take notes, you know, but if you have something, then I don't, then I don't have to rely it so much on people who have a very, um, higher know - how of understanding what was being discussed. I guess, I mean, are you encoding, do you for grant you, do you quote yourself.
+
+Jeff Whitlock
+Um, I am not the engineer. No. I do, uh, I'm slightly technical, but, uh, but I'm, I'm the CEO actually. So I don't, well, we have a lot of engineers on the team. You know
+
+A. Bischoff | greeenNXT.eu
+what I mean? When you have as a non engineered sitting in an engineering, uh, meeting and you hear, you somewhat think you understand what they're talking about, but you don't grasp what is really in detail what they're talking about. That's the same thing that we are having, uh, on an architectural level, uh, talking about buildings. Even if the person is a, we have now a young person from Turkey. He's a good architect. He has everything that it takes. But discussions are in German. So, um, if he has a protocol that runs and he can translate it easily or he can go back and say, I didn't guess what they're talking about, but now I can read slowly and understand, okay. Yep. So I guess me a bit more flexibility to work with. Yeah. Uh, I don't have to hopefully don't need a person with high know - how and how German skills.
+
+Jeff Whitlock
+Is, can you just so I can understand, can you say a little bit more about like what a protocol is? It's a protocol essentially like the requirements of the project or is it.
+
+A. Bischoff | greeenNXT.eu
+Actually, it's a good point. It's a part. When I talk or a protocol, I mean minutes, it's a meeting minute.
+
+Jeff Whitlock
+Like the in - depth minutes. Got it.
+
+A. Bischoff | greeenNXT.eu
+Okay. Yeah. And it's, it's really the minutes are in the minutes in these discussions. They have, they talk about details. Like the roof hits the wall here. So how are we going to solve that where's the screw sitting, et cetera, et cetera. So it needs to be, you need to write it down. It's not on a high level. We talked about the roof that's hitting wall.
+
+Jeff Whitlock
+Something else like highly detailed information that is fire like important to successful completion of the project. So
+
+A. Bischoff | greeenNXT.eu
+that's why I can sit down and design it and draw it.
+
+Jeff Whitlock
+Right? Yeah. So then, so then when you were just to make sure I understand when you were using the word protocol, basically what you were saying, it's almost like you want not, you want like real time project level minutes, not like meeting by meaning.
+
+A. Bischoff | greeenNXT.eu
+I need, yes. I need somebody who writes rights takes the minutes as they were said. Yeah. And, uh, but you have somebody who writes word by word. That doesn't help you neither because then you have just too much and unstructured stuff. So from what I see in Grain is working well, the understanding is coming across. And it's the tonality is also coming across. And, uh, what was said is written down in a sense that I can remember, yes, that was said like that, but it's not, um. It's well structured. So that it comes across as a, as a, as a one - to - one minute. But still structured. Is that going to say that one? You know what I mean?
+
+Jeff Whitlock
+But you're saying, but the gap is or the thing that could be better is something that compares across meetings to give you like a current status of all the information. Need
+
+A. Bischoff | greeenNXT.eu
+that. We need, we literally need that. We have to, because what, what the, when somebody does the minutes in manually, he goes back in the minutes from the last time and writes in those minutes.
+
+Jeff Whitlock
+Yeah. That makes sense. That makes sense. Um, is there anything else that like, as you've used Grain, you're thinking it would be extraordinarily helpful if Grain could do for you.
+
+A. Bischoff | greeenNXT.eu
+Um, we, um, this is maybe our particular situation. I'm not sure if it's helpful for everybody, but, uh, as I mentioned before, you have, for instance, tasks or topics, um, that you have a column where it's clear with a deadline and a column where, um, with a name who's taken care of that.
+
+Jeff Whitlock
+Yep.
+
+A. Bischoff | greeenNXT.eu
+It's, it doesn't need to be like a table, but
+
+Jeff Whitlock
+it needs like structured action items essentially across calls. You're talking about action items. Like who, who's supposed to do what.
+
+A. Bischoff | greeenNXT.eu
+And the deadline. Yeah. And the deadlines and, uh, who's there? Yeah. And so that a destruction that you always, you always know, okay, if I'm looking, who's working on that, I can, I see it. It's in the right hand side, for instance, the, or I don't have to read through the text to find the deadlines. It's deadline is also always. I
+
+Jeff Whitlock
+see. Um. Interesting. Yeah. I should follow up with you. We're about to release. Action items that are more structured. Um, I'd be curious, it doesn't have deadlines though. So I'd be curious, uh, anyway, I'd be curious to hear your feedback after we would launch this new feature.
+
+A. Bischoff | greeenNXT.eu
+It's for us deadlines is important. We have a on a legal level because we have to prove that we have been, we are within a deadline.
+
+Jeff Whitlock
+Yeah. That makes sense.
+
+A. Bischoff | greeenNXT.eu
+That we keep, uh, the buildings planning schedule.
+
+Jeff Whitlock
+Yeah. Okay. Makes a lot of sense.
+
+A. Bischoff | greeenNXT.eu
+We signed for that.
+
+Jeff Whitlock
+For the deadlines.
+
+A. Bischoff | greeenNXT.eu
+We, we signed for that, that we achieved the deadlines. And sometimes we're lucky. It's not our case, but in other circumstances, you sign that if you don't meet the deadlines, there's a certain PFE penalty due to pay. So it's, and it's, um, it's also a liability problem because if we're in the buildings and a construction field and the construction field, the margins are so thin that people try to, you know, blame each other. You made the mistake and I'm not responsible for that. So you have to be able to prove that within a certain, uh, you met the required actions that they were occult, the action were complete. And within time limit. And it needs to be documented in a sense that a court, for instance, says, Oh, I can see that's not on a high meta level description. Like we, we work 20 hours on planning. No, you need to be able to describe. We did this and that.
+
+Jeff Whitlock
+Okay. Okay. I dig it. Um. Uh, the other thing that you have, okay, so we have two, two more minutes. Is that okay? Or should we do any? Okay, cool. I'm curious. Do you have like a CRM? Do you some kind of tool that tracks your relationship with your customer.
+
+A. Bischoff | greeenNXT.eu
+Like your leads and we're too small for that. We're three founders in one employee. Um, we're using outlook. I'm using Outlook and I'm very well and yeah. Okay. Where thorough in setting up a contact and writing in the notes, the first last content was XY then. But it's me. And we are, uh, in the CRM and in the sales procedure. It would be overload. The architect think differently anywhere. They don't see the sales process per se. As you and I see it and do it, uh, so CRM. Is, and the so many two of them are available.
+
+Jeff Whitlock
+Okay. I love it. And then last question I have for you is, um. Is there like. I guess it's kind of a two part questions. Like how, how do you, are you part of any like communities of practice or, um, or other specific communities to the type of work you do that where you hear about tools like Grain or share about tools like Grain?
+
+A. Bischoff | greeenNXT.eu
+Um. I am part of an org and association where I could where I could dig in and ask for why I haven't done that. What we did is we, we, uh, where that network I got Kanta, I got a person who is into AI, a young guy who wants to set up his business, et cetera. And, uh, because we don't have the time. I don't know how to go. We need to digitalize our processes more and more. And AI is a big topic, of course. And he's going down that road. And he was actually the one who re - identified with him in workshops, what are our pain points and they're taking minutes was one pain point. And he pointed out Grain. But now that I have you on the, on the phone that's actually a good point. We had the biggest part is, um, GPDR, what we are, can we rely, can we should be sure that the daters are safe and the data handling is according to the requirements of DHGPDR.
+
+Jeff Whitlock
+Yes. Yes. We, uh, we take that to the utmost department. We're, we're soft to compliant and we're GDPR. Sorry. We're just talk to certified and our GDPR compliant. We are working on like an official GDPR certification, but we understand the rules and we are compliant with them.
+
+A. Bischoff | greeenNXT.eu
+Okay. Okay. That's important because for especially Germany. Yeah. You have to clients ask for that. And their clients want to, uh, we had my, one of my co - founders, he had a, he has a friend who's architect and he lost a job because he uses a tool that's not GPDR. Conform, which I find. It's a bit intense, but on the other side, we're talking about, um, we're talking also, um, we're having a quotations out for governmental institutions. And there they have to record, they have to ask it. And there you have to be able to prove it.
+
+Jeff Whitlock
+Yeah. That makes sense. Yeah. We, we regularly, um, for bigger customers, like we, cause we have a sales team. We really fill out very long security questionnaires and past their security screen reviews for a very large company. Like, you know, PWC price water house coopers. They're one of our clients. So.
+
+A. Bischoff | greeenNXT.eu
+That's a difference. That's a different scale from where
+
+Jeff Whitlock
+we just served one of their teams, but, uh, but, um, but we actually are a more focused on smaller scale companies. They just had someone who really liked our products better than the, but then the other options. And so they're, they kind of, we're going to do this. So, but they, we don't usually sell to big companies like that, but we did pass their security review process.
+
+A. Bischoff | greeenNXT.eu
+That's good.
+
+Jeff Whitlock
+And Adobe. So we have some really big like very high security process compliance that we're hand.
+
+A. Bischoff | greeenNXT.eu
+Thank you. Good run. It was lovely meeting you and, uh, we, we are still working with the freeware. So to be seen whether we sign on, but it's always money thing with young, small company.
+
+Jeff Whitlock
+Yeah. If you know, let us know. This count would help as you're trying to make a decision. You can
+
+A. Bischoff | greeenNXT.eu
+just say, any help, we start up, uh, and we're not, we don't sit in Silicon Valley.
+
+Jeff Whitlock
+Oh, I understand. I totally understand. So yeah, I mean, if you, if you decide like, Hey, we want to, you know, we're done trying. We want to use this. Just let me know. And I can, I can have a discount applied for you.
+
+A. Bischoff | greeenNXT.eu
+Super. I'll let you know.
+
+Jeff Whitlock
+Okay. Thank you.
+
+A. Bischoff | greeenNXT.eu
+Thank you, Jeff. Have a good one. Bye bye. Ciao.

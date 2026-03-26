@@ -1,0 +1,435 @@
+Strategy Session
+
+Date: 3/16/2026, 4:01:54 PM • Duration: 1h 8m
+
+Participants: Speaker 1, Speaker 2, Speaker 3, Speaker 5, Speaker 6, Speaker 7, Speaker 8, Speaker 9
+
+Grain URL: https://grain-staging.co/note/c82e9389-492b-4e61-8171-5e2c742cccf7/QzFPqB4OJM4ERgC8E00I0MkmmT8epPls2Dl6svsn
+
+--- TRANSCRIPT ---
+
+Speaker 1
+Hey. How's it going? I'm I'm knee deep in clock code, man. Right. Nice. And you you locally, are you doing it on a at cloud I I don't know the answer. I use a cloud app.
+
+Speaker 2
+In the cloud app. Well, actually, both.
+
+Speaker 1
+Nice. Nice. Cool. Cool. By think the IDs are just better. Yeah. Yeah. Yeah.
+
+Speaker 2
+It's having me do a lot of stuff in the terminal.
+
+Speaker 1
+But What do work on?
+
+Speaker 2
+I'm trying to automate keeping our documentation up to date. So whenever project goes to active, it creates, like, the Slack, and it when it is completed, it moves it to archive. For Notion Slack, everything, like, connected to linear. That we're not I I that just takes up a lot of my time and mental energy just keeping everything organized. So making it I like it.
+
+Speaker 1
+Yeah. That's the one I would say that. Is anything you're doing? You know, you know, more like Yep.
+
+Speaker 2
+I have, like, 10 workflows that I've listed out that I'm working through.
+
+Speaker 1
+So Nice. Nice. Yeah. Well, I see someone who is this this doc. Let's take a minute. I need to read it again. Yeah. And it's not gonna automatically change, but it might give us a really good comment on it. It's just kind of his in scenes areas that I could perform around how we plan to sequence it. Deprecating features. There's, like, what it really means for the credit to shift off to all the managers. Yes. Yep. It's a group of reading them. This time as you're it. So so I I I I the link in slash lab. Sorry. Mike Mike.
+
+Speaker 3
+I assume you weren't waiting on me. It's wrapping up an email. But if you were, then apologies. Yeah.
+
+Speaker 1
+We're not we're not Just reasonably long time to come in. Oh, I I sent you to just channel. Okay. Thank you.
+
+Speaker 3
+Great. Thank you.
+
+Speaker 1
+Yeah. It's one more in here. Super, super hot.
+
+Speaker 3
+It's really cold earlier.
+
+Speaker 5
+Just didn't get It's very it's very stressful.
+
+Speaker 3
+It's, like, super hot in some color right now. Heat wave.
+
+Speaker 1
+It's coming our way. Yeah. It is. Like, 80 this weekend. Oh, oh my goodness. 87 degrees? I'm supposed to go hiking in Zion. Sixty five. Six tomorrow. Really? Toast toasty. I can see people were way way down. Moments. K. How much how much return do we want? Okay. Okay. Awesome. Awesome. So I wanna first first part of this conversation, especially I'd to keep in mind that that message I I sent out, like, ding ding. Degenerative really long on. And or or at least clarifying Not necessarily, like, Not necessarily, like focusing and narrowing deciding deciding as well. Make surely for the first conversation Yeah. Yeah. We'll all we'll do that bit too. Okay? Like, what what what sounds sounds most most important in any major trades here is more Overall, I really like it.
+
+Speaker 2
+I think it's it's feels good. Like, I, like, I don't know It feels like a forefront thought instead of a reactive thought. Exercise, which I really enjoy. And and I think it would be good for us to head towards. I have questions about application, like, think Jake and I were both, like, the role of video, you know, like, just based on our our conversations with users and a lot of our customers being like, do you don't prioritize video, I'm out, you know, kind of a thing. So I I have questions around that. Like, that that it's text primary text. And, also, I've just noticed in a couple of iterations of this, that I the language keeps biasing for external related projects, so external partnerships, external clients. Like, that kind of a thing. And I think that's a limiting mindset where I think projects can also be internal. Like, with know, like, we have eight projects running, and I want you know, a project for each of those to kinda help me stay up to date with what we're doing and to plug those projects in to into AI to be able to, like, automate what you know, like, decision logs from all of those meetings and action items and all that kind of And so I still feel a lot of power there. As well for the internal users, and I want us to overindex or overbias on external projects.
+
+Speaker 1
+Yeah. Yeah. I mean, those are great those are those are great call outs. Wanted to lag the the the video one is when we come back to you a little bit later as a set of discussion. I think I think the internal point is is is probably a little bit of a but I agree with you that we need to have that strong bias. There he is. Important because if if if the longer play is to be a CRM, then by necessity bias. But it does But it doesn't necessarily need be able to bias especially more you want. It can be kinda like any any work you're doing from meetings could could be facilitated. Yeah.
+
+Speaker 6
+Think that's that's really, really wide Yeah. Yeah.
+
+Speaker 1
+You know, you know, you have to couple on the left.
+
+Speaker 6
+Founders, if you've literally now, like, a project that's first first feels like, like, I can't I'm a person person who would've lost this. You know? It's like like, it just lot and lot and lot of those youngys will It's true. It's true. Yeah. Yeah. As I said, there's definitely some stuff, like, but, like, it just feels like have a lot heal heal. And I think that's a little bit of a concern too. Just like losing ourselves in the general aspect aspect. Where where are we too wide into too too the voice comes comfortable to to expand what we don't find that that narrowed it down to unlock the CRM. For for a certain persona. I think I think could be too could get too. I'm gonna especially if we do that really really positive perception from one one And then we can get to other v two is kind of like play. But I do I do have the concern, like, lose ourselves a little bit in in the in in the still being too many related features. Or you're like, like, I I So that's kind of one one, like, to leave a one you call up to the field of, like, Sales head ministers are the first to ask. I think and I think what I what I've also talked about, how the cost cars runs we that we've watched through selected by any paid. You know, know, product product and advertisers wanna price last half as well. Well, you know, Yeah. And I think that's also a little bit a little bit of concern is that if you were to general us, we're like you become generalist, you'll hear a lot of lot of people Oh, oh, we really want Mhmm. And so I want I want him I guess as the part of a lot of value out there is that we are kinda trying to focus, but I wanna make sure that by is defined enough that we don't lose that we don't hold enough Tow to feature requests. And and part of the is, like, like, kind of feels a little bit mushwasher here. Around around, like, Will I be able to tell some of the hospital? Oh, no. No. We have that. We know we know it's not.
+
+Speaker 1
+The ICP.
+
+Speaker 6
+It feels it feels like it just a lot of things. With this with this vision a little bit. So hold on.
+
+Speaker 1
+Yeah. Yeah. I wanna still be a little more clear on that different specially versions. I do I do think I do think that, like and maybe I just need to make it more clear, but they're clear thing here is we're actually the integrations that matter are the agents. Mhmm. They're not they're not in this approach. They're not the system records or other tools.
+
+Speaker 6
+Interesting. That is the focus. Can you can you I'll understand that. Like like, entire learning.
+
+Speaker 1
+Yeah. Yeah.
+
+Speaker 6
+Because maybe I don't get out of like, the with that with the tool. But I guess, I guess, the the vision vision is that a a user mandate what it put it. In is it both is our concern or, like, you give them the ability to to take it to the AI?
+
+Speaker 1
+Right now, at least you should read the one that says in the the brief that says enrich the transcript downloads same and transcript That's that's the that's the one that talks about how to how to do that. I can play and play. Like, that's what I said on the bottom of the doc, like, we need to watch it all since Sure. Sure. This is just changing.
+
+Speaker 5
+Right now.
+
+Speaker 1
+Right now, the ways of doing it are a little bit in some ways, but, you know, download download markdown files, download markdown files, open login links that point into the agent directly to in a readable link get all the context. But that could that could that could change, right, if they have more kind of OAuth type of integrations that they ever offer those. So we just wanna watch those But we always we always wanna be on the forefront. That's what that's, really what the local local is another one. Like, because you'll see the live based collaboration by the one that and I'm isn't isn't that talking about is kinda not, like, we're gonna immediately build, but maybe we'll build as we start our how these things develop. But that's the this this type of focus would be, like, we're always on the on the front end of you know, like, in integrating with these AI tools. Yeah. Yeah. So so, you know, the next time, know, using the as an example, well, like, the next time there's a n c MCP, where's the first one to ship it instead of the seven. Yeah.
+
+Speaker 5
+Yeah.
+
+Speaker 1
+You're always always trying to push the of of how you use your data and data into tools. The one on one counterexample for that that is it was down the road. It'd be it'd be after probably after the CRM. Line. Then that I put in the dock would be potentially potentially pulling in emails and then the project context. It's it's like a source like Meetings. Meetings and emails are, like, oftentimes source records, projects.
+
+Speaker 6
+Yeah. Yeah.
+
+Speaker 1
+Meetings, meetings, email, Slack.
+
+Speaker 7
+Yeah. Yeah.
+
+Speaker 6
+So you're talking about something like that. Saying meetings or conversation conversation publication, like Mike.
+
+Speaker 1
+Like what Mike commented. But it's it's not a 100% true. Going to like, through more than more Yeah. Yeah. If you know what's going then that makes sense. Context tech push got plugged into. People did, like, power the vision, power the vision. Yeah. I think I think I think the intention here would be that you're able to get enough momentum from some of some of these earlier wins that gives you conviction to then invest Yes. Yeah. Exactly. Money money and conviction to because if that's all our flyers, like, if we want any any of that, then we would push this different in a different direction. I'm using some things. I agree that it's not great. For not required.
+
+Speaker 6
+Yes.
+
+Speaker 1
+100%. Yes. A 100%. Yes. Like, for a long of where that I wonder where that layer is gonna live
+
+Speaker 8
+They want to hook their email into claims so that they can have it the projects, or they want the Grain the Grain presentation or projects that are agents so that their agent can be I'm not sure if there's a world where to to come.
+
+Speaker 1
+I mean, the Ryan was saying? Give me one give me one second. Let me connect to you. For some reason, my computer is not on this little talk. So it's hard to hear you. Give me one second. Okay. She now. She should good now, Mike.
+
+Speaker 8
+Yeah.
+
+Speaker 6
+I think there's a subtle difference between what's we're servicing between project a granding project like unstructured.
+
+Speaker 3
+Unstructured house house house house final housing mining housing and project project aware aware if it makes sense.
+
+Speaker 1
+It sense. It's
+
+Speaker 3
+we understand them to train their models when it's generating this longitudinal context. To identify and think about things in the context of projects or accounts Those are really the two, like, relationships. One is time bounded and the other is not. One is about a specific, you know, outcome. The other is about you know, the legal state of a relationship, But I think that that's there's a there's a difference between those two and reading your doc made me realize that I've been kinda thinking about context to like, project aware and relationship aware as opposed to, like, project relationship owning or defining or or being managed inside of Grain The the latter obviously has advantages in that it can be you know, more fine tuned. But I think my concern with the latter is that it feels like a yet another, like, heavy construct that needs to be defined and managed in in that I think when you take that, transition to CRM, kinda by definition, you're you're making that jump to being the place system of record where the relationship is managed But the project piece feels like that's kind of in front of it. It feels similar orthogonal in that I think that you can be project and relationship aware with the more important piece, which is this, kinda learning imaging, longitudinal view of my my conversations. That enriches the right amounts and the right background and history when I when I access that repository of information, but doesn't necessarily have to be yet another construct where I, like, manage them. So just curious if you have any any thoughts on that.
+
+Speaker 1
+Yeah. I think, yeah, I think that's a really I think that's a good distinction. Mike, could you just quick just quick follow-up on that? Was like, what what in your mind kinda crosses the line line between, like, being project aware and augmenting versus housed and owning.
+
+Speaker 3
+I think that the model that agents are using just memory dot markdown, In my cloud files, in my cloud projects, it's, like, at the global level, it's, a hidden file, but anytime I'm, you know, starting a cloud session, contributes to this kind of background memory. And it's there, and it makes my work better and smarter, but I don't have to manage it. And it's the same thing with ChatGPT and memories. That is context aware. That is, I think, how agents are increasingly you know, getting more and more and that improves the quality of quality of agentic outputs. Agentic outputs is a this is a, like, UI slash CRM where I go and I would actually like manage that relationship and type into a text field.
+
+Speaker 1
+Makes sense sense. Like, how we are in Workspace, so Workspace Aware.
+
+Speaker 3
+You go and do some research up and and and that I know just to who you are and what you do. I have leverage and and inject that into our prompts based on what we know about you and your base. But we don't, like, expect you to, like, manage the definition of your workspace in Grain.
+
+Speaker 1
+Yeah. Yeah.
+
+Speaker 3
+I guess the the the the trade off is is there a place to manage it? Or more so, am I expected to manage that? I don't think it's a problem if there's a place for it. Long as it's, like, Yeah.
+
+Speaker 1
+Yeah.
+
+Speaker 3
+That's where our data in the background and you maybe it can be configurable if you really want to Sorry to keep Sorry. Yeah. You don't have to, like, do data entry in a new system to get the benefit from it. That's my biggest concern. Yeah. I think kind of projects related is, like, the entry store generated from the is in your calendar and the information we already have, and you know, it's a very different beast than a new construct.
+
+Speaker 8
+Grain. And you manage it in Grain.
+
+Speaker 2
+I think this is also so as I was reading through, like, I have high confidence in the value of providing that context for people and making that context usable based on the data that we have. I have, like, 10% confidence that we would ever become a CRM for for people, like an actual CRM. Like, I I see that as, like, an interesting for us to explore, but so many things would have to be true for us to get there. That don't know. I just I like thinking about the value about more like how we make their information usable, how we make their information contextual. Like, how we make their lives easier without having to keep another thing up today. Without having to keep another thing up today.
+
+Speaker 8
+I agree. I I maybe put I agree.
+
+Speaker 3
+But I think that if you project out, like, five I totally agree in the near term, Taylor. 100%. Yeah. And that's why I like to putting it on there is that if you think about how the CRM became the CRM, it was manual data entry. And then it became forms. And forms forms forms forms forms. Like, increasingly, especially as more and more data is being you know, managed and and connected, there's there's two jobs. You're either creating a relationship or you're augmenting an existing and that relationship may exist in some other place. Where it's being defined you know, for the first time here. But my point is that it's kind of like it's this organic generation in the same way that the it's a structured relationships that can be you know, extracted and pulled out systematically using large language models and transcripts in a in a similar way of how CRMs got populated before by people filling out forms. And so maybe that's silly because everyone will still just be filling out forms and we'll still just be filling out forms and and and meetings will always be on the backside of that. But that that's kinda my one caveat.
+
+Speaker 1
+Michael, I think that's a really good question. As we're as we're as we're doing the design design work on projects to ensure that it's not something that you have to manage to get the value out. It's not more work on work.
+
+Speaker 2
+Yes, please. Yes.
+
+Speaker 1
+Something that I it's it's something that we build we build the context and naturally as you have the meetings. And if you want to, I think we think we probably will start with them. I really like I really really wanna replace the playless job projects. A lot of reasons. So I think so I think I think, like, in the beginning, beginning, I think it's kind of readily lightweight UI It's just like a list of meetings that effectively, like, a better layout layout of playlists. And But we can but we can be very but I maybe it's not even required to, but it'd be, like, fully created the line before we start doing some of that. Augmentation in how in how we associate meetings in our in our in our markdown files and in our links.
+
+Speaker 3
+Sorry. Sorry. You just mentioned projects in the context of, like, designs and being and work and worked upon. Thought we were kinda still, like, you know, possibility lands. So around projects? Is project spend prioritized on a road map to be No. No.
+
+Speaker 8
+No. No. No. Hasn't. Nothing else.
+
+Speaker 1
+Cool.
+
+Speaker 3
+I was I was treating into that then.
+
+Speaker 1
+No. We are we were just I mean, we we had just because it's kinda had had hot conversation or anything on on the whiteboard, but we have not. And we talked we talked about it a little bit. Different different options, obviously. To from this strategy doc, and we could find it about it a little bit. Is just such a such a concept as new strategy. Oh, yeah. And always have that.
+
+Speaker 3
+But but it's especially, especially now. Those ones just are, like, working? Topical groupings. You know? Like Exactly. Exactly. That are related together. You got a back to more to, like, auto tags and these types of things just don't in a way that is mean, the top level tags are based to data entry, you know, constructs of relationship and projects. So just organize things organically, how they would expect them to be organized based on the contextual awareness of something that's, like, sitting in all your meetings acting like a human being and following best practices around information management. That's basically what we're talking about here. Think we're all the same page. Yep.
+
+Speaker 5
+Yep.
+
+Speaker 1
+What else what else what I was I really I think I was really on the projects that they'll incorporate. To to make to make clear and And it's helpful. A bit.
+
+Speaker 3
+And and it's similar to, like, meeting types. Like, meeting types is another one of these primitives. It's, like, but we struggled on that. Like, I still I still feel like that was meeting types is such a good solution to the the most upstream representation of a lot of automation rules and these other things and you know, it's about a year ago. I'm just bringing out meeting types because it feels very similar to these in that. Kind of a taxonomy of them and we wanted them to be. And then in practice, we we we didn't feel enough confidence to to move forward with it and stuck with heuristic of internal external, and and granted, there's, you know, a a bit of a difference there between say, something like a playlist or relationship versus a meeting type that's dictating the actual, like, access controls. Which is, I think, where we actually you know, pulled back from. But Yeah.
+
+Speaker 8
+I yeah.
+
+Speaker 1
+I think the reason the reason I really I feel a lot more confident is is in I tried doing doing it because with projects, it's not just a one shot. And you and you also have a lot of data that you can work for. So, like, you know, so it's like if two conversations are somewhat related, and you're there with the same group of people or some, you know, you know, it sits. It's it's I think I think it's gonna be very easy easier to of assume that part of the state project. And even if you're wrong, the consequence is quite minimal.
+
+Speaker 5
+Mhmm.
+
+Speaker 1
+So I feel I feel I feel pretty confident we can do it intelligently and be and be right enough at the time to be quite useful. And not and not obnoxious. And then we can always have we always have, like, just rising rising on this. I always have like, brain is more smart to try to, like, modify projects as we're happening and with them, like, bringing bringing that content spread. I like the user could always be already already set based on the rules or correct us and and, like and let me know this isn't, like, 95% written. Let me just edit this so that it is a 100% right.
+
+Speaker 3
+Yeah. I think one thing that also serves us is that I'm on I'm on in line with all of these things, like, that enrichment augmentation, just the raw. I think there's it's way more the the way higher emphasis and importance on the the pipelining and accessing and the surfacing to discovery of that pipeline and the positioning around being a a method of triggering this work and and and and getting this data into these destinations where you want it is, like, exponentially more important. In terms of the priorities.
+
+Speaker 1
+Yes. Yes.
+
+Speaker 3
+And and everything we're talking about right now is, like, in, like, enrichment territory. Versus, like, critical path territory.
+
+Speaker 5
+It's good. It's good.
+
+Speaker 1
+On the Mike, Mike, could you the last when you open the last part of that, said so I just wanna make sure I understood exactly what you're making.
+
+Speaker 3
+But but we we haven't we activation and discover like, the discovery problem, not not positioning. On the home page around the benefit of what I get that I want based on the fact that it's 2020 and not 2025. Nobody wants freaking notes anymore. Everybody wants to be feeding into their agents. This is the the know, meeting capture for agents. Like, that is not on our home page. Should be as soon as humanly possible. Every day that it's not, it it's it's we're in the wrong position. And then it's actually delivering on that to where there's an entire pipeline of things that are on the critical path of delivering on that value, which is you know, capturing in the method that people want in 2026, which is why we have the desktop stuff. Like, building a coherent experience around that to where then as part of that critical path, a part of that, like, experience, you're the the the hook, the bait that's sitting on the end of the hook that's on the on the home page is the thing I want, which is my meetings out of Grain Yeah.
+
+Speaker 1
+Yeah.
+
+Speaker 3
+In treating Grain as a mid meet meet as the middleware, which is which is fine. And and and then we have kind of, like, subpositions around a lot of this other stuff around built for agents or enriching agents so that gets smarter or whatever these kind of, like, improvement things are that make it a little bit more differentiated. But right now, you're because I don't know anybody that's really positioning that way, even though we've had evidence for years that that's what everybody wants That's the only way I ever use Grain anymore. And I use it all day every day, mostly via the MCP. And sometimes the API. But, like, that is what I'm talking about is that kind of, like, holistic position to get the whole workflow the work workflow value change chain delivered at in completeness as soon as possible as part of a a sign up flow, and then it becomes more enriched with, you know, context of memory and and relationships and that kind of stuff. That's what I was trying to say. Yeah. Yeah. So all of this is, like, secondary. The other stuff is the core value capture and and delivery value workflows data flow changes is primary.
+
+Speaker 5
+Yep.
+
+Speaker 1
+100% with you there. Anyone anyone one other one thoughts or things things stood out?
+
+Speaker 8
+I couldn't where and how we need to understand anything on the Internet without, like, connecting the projects. Interface. It's like, if we if we just say, copy the transcript and then the quality is, like, in relationships and stuff like that. I don't know if that's there. I know if that's something and that's not, like, correct too. Like, are making the correct assumptions on those enrichments. That's the question. You know, as much that Yeah. I know you're asking for, like, more convergence.
+
+Speaker 5
+Sorry.
+
+Speaker 8
+But that's one of questions I have. Yeah. Yeah.
+
+Speaker 5
+I mean, that's good one. I think that's, the main link is
+
+Speaker 1
+think I think it gets it's something that you know, like, follow that you wanna kinda get you some sense scope.
+
+Speaker 6
+The universe You call out a lot of calls there. Exception capture option owning maybe as much capture as as possible.
+
+Speaker 1
+I think that would continue to be is that
+
+Speaker 6
+but I think Rob calls a mobile business very important in
+
+Speaker 1
+this I think it's not a critical app to to, like, put a what we want to do to sort of what
+
+Speaker 3
+like, there would be there's a kickoff with this array. It all starts up straight.
+
+Speaker 5
+But it needs to be ground. Okay.
+
+Speaker 6
+But just to confirm in my opinion, you can see it's just just that there are there's so there's so much instruction to just pull out On.
+
+Speaker 8
+Also, I heard just, work happens over the phone calls.
+
+Speaker 5
+It's just, like, a mobile thing of problems.
+
+Speaker 8
+Don't think that I don't know if you know how they do it's conferencing in any way that the third party by the third party. Service for Yeah.
+
+Speaker 5
+Yeah.
+
+Speaker 1
+WiFi phone number save for one of the right now, audio Okay.
+
+Speaker 8
+Yeah.
+
+Speaker 6
+It just feels like, like, I know that's all we have in our view on one. Definitely not with no one, but that's it feels like it's I I understand about Jake's talk.
+
+Speaker 1
+Like, how do you know how do you know
+
+Speaker 6
+do you that investment that you're gonna get And it just just I would like to know, oh, it it brought in my my context. And the media conference like that.
+
+Speaker 5
+You know?
+
+Speaker 8
+So part of right? Like, like, who's concerned about the like, the only point is that
+
+Speaker 1
+Or maybe you think you're thinking about how you have to do with the English and the source. You basically had instructions along with the mark mark down or whatever.
+
+Speaker 5
+Just search.
+
+Speaker 7
+Yeah. Yeah.
+
+Speaker 5
+Yeah.
+
+Speaker 6
+So But when did do the same thing, just like to include
+
+Speaker 1
+my assigned to the start, like, thinking for a lot of product And they may maybe AI, like,
+
+Speaker 5
+context, it does not sound like
+
+Speaker 9
+I mean, what it I mean, does it for those projects, they have a lot of overhead business object. Include that as a potential No.
+
+Speaker 6
+We're not to our project.
+
+Speaker 9
+The Slack channel.
+
+Speaker 5
+Through Yeah. I think the associations and other yeah. Yeah. Yeah.
+
+Speaker 1
+And then make it seem to decisions of what they're cost.
+
+Speaker 3
+To to call in one order and
+
+Speaker 6
+I think people will are working on projects to Slack channels.
+
+Speaker 8
+Like, like, if you if, you know, if you have a channel,
+
+Speaker 6
+you're gonna walk on you have a project, we're gonna and and find a way to maybe even before that project would you're gonna automatically want that. Whenever Mark down has a set of context as well. Mean, not what happened or it doesn't have for a few places.
+
+Speaker 8
+If you if you really break it down think on the the bare buckles Like, really, all that need a small you you you capture these conversations. And you need a little bit of identity concept of identity if you said, like, that's that major bones of it. Like, everything else, lives at the end of the layer. Right? But, like, there's no other elevation And, like but I even get there, like, we say, Who's on the call?
+
+Speaker 1
+I think voice ID is the idea.
+
+Speaker 3
+I can That's a good point. Right? Good point.
+
+Speaker 8
+Yeah. And so, like, that's I must have, like, really really your core.
+
+Speaker 5
+Like that you that you know what's
+
+Speaker 1
+happening with few contacts, I think it's very Yeah. You say Jack.
+
+Speaker 5
+And, you know, the on the service to it will better, and we will, like, Google or Microsoft?
+
+Speaker 8
+I mean, I mean, that's that's know, that's I'm starting to think about it that way. But Yeah.
+
+Speaker 5
+You don't don't need to do either thing.
+
+Speaker 8
+Right? I mean, even need to sign that out of the law, I mean,
+
+Speaker 1
+to to, you know, to do work with them. Improve this talk to you again. Yeah. That's great. We're already spending the action We're doing it just for Mike's context, we're doing it in three ks off call with the transcripts that are just doing Shay tomorrow.
+
+Speaker 5
+So very excited about that time that we get them.
+
+Speaker 1
+Tomorrow.
+
+Speaker 5
+So like, just and one of those. That team is taking an entire UPWACT products. Should also Yep.
+
+Speaker 6
+Where are the latest designs for the open end open end OpenAI and Yeah.
+
+Speaker 8
+Okay. They'll send it to you right now.
+
+Speaker 9
+Got a little priority for it.
+
+Speaker 1
+Can you send me the meeting? Yes, sir. Thank you, sir.

@@ -1,0 +1,265 @@
+Jill Freeman and Jeff Whitlock
+
+Date: 2/20/2026, 11:30:34 AM • Duration: 24m
+
+Participants: jill, Jeff Whitlock
+
+--- TRANSCRIPT ---
+
+jill
+Hi, Jeff.
+
+Jeff Whitlock
+Hey. How's it going, Jill?
+
+jill
+Good. How are you?
+
+Jeff Whitlock
+I'm doing very well. Where are you taking this call from?
+
+jill
+Beautiful Portland, Oregon.
+
+Jeff Whitlock
+Oh, I love Portland. Portland's great.
+
+jill
+What about you? Where are you?
+
+Jeff Whitlock
+I am in a place South of Salt Lake City in Utah. Okay. Yeah.
+
+jill
+And then there's a cute little nugget there behind you.
+
+Jeff Whitlock
+Yeah. That's my that's that's my son. Was just telling me that he's quite excited about his applesauce.
+
+jill
+Woah. Well, you know, I can't blame him there. That's good stuff.
+
+Jeff Whitlock
+Yeah. It is. It is. I well, thanks. I thanks so much for making time. To talk. I I really appreciate it.
+
+jill
+Yeah. I love I love I'm a huge Grain fan, so I like what you're doing. I'm trying to get feedback I know is important.
+
+Jeff Whitlock
+Absolutely. 100%. So I I'd love to start by just kinda understanding your practice. Tell me about what you do, who you do it for, and can go from there.
+
+jill
+Yeah. We we work really in supporting employer cultures and creating employee value proposition and bringing external branding internally to enhance the employee experience. And know, there's a a lot interest around creating high performing teams and high performing culture to support a team and we do a lot of work around that, helping employers understand kind of maybe where they have disconnect between you know, what they say and what they do and making people come together. Creating tool kits, onboarding experiences, all kinds of good stuff.
+
+Jeff Whitlock
+So what type of organizations do you typically work with?
+
+jill
+Mostly, I would branded employers. And branding, I mean, organizations that I'll give you an example of one client right now. They are in their seventh generation, family generation of having the same family ownership. They started before the war in Boston. Wow.
+
+Jeff Whitlock
+You know?
+
+jill
+So they're doing something right. And Right.
+
+Jeff Whitlock
+Right.
+
+jill
+But they've never they're struggling a little. They do some clean energy. Work and have production facilities across the globe and we're really helping them dig into how do they make it to the next seven generations. There's a lot of companies in The US that are that old and still family owned, privately held.
+
+Jeff Whitlock
+Yeah. And so how many how many clients do you typically have at once or you work with at once?
+
+jill
+About half a dozen. Okay.
+
+Jeff Whitlock
+Nice. And how how many people do you work with? Is it just, like, you personally as a practice, or do have a few other people?
+
+jill
+Or We really work we kinda bring in expertise as we need it.
+
+Jeff Whitlock
+Got it.
+
+jill
+So it's a little more it's a pretty we're of a we run a pretty small lane ship and then as we get work, we bring in contractors to support us or kinda complement where we have expertise.
+
+Jeff Whitlock
+Got it. What, like, tell me, like, how how long are your engagements typically? Are they kind of ongoing evergreen? Are they more project based? I'd love to learn about that.
+
+jill
+You know, it's a little bit of both. Some is retainer. So maybe they have a a client with specific budget you know, that are we have to work within and some are just like a one and done And then there's some ongoing work where we're kinda on demand and, like, a back office team to support them as they need it. A little bit of of the above, I guess.
+
+Jeff Whitlock
+Got it. How do you like, what is your typical way of interfacing with your clients?
+
+jill
+I would say mostly mostly Zoom. Sometimes we it's interesting. Some of our clients, I guess, completely embedded. Within their organization. So you know, typically, we're on their SharePoint Mhmm. Typically, not sharing huge documents and back and forth on email and some in person work for sure. Which I'm I'm curious if Green would ever develop a tool for in person capturing in person meetings. Because that notetaker feature is so valuable.
+
+Jeff Whitlock
+Do you use we can come back to this, but do you use Mac or Windows?
+
+jill
+Windows.
+
+Jeff Whitlock
+Okay. Well, yeah, we will have something for you short soon that will work for this. So that'll be good. Me a little bit. Like, what what happens walk me through what happens after you get off a tip typical client call.
+
+jill
+Wow. I immediately download the green goodness. And do a meeting summary. Mhmm. And create you know, review the action items off of whatever, you know, kind of validate the greens what greens taken away from it. And then turn it into a PDF and put the notes out on the client SharePoint site just so that we're all transparent. Of course, claiming it like I took notes, not green.
+
+Jeff Whitlock
+Uh-huh. Nice.
+
+jill
+And then, really, that serves as a you know, foundation for what we're working on we refer to it make sure we're on, you know, keeping up with our tasks and getting the client what we need. So the the green information from the notetaker is super valuable. And very time time saving for our team.
+
+Jeff Whitlock
+And do you just sorry. The nitty gritty here is really helpful for me. Do you typically like, copy the notes that Grain takes and then set sorta edit them yourself? And then put them into a Word doc and then publish it to a PDF? Could you just tell me a little bit more detail of that flow?
+
+jill
+Yeah. We like to keep the notes in our branded template. And so I just copy the notes off of Grain by the yeah, the notes from the green report and then drop them into our template. And then save it as a PDF and then upload it. The client SharePoint. Typically, if the client wants we like sharing the notes because they may have action items too, and we wanna, you know, hold them accountable.
+
+Jeff Whitlock
+That makes sense. And then is your is your templated document on Microsoft Word?
+
+jill
+It's on it's on Google Drive. It's on our Google Drive. It's in Google.
+
+Jeff Whitlock
+Got it. Okay. So it's like a Google Doc. Template? It's a Google Doc.
+
+jill
+Yeah.
+
+Jeff Whitlock
+Okay. That's great to know.
+
+jill
+What Is anyone using Microsoft products anymore? I don't know.
+
+Jeff Whitlock
+I don't know. I don't. I I assumed because of SharePoint maybe, but maybe I shouldn't have. So tell me a little bit about what's the hardest part of managing multiple client relationships at once.
+
+jill
+Well, I mean, I'm old, so that's I'm sure that's a drawback. Just keeping all of them straight. I think probably the it's juggling calendars, you know, pretty nice. We gotta get like, some kind of calend calendar calendar feature. Like, scheduling.
+
+Jeff Whitlock
+Yeah. Yeah.
+
+jill
+Scheduling feature. I think there's a lot. It there's a lot of friction in the system of the actual remembering which client's doing what thing. I mean, I've often wondered if Grain couldn't have a have more couldn't be if we couldn't set it up client specific, you know, it it's like green overlays. Right? For all of our meetings as we wanna use it But I wondered if it could get smarter And be siloed by client
+
+Jeff Whitlock
+Tell me more tell me more about that. What would you love to see there?
+
+jill
+I'd love to see, like, a dedicated Grain client AI agent. I'm making the terminology correctly where it's this is your green just for client a, b, c, and then because right now, it does great work summarizing the meeting, giving us action items. Right? But what if it started to build on that and it went back, like it said, brought forward agenda items for the next meeting. Here's what you covered last time. Here's what client ABC needs for next week. Like, what if it became more of a assistant almost, AI assistant? And not just and a a notetaker that would build on the notes from previous meetings and almost create, like, a little timeline of accomplishments and gosh. Here's all the work you've done for client ABC. Over the last few weeks. Here's a reminder of what's coming ahead and based on the last meeting or some you know, like, it Yeah. It's stacked the meeting notes or something. I don't know if I'm describing it really bad. That makes a yeah.
+
+Jeff Whitlock
+Yeah. That makes a lot of sense. How how how would that be valuable to you?
+
+jill
+Gosh. Huge time saving. Because right now, right, I'm I have note PDFs for all the meetings that I have from the client. Right? But I have to do that work myself. So I review everything, prep for the next meeting. Check off what we've done, you know. But what if it brought forward prompts like, hey. Jill. These are takeaways from the last meeting. Just making sure do you want do you need these? You know? Or I wanna check these off or you know, almost became like a Notion doc or something if you use Notion.
+
+Jeff Whitlock
+Yeah.
+
+jill
+Something where it, like, dropped it into Notion and kept them all for you and
+
+Jeff Whitlock
+So right now, do you have, like, a PDF for every meeting? Do you keep, like, an up to date PDF that's like, the overall project, or is it just kinda one for each meeting?
+
+jill
+Well, we do have an overall project plan. But and then we would we have a link into the notes from each meeting but they they don't you know, talk to each other smartly.
+
+Jeff Whitlock
+Mhmm. Yeah. Well, what would it take for Grain to be like, instead of instead of having to publish it to a PDF or a brain to be the thing that was shared would it need to be branded in your template?
+
+jill
+That would be wonderful. Yeah. I mean, I think I know that's not hard to do. Right? Like, if we could do a drag and drop on our logo, an option. To create our own forms.
+
+Jeff Whitlock
+So that's amazing. How are we doing on time? Think we only scheduled this for fifteen minutes. Do you need to drop her, or could we go another five? Oh, yeah.
+
+jill
+I'm good.
+
+Jeff Whitlock
+Okay. Fantastic. What do you do do you use something like a like a CRM, something that tracks your client relationships?
+
+jill
+No. Not not not really. I mean, we have a just, like, a big notion doc Okay.
+
+Jeff Whitlock
+So you have a Notion doc with all the details of your various clients?
+
+jill
+Yeah.
+
+Jeff Whitlock
+And how do you use that? What's in it? How do you use it?
+
+jill
+We just it's just a, like, a chart. Of where prospects right, like, who we might be interested in, And then work in progress, closed deals, past deals, you know, We kind of, like, create our own little chart.
+
+Jeff Whitlock
+And do you have, like, a per client SharePoint that then is linked to from that? Notion doc?
+
+jill
+No. The interesting thing about that is what we, we do connect to the Google Drive if we have more details. On that. But, typically, we work within our client's SharePoint because Got it. Content we create for them is kind of you know, specialized for them, and they wanna be able to act access it and you know, send create and get information as they can. So they hub the SharePoint. They let us into theirs. Yep.
+
+Jeff Whitlock
+What are what are you mentioned about how it can be hard to kinda juggle the multiple clients at once from, like, an ordination perspective and kinda keeping track of the different threads and may and scheduling. What what have you done to try to solve that today? So far?
+
+jill
+Think it's, staying really focused on each client and not getting them intermingled accidentally. I don't know that there's a good I I don't know that I've done a very good job of the I like the I use a lot of paper. I write like to handwrite things. And so I have a lot of notes to myself, and handwritten I got little sticky notes all over the place here. So I don't know that I have a real tech solution for that.
+
+Jeff Whitlock
+Makes sense. Makes sense. Just a couple more questions. So tell me if you could wave a magic wand and have Brain do one thing that it doesn't do today, what would it be?
+
+jill
+I love this idea of being able to create meeting notes See. In our template right, if I'm green, and that it branded in our our look and feel. And then I love this idea of Grain getting just a smidge smarter where all the meeting notes get stacked week over week, and it can also prep me for like, what if it proactively prompt me? Like, oh, like, I got a meeting, you know, with today. With at 12:30 with a a client. And what if it, like, eleven, it sent me a little, hey. Here's a little set of nuggets from what happened last week. Just so you're prepared or or and it what if it also like, Google does that summary now at the top like, AI summary of your your email. But what if it could see all the like, all the client emails and that for the client I'm meeting with at noon, and Grain could say, or it let you put all the emails from the client in there and helped you even better prep for the meeting. Like, here's what came out of this week's emails. Here's what were here's what came out of last week's meeting. What you got the end of the agenda for this week. Look. What if it was just a little bit more proactive? Yep. It's very reactive now. Valuable for sure. I don't wanna diminish that whatsoever. I think there's more assistant level technology tech solutions that it could deliver. That would also be a unique differentiator for Grain.
+
+Jeff Whitlock
+Yeah.
+
+jill
+I don't see I don't I don't use anything else because, you know, I'm a Grain fan. But I think I've seen I have experience with, like, Google I think it's Gemini or something that try to tries do some of this, but nothing nothing proactive. Yeah.
+
+Jeff Whitlock
+No. That's I I love I love those thoughts. That's fantastic. When you find when you find a tool that works for you and your practice, do you tell other consultants about it? Are you part of any communities of agencies or consultants?
+
+jill
+Oh oh, yeah. For sure. Yeah. I'm on a board here locally. Oh, it's a nonprofit. We're all volunteers, but it's total reward professionals because we we work in the total reward space. And we're always sharing little tricks of the trade or things that made our life easier. And though the people on the board are more important than me. Like, there's head of compensation for Microsoft, Columbia Sportswear is on the board, Nike. Like, I mean, I'm nobody But so it does have a you know, it's kinda it's great to hear what they're using and then I find something unique, it's fun to share.
+
+Jeff Whitlock
+Love it. Is there anything I didn't ask you about Like, your your workflow, your frustrations, or or what you wish existed?
+
+jill
+You know, I'm curious if you'd ever create a more of a green community you know, of your clients. Like, I know what you're doing today, I think, is exceptional. But if there was a online forum where we could share tricks of the trade or something. And feel a part of it I love that. Or if you wanted to create kind of a steering group or focus group of our innovation group or something, you know, where people pro bono gave you ideas and thoughts. I mean, and it also makes people feel a part of something, which is kind of fun and, you know, like, clovish Love it.
+
+Jeff Whitlock
+Well, this has been so helpful. I I really I love those thoughts, and I'm really appreciative of you taking time. I if I have any follow-up questions related to, like, if we start to work on some of these ideas you shared around kind of cross cross meeting intelligence or meeting prep. Would you would it be okay if I followed up? Oh, yeah.
+
+jill
+Sure. Okay. Happy to help you.
+
+Jeff Whitlock
+Amazing. And then also, we do have a Slack community. I don't know if you use Slack, but I happy to send you an invite to that if you're interested in running. It's it's a the engagement ebbs and flows, but it's also an opportunity kind of we oftentimes will send things to the community and be like, what do you think about this? And we'll give ask for feedback and share early announcements on beta features and stuff like that.
+
+jill
+Sure. Yeah. Love to.
+
+Jeff Whitlock
+Okay. Alright, Jill. I thank you so much for the time again, and I hope you have an amazing Friday and weekend.
+
+jill
+Thanks. Good luck, Jeff.
+
+Jeff Whitlock
+Thank you. Bye.

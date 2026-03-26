@@ -1,0 +1,195 @@
+Jeff<> Continuity Consulting
+
+Date: 3/2/2026, 2:31:26 PM • Duration: 27m
+
+Participants: Jeff Whitlock, Kathryn Howard, Matthew Chamberlain, Rich Daly
+
+Grain URL: https://grain.com/share/recording/ccac0d58-9a1f-433e-8d82-4f53ee242353/035TEIrb1ryNODznUTBMR4leUmYC9vS4RoMJYmdT
+
+--- TRANSCRIPT ---
+
+Jeff Whitlock
+So yeah, so I reached out to kind of ask some questions and get to know all of you as part of some research I'm doing. But sounded like perhaps. Catherine, you all had also some questions or some feedback or something you want to share. Is that right?
+
+Kathryn Howard
+I think Matt had some questions that he was going to throw out and we were going to share some maybe some experiences on that, not to put him on the carpet.
+
+Jeff Whitlock
+Let's start with that. That sounds like a good place to part.
+
+Matthew Chamberlain
+I mean, listen, you know, first off, let me just say, we love Grain. It's a phenomenal tool that has made a huge amount of difference in our business, on the consulting side. We have people working on just tons of different projects, tons of different customers, having the ability to go back into grain and get that consolidated minutes out of it, ask AI questions about all of that is tremendously helpful. I think that there are a couple of little nuanced features, you know, and things like that for real world use case scenarios. That could be improved as most technology is, you know, we're technologists, most of us. So, um, you know, we always, you know, come across some use case scenarios that, you know, like for one example, if I'm on my My meeting screen and I use the search there. I have to type in, like if I type in the first word, or if I type in A word, it must be the very first word of the meeting title. If I go to general search, I can type in something and it's going to tell me whether or not it's contextually in the title or meaningfully integrated. So in a lot of times I'm on my meeting screen and I got to jump over to the other search. There's already a search there, but it just works differently. Um, I think that, uh, you know, what we haven't had a lot of experience with and used extensively is, um, getting in and setting up custom templates that has just seemed like too big of a thing because we have so many different project types. And the real layering to it. And, you know, the default template, but then you got to go flip the template by meeting type. And the overhead there. Um, it'd be cool if there was some configurability to just set a type of meeting and say for, for this meeting title or for titles like it, you know, always use these types. Cause we do complex projects. And so, um, not that it's a big deal to go flip the drop down, but going and building all of those different contextual meeting layers, um, it just seemed a little difficult because there's all kinds of nuance differences. We work with lots of customers from different software providers where technology consulting services firm. So, you know, if we're working with a provider that uses one EHR over a different EHR, it's going to be lots of nuanced, you know, nomenclature and things like that, that grain could learn about and provide maybe better context in those meetings. But there's no real way to say when we're on the phone with this type of customer or a customer with this domain, you know, use this level of contextual experience and knowledge. There's also, you know, other meetings that have contextual knowledge. So, but we're basically doing on some of these is we're pulling the transcripts out, loading them into a GPT project. So we have a long running history of all the meetings of the same topic type. It would be cool to have some continue. Like if we just use a similar naming conventions for meetings where it could kind of continue, like we've had 12 of these meetings over the last three months. Now we have aggregate knowledge on all these. So the, we have lots of ideas. I don't want to burden, you know, the entire time with thoughts about how grain could be more impactful, but we're able to get around it with just having access to chat GPT pro as a business and setting up projects and kind of doing more of the long running, uh, type Q and A and evaluation stuff there, which is fine. It does add some steps. Like if I could configure your system to automatically send transcripts of a certain type into a GPT project, if you had that level of integration, the ways you could approach doing that, um, even outside of Grain, but those are just a couple quick little call outs. And
+
+Rich Daly
+not to suggest that the summarization that Grain does isn't also good. Uh, saves me a lot of headaches in time, but we do find that we aggregate it in a separate platform. When we look at large studently and that's just because we're trying to incorporate a bunch of different things. It might also be kind of consolidated with some documents that we have from that client or that kind of project that we're focused on and being able to add some of that context, I would imagine isn't necessarily a roadmap. Thought for Grain.
+
+Jeff Whitlock
+Like what, what, what, what is usually in that context, Rich.
+
+Rich Daly
+So let's say one of the conversations we had was about, um. Detailed proposal. Something that we're going to show on the screen to some degree. We're going to talk about components and sections. If we were to be able to upload that information alongside a transcript. You're
+
+Jeff Whitlock
+saying it's like a document like a PDF or something like that.
+
+Rich Daly
+PDF Excel sheet, something like that, that contains more information than you'd necessarily see on the screen or talk through line by line to be able to provide some of that level of context would cut a couple steps out for us.
+
+Matthew Chamberlain
+Yeah. And I think that there's contextual pieces that, you know, when you're in a single meeting, you're only really addressing contextually the things that are required for that meeting. And the real visibility into the history of conversations and contextual components that maybe everybody in the call has in their head because of all of that experience, but that one meeting doesn't necessarily have access to it. And so again, it's great to get a consolidated review of, and I want to know that we didn't address a certain topic on a call. You know, I, that's important information. Like, did we talk about this this week? No. Why didn't we? That's something we should be talking about every week. But like Rich said, you know, the, especially in consulting, we're bringing it all together. And Grain is a great, um, component of a lot of the stuff that we do bring into those larger projects. Um, and it makes it extremely convenient. But, you know, obviously the more insight that the individual meeting context has, the more accurately it can understand the context of what we were talking about. If there's two weeks where the consolidated history, we're not going to go through all that to finish the decision making process on that call. And we're just going to skip to the parts that are there, but there's no context of how that folds into the project unless we really talk about it through that one meeting. So anyway, just some. I
+
+Jeff Whitlock
+love this. This is so helpful. Uh, follow you. You mentioned how like when you're talking about meeting templates, like custom templates, you said they're not layered. Could you explain what you meant by that.
+
+Matthew Chamberlain
+Yeah. Sure. So I can, so one of the first templates we created was just a standard kind of sale discovery template. We created one for more like ongoing customer check in. And we can tell it a little bit about our business. Like we are a consulting firm. We do this kind of work. These are the types of things we talk about. We want to organize, you know, the output on this type of call in a specific structure. But the additional nuance. It's like sometimes we're working on implementations. And an implementation as a very specific context and it's potentially going to have some collateral for that specific customer that talks about the EHR that they're implementing. What our role is in that process. Are we project management? Are they in - house project managing? Are we more running the clinical or RCM components of that implementation? We have RCM specific calls. Clinical specific calls. And so what I'm looking at is let's say we have EHR one and EHR two. And we have a project management component that we may do, a clinical component that we may do, or RCM component that we may do. There's obviously a lot of longitudinal history there because we're in implementations that are six months to over a year with lots of lots of contextual things that we're talking about. Um, and your system doesn't know any of the intricacies of the EHR. We don't have any collateral about like all the backbone of what we're talking about in there. It's a lot of continuing conversations where a lot of the context comes from the last meeting, but we don't revisit it. And if I'm on an RCM call, I would need a, you know, EHR one, RCM focused, you know, prompt. I need an EHR clinical specific prompt. We may have a project call that talks about everything. So then I need a general project call that, and it's just like starting to try and layer in like how much are these templates going to really help us? We figure like just staying with a default and then using the transcript to get purpose built stuff in that longitudinal capacity by loading it all in to a GPT project and continually loading in every transcript that's relevant to that project. Now we have proper history and context. And then we can load it in with, here's our contract. This is what we're, we're in charge of. This is what the customers in charge of. This is what the vendors in charge of. You know, we, we can build that layer of history. So right now we just consider grain is a, is a tool to get those transcripts to get those, you know, summaries so that we don't, we're not handwriting meeting minutes, you know, so it's, it's still very, very meaningful. We're just kind of letting you know how that information becomes part of a larger hole and how some of the configuration components on the templates and stuff would need to be so purpose built at times managing that and then having decide the frame of reference that we want for that call and then manually, you know, using that dropdown every time. It's just a lot to think through and set up on what level of nuances do we need to build in based on vendor specificity, project specificity. And then we'd have to build templates for potentially different customers if we're doing different things. It just felt like a lot. So we've been just using the general and leveraging ChatTPT projects for the other stuff just because it's so much easier to do it there.
+
+Rich Daly
+Yeah. And I don't know what your guys plans are around some of the AI stuff, but I imagine templates. Could invent themselves. You know, here, here's the same pattern. We're going to see in a bunch of these calls. Like I always wonder, I'm afraid to overcook it for us. So we talk about layer. And if it's like, okay, we're going to have a conversation with some context discovering, then we're going to have the contract conversation about that. Then implementation, then ongoing support, all those things are different flavors of the same thing. So does it end up being one template or did it have to be multiple? And I think AI would be better at that than we are.
+
+Matthew Chamberlain
+Yeah. Even just a simple integration with Chad GPT where we could say, here's the project linked to this customer domain. Anytime we have this customer domain on a call, we want those things to cue up in the customer project and GPT so that we can go in and have layers of views of utilizing that. It's just going to remove some manual interaction for us. That's, let's be real, it's not hugely time consuming, but I got to basically take the transcript, copy and paste it into a Word doc and the teams folder for that client, then name it, whatever the meeting and date time was, you know, so the file name was some context, then go into the GPT project, upload it. You know, it would be great if they just kind of automatically flowed if there was that level of integration, but I don't want you to hear any of these things like grain sucks. We love grain. It's amazing. It's one of the tools that we're most having. We're just trying to spit ball on some things if, if any of this ever made sense for you guys as a business, we could see some additional value.
+
+Jeff Whitlock
+I love that. This is, no, this is perfect. I appreciate you sharing those thoughts super valuable. Um, do you mind if I share, ask some kind of like step back questions to give context for a lot of the feedback.
+
+Matthew Chamberlain
+Please.
+
+Jeff Whitlock
+So I'd love to understand, I think I can infer some of this from, from the conversation, how small, but I love just to hear a little bit about, uh, your practice and what you do, the type of clients you work for, how many clients you have can at the time, how long your engagements are, stuff like that would be helpful just to put all this in context. It's
+
+Rich Daly
+a little complicated, but essentially we are a technology consulting firm for behavioral health and human services. Providers. That can be mental health substance abuse intellectual and development and disabilities foster care. Um, any flavor of those things, human services, uh, primarily Medicaid funded, but not only, um, we help them mostly around their electronic health record. Really specialized piece of software. That they need to go through pretty detailed procurement process to select. Usually a long and arduous implementation project to get up and running. And then what we do that's unique compared to a lot of the people who do what we do, we call it EHR admin services. So it's the ongoing we become their technology team who supports expands and optimizes their system after they've gotten that implemented for the first time. On top of that, we kind of spoke out from the EHR. So we'll help people select procure contract implement and support AI tools. For clinical notes. Um, measurement based care tools, data and analytics. Um, HR and payroll in some cases, making sure that we help them with integration strategy, technology, strategic planning, as well as configuration, training and ongoing use of the platforms. So that's kind of the core business that we do at any given time we're working with two dozen clients, I'd say our goal was to not cycle clients out in the way many consulting companies do, uh, and have them be kind of a forever client under that EHR admin and support service line. Some of them are going to jump into that right away. It can either be a quick project that's a month or it could be, we are literally signing up forevermore.
+
+Jeff Whitlock
+Makes sense. How, uh, how big is your practice? How
+
+Rich Daly
+many people roughly we are as of last month at 15 full time stuff. Okay.
+
+Jeff Whitlock
+Amazing. And maybe you just said this, but like how many roughly just totally ballpark, like how many science do you typically work with concurrently? Like
+
+Rich Daly
+how many, probably two dozen, probably 20, 25.
+
+Jeff Whitlock
+So then, so then we'll, we'll be helpful is I'd like to understand a little bit more about, uh, your workflow. So walk me through kind of what happens after a typical client poll.
+
+Rich Daly
+That is going to be probably way too nuanced to pick a standard. Matt and I as the owners of the business do the sales piece. So we're kind of responsible for taking that perspective client and turning them into a client. Um, for our team, the bulk of our users of, of Grain, it's going to be weekly recurring meetings plus ad hoc meetings. Depending on the subject of the consulting effort. So that could be hammering out tickets that they've gotten from their end users. It could be meeting with the executive team to strategically plan priorities over the next several months, uh, it could be just checking in. Here's some of the initiatives we currently have underway. Here's where they stand. Do a status update. Uh, so there's just no such thing as a standard call of continuity.
+
+Jeff Whitlock
+Makes sense. What are some examples of the types of things you're doing as you're kind of, you mentioned you're pulling the transcripts, putting them into a chat GPT project. Like what are the types of things you're doing with all that context?
+
+Rich Daly
+One expanding our formally documented processes around how we work with clients, uh, expanding certain service offerings. Anytime we need to create a renewal or additional proposal or make a recommendation on a larger thing that needs to be properly documented, we'll leverage some of those chat GPT projects that use any documentation they've given us. Any communication that we've sent to them that's detailed and contextually relevant as well as conversations we've had with a grain on.
+
+Matthew Chamberlain
+Yeah. We're helping Catherine's actually leading this where, um, helping one of our customers implement a patient portal. And there are, you know, lots and lots of decisions that cross leadership finance clinical and, you know, the all kinds of portal configuration components. We go through training sessions where, you know, the end users or critical staff that are marked as kind of the leads for this customer and how they're going to design rollout and use the portal, you know, they go through multiple training sessions where the portal vendor is walking them through the capabilities. And just by loading in all of those transcripts from the first session, internal conversations, the training videos, everything. I've been able to consolidate a leadership guide for approaching how to go about the portal, like what the portal does, how to think about it is from an operations and leadership perspective, uh, pivoting into some of the decisions that they're likely going to need to make and some of the things that were called out on those calls about how they'll need to think about those decisions when making them. We put a staff guide together that helps get staff acclimated that aren't in the training sessions so that it's not something just dumped in their laps. They understand what's coming, how they're going to use it, what they're going to still do in the EHR when they're going to have to jump into the portal to do things. And we've also been using it to track configuration decisions. There's a huge number of configuration decisions. And I go into my GPT and I say, here's our tracking documents where we have all the current stuff documented based on this week's grain recordings and transcripts. Tell me what decisions were made, what decisions are still outstanding, what updates need to be made to those spreadsheets, you know, how we can consolidate our kind of leadership report item of portal progress this week. I can get everything out of that.
+
+Rich Daly
+Especially when it's hard to get those stakeholders all on the same call. You know, if we have four calls in a week about the same thing, but one is for a billing team, one through the CEO. The rest is for their intake group and the rest of clinicians, getting them all on the call to be able to express their needs individually is really tough to do having the ability to do it in individually and then boom, aggregate it all together quickly. It summarizes that and saves just a boatload a headache.
+
+Matthew Chamberlain
+Yeah. And we've even taken some just, you know, just uploaded some MP4s and stuff like that. Obviously when we do that, we don't have any speaker information discrete. Like that kind of thing. Um, but, uh, you know, we're, we get literally the names of people who are talking. We can say, what were Jessica's thoughts or whatever? And, um, what we haven't really gotten into is what I would consider kind of more like how are people feeling one of the things I would like to give it a, give a try. We're just starting out with the basics is like, I would love for my staff to be able to at the end of the week say, you know, what's the health of this? Right. It's a health of the project. Where the hell is the help of the overall engagement? And do we have anybody that based on how they're saying things in the language that they're using obviously is concerned obviously is trying to figure out like, you know, maybe they're not completely satisfied with where the project is at and trying to identify those is kind of, uh, items for our project leads to jump in and rectify. So I mean, I think that there's tons of use case. Once we get the aggregate of all this information into a GPT project, really the sky's the limit on what we can do with it. Um, we're producing spreadsheets. We're producing documents. Um. And, you know, it's, it's just a great aggregation utility.
+
+Rich Daly
+You know, so we're taking the action. So like, that's another piece that, you know, it identifies follow - ups. For the templates. Amazing. It'd be additionally helpful if those could be, if action could be taken on them. You know, if there was some sort of little task list. So we said, Oh, well, after that weekly call, we had on Monday. Somebody did promise to follow up on that. Who was it? And if we had a little list where we could quickly align who that was. That came automatically of transcript, that'd be some pretty badass software.
+
+Jeff Whitlock
+Do you, uh, so you mentioned PDFs spreadsheets calls. Does contacts come critical contacts come from any other source like emails.
+
+Rich Daly
+Or definitely email.
+
+Jeff Whitlock
+Definitely mill. Yeah.
+
+Rich Daly
+Uh, some of the new guys are looking to get into.
+
+Jeff Whitlock
+Yeah. As pulling in context. Yeah.
+
+Rich Daly
+Like inbox automation and not only contact.
+
+Jeff Whitlock
+No, not, not really. Just pulling context so that for the types of things not to actually like be in the email client, that's an outsider wheelhouse. But just for additional context. Um, okay. Tell me a little bit about, I'd love to hear just generally, what is the biggest pain point running your practice. What'd you say.
+
+Rich Daly
+Captain.
+
+Kathryn Howard
+Camina point. Oh no, that's true. Uh, I think one of my biggest pain points is when the grain, if somebody other than myself is on a continuity grain, like we're doing it with an outsourced area. And the outsource turns that grain off because that person didn't attend their following. Then I don't know that we don't have a grain on that. That's one of my bigger pain points with that. But, um, just like they were saying using grain, it is saved my life with a lot of work that I'm doing. One of the things we had, and I don't even know that I shared this with them is, uh, a CFO wants weekly updates of what I'm training his staff and how this does. I just copy and paste from the grain. Make sure they don't talk about them. But, uh, and send those out and make, it saves me hours of trying to document that out. I'm just able to send the grains. And work on it that way. But some of the, I don't really have a lot of pain points with it yet. The guys really detailed out everything Matt and Rich did.
+
+Jeff Whitlock
+Do you all use windows?
+
+Rich Daly
+Yes. Very much so. Awesome.
+
+Jeff Whitlock
+Um, any other thoughts on, on that last question from Rich or Matt.
+
+Rich Daly
+The only other thing that comes to mind right away is. Through a variety of tools that we use. One thing I'm always looking for between any of our teams is. I just want to quick. Update. I want a quick picture of what's going on. And there are some, the meetings I'm not going to be on. Nor would I, you know, be following to get a green centimeter afterwards or a summary afterwards. But if there was some sort of aggregate, here's what happened in continuity consulting this week across all kinds of meetings highlighted. Here's the people, the different agencies we met with, you know, here's who's had, has way too many meetings on their calendar. Um, those kinds of things would be kind of cool. Like I think right now we get. Maximal use of it from an individual perspective. And the pieces that we all throw together in kind of combination, most of that ends up being manual. It's not a problem. Just as. But if we had something that automatically aggregated it and signed it to Matt and I saying, you know, Catherine's been on 44 hours of meetings this week. Or we ended up not speaking with the client, we expected we might have, or we should have. That would be some cool insight that would come right off of.
+
+Jeff Whitlock
+Yeah. That makes a lot of sense. Um, you all, how are you all doing time? Can we do two more minutes, two or three romance?
+
+Kathryn Howard
+I can work. Fine. Okay. And I wanted to tell you one thing I would like to see Grain Dew is be able to have a complete summary for me, but be able to hit a button say make this an executive summary.
+
+Jeff Whitlock
+Interesting. Say more about that.
+
+Kathryn Howard
+So instead of having line by line of what everybody said, just kind of tailoring, these were the decisions that were made. These are the tasks that are going to be done. And this, then I can push that out to higher levels who don't really want to know piece by piece like I do who said that.
+
+Jeff Whitlock
+Okay. That makes sense. And then Rich, I want to just double click on something you said a second ago, where you were talking about how like, um, you doing some of the action would be helpful and then having kind of like a. Having like a, an aggregated task list. Or I just wanted to kind of get that idea a little bit from you. I was, I'm not sure I'd fully followed what you're saying.
+
+Rich Daly
+Sure. So we, we do a lot of project management. Yeah. We use monday. com for that sometimes, SharePoint lists sometimes. Depends on the client depends on preferences. One of the things, the values I think we bring to a lot of our clients is discreetly tracking open tasks to - dos incisions. And I think that the action items, the follow - ups, they identify a pretty good number of those, but it's still text. And we have to manually decide how we're going to do those. So it could be as simple as, I'm going to take a, I'm going to copy and paste a couple of these into my SharePoint list. Sign it to somebody. They're going to document when they did it. But if we had a little bit of task tracking in grain specific calls, or I could say under this client, we've met with this acronym, you know, this agency three times this week and five follow - ups came out of it. Out of grain. I would love for there to be the way. We could use that to say we're going to follow up.
+
+Jeff Whitlock
+To your client, like send a message to your client.
+
+Rich Daly
+It would really be more of an internal tool. I'm thinking about how it would project management to FI a few of our workflows. Okay. And we're doing that. We're just mostly doing it manually.
+
+Jeff Whitlock
+And now manually that'd be.
+
+Rich Daly
+Yeah. So it would probably be either using Monday or the list, you know, we get done with this meeting and let's say Catherine's the project manager. And there were five things brought up, but she only caught four of them because she sneezed when somebody said the fifth one.
+
+Jeff Whitlock
+Yeah.
+
+Rich Daly
+If there was something that said, here's a discrete list in the follow - ups. And there was a way to kind of track the resolution of those. Because right now what we do is we would just copy and paste it. Put in SharePoint. Put it in Monday.
+
+Jeff Whitlock
+Monday.
+
+Rich Daly
+You're generating so much data in here. With the transcripts and the automatic summarization. It'd be cool if there was a couple of. Simple planner things to do with it.
+
+Jeff Whitlock
+Yep. Well, this has been so helpful. I really appreciate it. Um, sincerely appreciate the time and all the insight, uh, as I mentioned, my email. Where we've seen that small practices like yours or some of our events users. So I've just been wanting to understand you all need a little bit better so we can kind of configure the product for your workflows a little better. So, um, it would be okay if I follow up if some of these ideas we talked about kind of turn into actual designs or things we plan on building and just get your thoughts on it.
+
+Rich Daly
+I just do. We'd be happy to.
+
+Jeff Whitlock
+Meet you all.
+
+Rich Daly
+Have a great day.
+
+Matthew Chamberlain
+Thanks, man.

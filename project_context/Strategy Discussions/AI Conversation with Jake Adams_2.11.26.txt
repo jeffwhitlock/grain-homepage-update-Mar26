@@ -1,0 +1,1194 @@
+Grain AI Discussion
+
+Date: 2/11/2026, 3:59:49 PM • Duration: 1h 26m
+
+Participants: Jeff Whitlock, Mike Adams, Jake Adams
+
+Grain URL: https://grain.com/share/recording/b30eee98-1a4f-43e1-8cbe-16af1dd00ca9/vLtorcHq86r2j4LCXemUWfdlQ1PXNJKZUrnRuhnb
+
+--- TRANSCRIPT ---
+
+Jeff Whitlock
+Yeah, man. You know, like, ancestors just our ancestors that's how they connected. Right? Just walking like, going to the same. Through question. Or sitting around the campfire. Fire. Yeah. He's the buyer. But I love them. They want Perfect. Recall. Oh, they did? They pushed us two dot zero five. Like, you gotta upgrade to it immediately. Like, oh, sorry. There was a bug. We upgraded to point zero six. Know, it's a perfect example of, like, it's honestly a classic example of, like, a really, really high quality founding team. Not probably being in the right It is that, like, no. I mean, it's impressively complex. What they've built. Yeah. Not impressively, like, stable and and stuff like that. Like, talk through relative the goal. But, like, impressively complex. So yeah. What worship does live experiencing? I know. What makes it develop? That's you just watch channel and, like, bug bug bug bug bug bug bug bug bug many bugs were reported so far today? One, two, three, four, five. Oh, we will. We'll ship it. But yeah. Eight new bugs for public today. Some of them are polished, but I But, you know, the the value in the value in the the value in the struggle is that if we decide to move on, then then, you know, I'll watch. How's it going? Mike, can you hear us? No. Hello? My my audio is working. I'm seeing all my calls on. Wandering around, I guess. Who knows? Join audio, Mike. Mike. Mike. Are you there? I see you. A tour of Mike's house here. Okay. There we go. Now you can hear us. Hello?
+
+Mike Adams
+Yep. Sorry.
+
+Jeff Whitlock
+I What's up, man?
+
+Mike Adams
+Couldn't find where I put my headphones down.
+
+Jeff Whitlock
+All good. We we could tell you can mute. They're like, hi, Mike. How's it going? Hello? You doing a tour?
+
+Mike Adams
+Yes, sir.
+
+Jeff Whitlock
+I better text Jake if he's coming. I think it'd be helpful for him to he's gonna be here. But I'd rather Yeah.
+
+Mike Adams
+He accepted, and then I texted him about it yesterday. So I'm sure he's just running late. But, yeah, shoot him a text to remind him. Think we can start with Adam now. K.
+
+Jeff Whitlock
+Oh, that's probably a little So how's everything going? Good?
+
+Mike Adams
+Yeah. I'm good. Good.
+
+Jeff Whitlock
+Nice.
+
+Mike Adams
+It's my friend. Sorry. I'm just looking for USB cord.
+
+Jeff Whitlock
+Okay. Ryan, I just got a just got out of a one zero one. I had a good interview today with this this Utah based person who used to be the VP of engineering at Jane, but was, like, wants to down to be in an ICU. Chris, actually, actually referred him, which is good on Chris. Seems super legit. So Nice.
+
+Mike Adams
+Would Chris be down to be managed by him?
+
+Jeff Whitlock
+I yeah. I mean, he thinks so. He he referred him. So and he's obviously referred him in the context of, like, this guy's more senior than me and knows that. So Yeah.
+
+Mike Adams
+Yeah. That makes sense. That's awesome. Yeah, dude. I feel like the front end Front
+
+Jeff Whitlock
+end is a it's a huge problem, man. It's just we were hoping to of our existence. It really is. Really didn't have been. So I mean, this guy would be expensive, but Brian and I have talked to you about just, like, what's expensive is wasting people's time with slow front end. And so, you know, this person can really be, like, I agree.
+
+Mike Adams
+Force multiplier.
+
+Jeff Whitlock
+Force multiplier, then it might be worth it. So we'll we'll proceed that, and I'm gonna I'm gonna keep, like, it's I think I mentioned in that founder Slack channel, it's become the problem that I've been focusing on. It's it's gotta get fixed. So Yeah.
+
+Mike Adams
+I mean, there's a lot of ways to articulate that too in terms of yeah. You you not only are wasting time around the coordination points with slow front end, but then you're you know, getting inefficient work product from front end versus versus faster one that's more expensive. So as long as they're actually better.
+
+Jeff Whitlock
+It's worth it. Yeah. Exactly. So, Jake, What's up, Jake? How you doing? How are you?
+
+Jake Adams
+Good. Good. How are you guys? What's up?
+
+Jeff Whitlock
+Good. Like I feel like the only thing missing is Dave Boldt from being here. For the band to be cool.
+
+Jake Adams
+I know. Man.
+
+Jeff Whitlock
+We are both. Vibe into the future one of days. Well, so I think I think what I wanted what I wanted what I think would be the most helpful I was talking to Ryan about this is is just having this meeting be pretty blue sky and generative. And I think it'd be good to start with Jake, you had like, because I think we've kind of heard I've kind of heard some of your your ideas secondhand through Mike, but, like, you called me to kinda give it to him, we're unable to connect this weekend. But I'd love to hear kind of you know, your you're out of the market. And seeing stuff, and then you but you've also got background of Grain, and so I'd love to hear kind of your ideas and thoughts. And then I think from there, we can kinda just have a generative conversation. And try to Yeah.
+
+Jake Adams
+For sure.
+
+Jeff Whitlock
+Yeah. Mhmm.
+
+Jake Adams
+Can can I I have, like, I have this white window that taking up my whole screen that's gonna drive me nuts. I can can it give me one minute to restart. Okay.
+
+Jeff Whitlock
+We'll see you in a second.
+
+Jake Adams
+K. He's not great.
+
+Jeff Whitlock
+Probably not.
+
+Jake Adams
+Yeah. I I'm, like, hoping it is not grain. I'm like, I I don't know what it is, honestly.
+
+Mike Adams
+So let me see.
+
+Jeff Whitlock
+It is brainless, Nava, Oh, new new batter bar on the top.
+
+Mike Adams
+Of Grain way better looking.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+Take a take a picture.
+
+Jake Adams
+And I'm gonna force quick grain. And it was Grain.
+
+Jeff Whitlock
+Oh, shoot.
+
+Jake Adams
+Uh-oh. Say no y.
+
+Jeff Whitlock
+This is the case of why Oh. When you join.
+
+Jake Adams
+It it so it was like because it looked I'm like, that looks like a notepad. Do you see that white thing?
+
+Jeff Whitlock
+Yeah. Yeah. Yeah. Did we turn this on for you? The notepad on for you? Did we?
+
+Jake Adams
+I don't know.
+
+Mike Adams
+I don't think I even have it on. K.
+
+Jeff Whitlock
+Well, I'll double check that. Can you send your logs?
+
+Jake Adams
+How do yeah. How do I do that?
+
+Jeff Whitlock
+You go to help in the if you open the app and then there's, like, help.
+
+Jake Adams
+Open back.
+
+Jeff Whitlock
+Back search. Send logs?
+
+Jake Adams
+Because I tried to I closed Grain. Right? But it actually the but it was the demon behind Damon. Is it Damon? Yeah. Okay. I'll just I'll do that after. Okay. And so what did so I fixed that. So what what was the quest the ask again, Jeff?
+
+Jeff Whitlock
+Just Just I want to hear as a starting point, you kinda sharing some of ideas you shared with Mike. Yeah.
+
+Jake Adams
+So so kinda where I looked at this is, like
+
+Mike Adams
+Can I add a little more framing too?
+
+Jeff Whitlock
+Yeah. For sure.
+
+Mike Adams
+Don't hold back. No pulled punches. Honest truth. We're we're we're how are you viewing you know, things in terms of reality and and opportunities? So I just to say, like, don't don't hold any punches. Truth.
+
+Jake Adams
+Okay. Cool. So I I don't know if you guys know this, but I actually stopped using Grain. For a period. And started using Granolah just for my use case. It made a lot of sense. I you know, just needed the transcript. I didn't need the notes. I didn't need the video. And it the friction was there. And I also wanted it to be either mediums as well, which I think we work by the so, like, I a phone call on my computer. So one of the things I start to do now is I actually answer my phone calls that I want to record. On my computer.
+
+Jeff Whitlock
+Yeah. Yeah.
+
+Jake Adams
+So that I can use I think Grain works for that. I'm pretty sure it does.
+
+Jeff Whitlock
+So FaceTime, you're using, like, FaceTime audio? Yeah.
+
+Jake Adams
+FaceTime audio works. I'm pretty sure. So, anyways, like, those those mediums, I like, is actually what and and then also, like, local. Like, I just recorded this meeting. That I was just in on my phone. I so my only time I use Granolol still now is is local on my phone. Local app. So Is you know, that is the only time I use it. But I so that's why I switched. And then, like, as soon as we had desktop I started trying it again. And I actually like it more for two in two regards. One, the auto record. I just have to think about it. I it just automatically forwards. I like so I have, like, this peace of mind that Grain's gonna capture that Zoom call? This one right now? Like, I'm not gonna use you know? Know what I'll use use with it, but, like, I so I've now, from a desktop, if it's on desktop, I do not use Granolah anymore. And then the way and so that's, like, kind of, okay. How how is how have my behavior behavior changes been? Then let's talk, like, use case. So, like, how I've been lever leveraging this data. Mike and I have talked about this for a year plus around my filling around notes. And I like, this use case that, like, we're talking about is how I've been working for the like, over a year It's just I'm getting more leverage out of the of the transcript data itself. Does that make sense?
+
+Jeff Whitlock
+Yeah. Yeah.
+
+Jake Adams
+I'm able to do more it. But I've been I have not used or looked at a note in who knows how long. Right? Let's let's let me let me categorize that. Like, 98% of the time, I don't look into notes. Right? I'm I'm most I'm what I'm trying to do is gab cap that information to leverage that to do my work. Yeah.
+
+Jeff Whitlock
+Right?
+
+Jake Adams
+But, like because that's why we talk. That's why we have meetings. So we're trying to, like, get something done. And so I found that that has accelerated things and to an end that like, really has made my, like, my work significantly better. Like, my memo, I've like, my every like, pretty much every deliverable that I ever work on is leveraged using conversations that I've had. So, like, I've been doing that and, like, okay. What how do I, like, draft this email or follow-up ex explicitly? And so the way I, like, expressed it to Mike earlier on, is that for me, this, like, generic notepad is, like, for, it's, like, serving people a frozen burrito. Right? So it's like everybody gets a frozen burrito and that's what we serve here at Grain. Right? But, like, what we what I felt like I really want is, like, I wanna leverage it the point where it feels more like like a salad bar. Right? Like, for each of my transcript transcripts, I'm exactly I'm leveraging it and getting up and turning it into output that's actually exactly what I want. Does that make sense?
+
+Jeff Whitlock
+Mhmm.
+
+Jake Adams
+Yep. And and yeah. So that's how I I do it. And so where I, like, now my workflow is I go and have to make two to three clicks on either Grain or Granolah to go get my transcript out. Right? Copy and paste it into Cloud or copy and paste it into to ClotCode or whatever. Right? And so my my my my opinion is that the only thing that matters now from, like, if when we're talking about horizontal use case like, I who uses granola? What really matters is just the cap the the capturing of the data. And then the contextualizing of that data. Right? And this is where I think we could improve and everybody can prove that. I'm surprised nobody has done this better is, like, and so this is the the thing that I think we do slightly better is that we are contextualized transcript like, we contextualize the transcript with speaker labels. Even locally. And they don't. Right? Our labels around the meetings tend to be better. I still feel like it should be better than it is. Around the context. Right? So, like, what I think matters is capturing of the raw data, contextualizing of of the data, and the routing of that data to to the Jacob. Get your work done.
+
+Jeff Whitlock
+Jake, on the second point of con on contextualizing, so you mentioned speaker labels. Are there other things that come to mind?
+
+Jake Adams
+Who who actually was there? Right? So, like, some level of identity I find that that still doesn't work. Again, like, I'm using this across the like, from phone calls where it's like, but I don't know, man. Like, I'm just calling them Adam, and we're talking about the same thing. Like, you know, it's like maybe we could be be smarter there.
+
+Jeff Whitlock
+Like, that's what I'm like We talked about this today, actually. We we talked about Brian and I were just talking about putting putting the transcript into an LLM and being, like, can you help identify the speakers Yep.
+
+Jake Adams
+Yes. Exactly. Or and and so that so that's where I'm like, okay. If I looked at this as, like, how what's my what would I build today? Right? And it would be that. And where would I push? And I'd push them like, okay. Well, freaking, like, we can do fingerprinting. Like, how can I improve the context like, because that's the value offering of a service like ours, right, as opposed to to others? It's like, is the enrichment of that data And so it's like, yeah. Like, freaking do, like, voice fingerprinting, increase contacts, knowing who's who, like, that becomes useful. And then that's just the structure of the data of it's just a matter of like, what was said, Give me the metadata on who said it and what and what what and then who has access to that. I it's just a folder system. File system. Right? Like, that's what I would build as I would build a local recorder that just does look that does transcripts locally into a file system either either, locally locally stored that, like, you know, integrates kinda like an Obsidian or cloud hosted. Right? But then inheritance like, the rules that we already set. Right? So it's like you know? But it like, I like, if, again, if I was, like, to try to great build a great better, I wouldn't even play with nuts. Right? And, again, like, this is not for everybody, but it just seems like it's the inevitability the future. And so, like, for because I'm like, if we're horizontal, like, I cloud like, this is even I mean, this is just even the most generous way of saying it. It's like, if we're horizontal, I Claude is gonna do it. Right? It's like we can handle that use case. So we're not, like, vertically integrated in it. It's in, like, with a bunch of tools and and data and integrations that are proprietary to financial advisers. Right? But if we're horizontal, interface for the notes is no longer necessary. In the future. The value of and the value of granola and grain from a horizontal is there's this inevitability that it just becomes bundled into the platforms. That's how I interface with my my my voice data.
+
+Jeff Whitlock
+Yeah. Do you think that do you think that, like, just riffing on that a little bit. Like, do you think that the because in in your your three parts were capture Contextualized. Utilization, and then getting the data, routing it into the Route to agents. So, like, in the world where it's, like, clawed or whatever, they're gonna probably do capture at some point. Right? See it.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+You see do you it's like assume, like okay. Let's assume they do.
+
+Jake Adams
+Potentially. Assume yes. And they do. Yeah.
+
+Jeff Whitlock
+Then the second the second bucket is only the only one where you there would be a difference or do you see it differently?
+
+Jake Adams
+No. No. That's I've and I've talked to Mike about this is, like, I I am just trying to articulate the future not necessarily articulate what the bet right the the right business is. Right? Like, there's this there's an inevitability But then there's also, like, there is the platform agnosticism of data capture at itself? Right? That can be valuable. Right? So but they're differentiated that all that.
+
+Jeff Whitlock
+And by the way, I'm just totally Socratic discussion here, like, or what I think the future is. So I I'm sitting with you in the future too. It's like, if if it's local anyway, like, Claude builds, like, a granola s local capture type thing for just grabbing the transcripts? The platform agnosticism doesn't matter as much. Correct? Like, they are basically platform agnostic. Or you're or you're there's gonna be a lot of
+
+Jake Adams
+people if the data is if the data isn't bundled into the cloud platform and it is local capture, my guess is probably they wouldn't go that route. They'd probably try to try to create it as in their walled garden. Yeah.
+
+Jeff Whitlock
+Okay. Yeah. So you're saying the agnosticism is some people are gonna use Claude for some stuff. Some people are gonna use ChatGPT for some stuff. Some people are gonna use Perplex I don't know. Just like a or some tool has I guess, Conductor.
+
+Jake Adams
+No.
+
+Jeff Whitlock
+I haven't.
+
+Jake Adams
+Yeah. It's basically this wrapper that allows you to leverage agents like almost like a cloud code that also works with Codex.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+I'd I'm still using Cloud Code just because like, it's, like, app, and I gotta you know, I'm like, I'll just I'd rather just work in the terminal. But that seems like probably some you know, that that's a bet that we could talk about is, like, two people Is the future actually an abstraction on top of the models, or do people really just leverage one platform? And it's kind of a different equation, I'd say. Accordingly, but probably minor that honestly, that which whatever way the future goes is probably has a minor impact on, like, like, our opportunity here.
+
+Jeff Whitlock
+So in this future, do you think that do you think that there's enough specialization in number two?
+
+Jake Adams
+To be a unique app So I we're if we talk about the business opportunity,
+
+Jeff Whitlock
+Or not even not even business necessarily. Just just like Is this true value?
+
+Jake Adams
+Is there value?
+
+Jeff Whitlock
+User value for a for a user to use that as their local capture instead of sorry, to use Grain as a local capture instead of cloud or whatever. Yeah.
+
+Jake Adams
+Just it it comes down to specialization and, like, how far can you we push it. And what be the benefits of using that versus the platform specific capture.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+And you know, my guess would be because then then then because what you're doing there is you have to say that the value of number two is worth the friction of not use if you're already using platform. Yeah.
+
+Jeff Whitlock
+Exactly.
+
+Jake Adams
+Then the value of number two has to, like, overcome the friction Right? Which is, like it's like, like a your to do app versus Apple Notes. Right? Like, you you end up on that equation probably. I'd imagine. Yeah. So it's like, if they're willing to take the steps that we're willing to take around, like, auto capture, all of that type of stuff, if they're willing to do that on their platform, then the and then if we're just competing on two because we wanna be competing on three. They pro like, in I'd imagine it'd be even better. Right, if it was a first class citizen. Then I don't think that the contextualization would be enough of a hurdle for one. And, again, unless I'm, like, the future is actually multiplatform.
+
+Jeff Whitlock
+Yeah. Yeah. Because I think because I think, like, I think at a higher level, I'd like get in some of the details of some of the riff on, like, open source and get some of your ideas there. But I think I think at a higher level, first, just to stop at this at this point, it'd like the big question that I that Mike and I have been talking about, Ryan and have been noodling on is, like, there's, like the first decision that was, like, vertical or semi horizontal. Yep. And we've spent a lot of time talking about verticalization. Because going down going down verticalization, you can like you said, you basically can either become or hook into proprietary CRMs and integrations that, like, most likely are gonna be ignored by the the mega platforms.
+
+Jake Adams
+Well and, yeah, and you are not Grain is not the thing. Grain is the fee a feature.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+And we and we commit to that verticalization of that whatever that that experience and problem set is. Right? You guys you guys know, like, jump. Right?
+
+Jeff Whitlock
+Yeah. Right? Yeah.
+
+Jake Adams
+And and, you know, like like, when JMP first launched, like, we won. Like Yeah. In that article.
+
+Jeff Whitlock
+And then it was their they're losing that yeah. I I've talked about this with Mike. It's like, I heard the whole story. Do you know you know the guys?
+
+Jake Adams
+Yeah. I mean, I I put in Parker's a good friend of mine. So I I I am no longer a shareholder. I liquidated, actually.
+
+Jeff Whitlock
+Oh, you did?
+
+Jake Adams
+Yeah. It's in their series b. But yeah, so I know them. I know the whole team there. We're all we were all friends out in Stanford, in Menlo Park.
+
+Jeff Whitlock
+Yeah. Because I heard this story, from Renato, actually. Who I still need to come play poker with you guys. But Renato basically was, they were failing. They're spending the businesses on the credit card, and they're just like, what was the what's the vertical?
+
+Jake Adams
+Like, remember we met with them. Right? Yeah.
+
+Jeff Whitlock
+Yep. Yep. Yeah. And they're like, what's the one vertical that, like, Gong will never touch? And that we don't have to compete with Brain or Gong or anyone? And they're like, financially.
+
+Jake Adams
+And and Parker's brother or brother-in-law was financial financial adviser.
+
+Jeff Whitlock
+Yeah. So they had some kind of a touch point there.
+
+Jake Adams
+Mhmm.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+So and so where they've gone super deep and and, again, with the grasses, greener, but, like, they got their own problems too. Right? And there's new entrants and all, like, there's the platforms and where do they go from here, all that type of stuff. But yeah, like, Claude code for the near future is probably not gonna be replaced. Like, they have a of Yeah.
+
+Jeff Whitlock
+Yeah. I agree with that. So that's the first kind of decision. No.
+
+Mike Adams
+And and it's worth just, like, adding one little commentary on that. Of, like, understanding I think it was exactly two months ago you were down here, and the jump conversation verticalizing. We landed on, like, makes sense to do kinda consultants as a vertical. We explored a bunch of different verticals, but we haven't really operationalized any against that in two months. And I think it's worth, like, examining the why behind that. Right? Because, like, is it because we're so I anyway, think that's right. It is either like kinda new approach to horizontal which is kind of our you know, blood and our DNA. Or it's going, you know, kinda on what we do, but deeply verticalizing it. And I just I think it's just worth calling back that the verticalization, there's a lot of on it two months ago. And there's reasons as to, like, why we you know, haven't, and there's other things that have been priorities that are We
+
+Jeff Whitlock
+have a bit of an just wanna add some nuance is we like, we had explicitly decided that we didn't want to, like, immediately didn't immediately action that because we wanted to make sure that we were, like, gonna be smart in how we I know.
+
+Mike Adams
+It's not a criticism. It is an observation of like, an understanding of the why is all. Yeah.
+
+Jeff Whitlock
+I guess I just I just think in the framing because I have been spending time on it. Not not as much because we got through, like, Christmas and then quarterly planning, but, like, that had been where I started to shift my my focus.
+
+Mike Adams
+And I think that these conversations over the last couple of weeks are, like, I think around this new approach and the topic of this conversation is pretty orthogonal to that. Right? So we've been focused from a resourcing perspective to fix, you know, single player local, all these different things that we felt like kind of were a pre anyway for, you know, a more vertical strategy. And so I think, like, maybe maybe me posing that wasn't the right question as as of, like, the why behind it. It's more like I think we recognize we need to do one or the other. Right? Oh, yeah.
+
+Jake Adams
+Yeah.
+
+Mike Adams
+And And that and and and now we kinda have, like, a viable alternative whereas I think in December, we kinda felt like we had to go jump. Style and just verticalize, and that was really the only approach. And I do think that there's another viable path here that is a unique approach almost kind of a rethinking that stays a little bit more horizontal. Anyway, let's see. That's the way I'm framing it. But you were you were you were about to say something, Jeff. Yeah.
+
+Jeff Whitlock
+No. I I was gonna frame it slightly differently. Which is, like, very close, but I would say in the horizontal I'm not this is what Ryan and were talking about. It's like, I'm not The thing that's interesting is it really depends on what success is and what the goals are and how much you weight the future that Jake is painting. Because there is another, like, node in the question tree, which is, like, is is video is, being a like, a video based like, video recorder, kind of, like, Grain's core identity of, like, but just a lot better in desktop and local, like, local app. Like, granola plus video is that a a play that would allow us to continue to grow slower than if you're trying to be venture tracked, but still at a at a pace that'll compound. Because we're definitely seeing Mike compounding in the business now.
+
+Mike Adams
+So so for context, Jake, last month is really, really good, and this month has already started off. Really good. So while we're, like, churning, I think still we're mostly churning to the, like, core players, like, Google and and and Microsoft But even as they add this functionality in
+
+Jeff Whitlock
+about look at our churn numbers, our churn numbers are even down relative to a year ago. Just if you look at Totally.
+
+Mike Adams
+Totally. So we're I think that that's where the churn is going, but the churn is curbing I think the people that really wanted to churn have kinda started to churn, and the people that are like, okay. I want this product or or it's there. But, anyway, that's just context.
+
+Jeff Whitlock
+And, again, a diff Yeah. One more of more piece of context because I just wanna say this because I think it's really it's healthy. It'd be healthy for me to share. Like, it's it's it's tricky. Like, being in the seat I'm in because it's, like, if you define successes, we need to find a breakout then we're clearly failing. If you define the success as profitable, sustained growth, then we're kind of doing it And because we, like and, you know, you know, with the with the than exciting month here or there, but we but, like, you know, what
+
+Jake Adams
+was the What was the growth rate?
+
+Jeff Whitlock
+Last year, like, 60%?
+
+Jake Adams
+No. No. No. These two months, what was the what was the month over month?
+
+Jeff Whitlock
+Like, 5%, something like that. Okay.
+
+Mike Adams
+Last month was four was four point last month was 4.1%. Yeah.
+
+Jake Adams
+Okay. And then we're approaching five still? Hey.
+
+Jeff Whitlock
+Well, yes. We there's there's a bad churn anyway, yes. We're above we're above closer to five this month. Mike, there's a churn in Popular right now that is not accurate.
+
+Mike Adams
+So Right, Paul?
+
+Jeff Whitlock
+Affinity Pay. Affinity Pay is a bigger churn than Okay.
+
+Mike Adams
+Anyway, Brightcold just churned, but that that's neither here nor there.
+
+Jake Adams
+Yeah. Okay. So but and then and then the actually, the real question is, we understand why?
+
+Jeff Whitlock
+Do we understand why what?
+
+Jake Adams
+You you we think that that that we've ex there's been acceleration due to video.
+
+Jeff Whitlock
+Not saying acceleration. I'm just saying that when you look at when you look at the business, it's like NRR is up and getting better. Churn is down. There are front of funnel problems, which has been our consistent you know, perpetual problem is getting attention in top of funnel. But there are things that, like, just bread and butter things that we haven't done historically or, like, or stopped investing in for a while that we've started investing in, like, and I feel like there's momentum there. As well as, like, homepage, you know, just, like, really bread and butter butter stuff. So the question is, like, if that gets you like, in a world where SaaS is dead, you know, eventually, you'll start to see in the metrics that reality, and so you'll stop growing or new or your new will be flat. And maybe you're growing, but it's just through expansion. Instead of right now, we're growing about fifty fifty between expansion and new. Some months some of our better months because expansion outpaces new. But, like, but, like, so far, that is kind of theoretical. The, like, the death of brain in our current positioning is again, it all depends on what you're what your reference point is and what success means. Yeah. Yeah.
+
+Jake Adams
+Totally.
+
+Jeff Whitlock
+But but it's a little more theoretical. So that's just I think that's just a just, I think, to to make kind of, like, an add nuance to the discussion a little bit. It's like if if feels like it feels like you know, it's this conversation is different when you're, like, losing revenue every month or month, and you're like, we have to make a jump.
+
+Mike Adams
+When you're where a jump was. Yeah.
+
+Jeff Whitlock
+Versus we're we're not growing as fast as we like, but we're still growing. We're gonna you know, we're we're just under 4,000,000. I my goal is to add another two one one and a half to two this year. Think that's a very that's an achievable goal. So we'll get to five. We'll be plus five by the end of the year. And then it's like you know, we have a business. And so so, like, that is I think that is the inherent just complexity that I felt a little bit, like, Mike and I were talking about. We had a really good, like, back and forth on this. It's like, the you know, like, if you're willing to lose what if if everyone here was like, I don't care about the current business, Or it's just if all the key stakeholders are I don't care about the. You gotta you gotta make a big swing to the fences. Like, this conversation a lot easier still think we should explore all the ideas, but I'm saying, like, the the core, like, Yeah.
+
+Jake Adams
+I I I don't think they're entirely mutually exclusive. But I get I totally that is the right thing in in positioning as well. I I I that's the exactly. Like, that is I am not even saying what we should do. I'm just saying that, like, there is this the what I see the future.
+
+Jeff Whitlock
+No. Yeah. And that's what I wanna hear for sure. For sure. But yeah.
+
+Jake Adams
+So I agree with you too. Like and and and so where I would look at it just like, okay. What what we still would have to do is, okay. Do we have a lot of confidence that we can maintain in a future state growth And the only way to do that is through a differentiated offering. And we talk about video, and I would just say, I don't know who what are the use cases or where where on where video matters. I know it doesn't matter for me. 98% of the time. Right? And but over time, maybe it does and maybe it like, there's that, like, extra that extra level You know? It is a really interesting idea of, like, okay. Today, to leverage the video data from a token perspective is probably untenable. To the value you get out of it from a normal conversation. Right? Intonation, what's going on in the camera? Is it just the context and the value provided?
+
+Jeff Whitlock
+I I think it's more on the it's more on the creator side. Like, we've haven't ever invested on AI video creation. Like, if you could be, like, you know, create any clip talking of customers talking like this, and it did in a really smart way. Yeah.
+
+Jake Adams
+Cool. Yeah. Then yeah. So that so I that's a question that I don't know. It's like, that's cool. Like, I like that. I just was just I was just side walling for one second because I've talked to Mike about this or whatever. Oh, yeah. The I Is that there is this interesting idea that that if you think about it there is as, like, as AI becomes progressively better at judgment, judgment, the intonation and facial expression is this extra dataset that is entirely untapped and leveraged today.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+Right? And and we don't get it enough today. Like, it's like, they were smiling. Right? And it's like, it's too clunky today and it's too costly today. But if you think about it as a trajectory, is that a whole other like, vector space that is, like, Are
+
+Jeff Whitlock
+people working on on, like, encoding that data? Does anyone I don't know.
+
+Jake Adams
+I I'm just thinking about this right now. It's like, Yeah. That that actually because what it does is it trains it trains intent and and humanness. Right? Does that make sense? Yeah. It's what we miss what I miss about and, wow. I'll never even freaking read a transcript. Whereas I would listen to it, but And, like, sometimes I'm like, I just wanna hear what they said, but I'm like, I'm too lazy to go read that transcript.
+
+Jeff Whitlock
+Right? Yeah.
+
+Jake Adams
+You miss right? You miss that again. So, like, yes. Like, I would like a video a chunk of the time to go back. Right? But what I'm is that gap. And if if that was free and constant, like, it's a really interesting dataset potentially. Anyways, and is it unique enough that, like, that it would matter to capture on your own and all that. I know. But anyways Yeah.
+
+Jeff Whitlock
+Yeah. Do you you wanna share more about your idea of local of of, like, open sourcing?
+
+Mike Adams
+Can I Yeah? Share my screen for just a quick second before we do that?
+
+Jeff Whitlock
+Yep.
+
+Mike Adams
+Just to build build on that. Existing converse the conversation we've had so far?
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+Alright. So this is, like, the workflow I was working on right before our meeting. So I've got to go to my Grain over here. Oh, that's that's my green one. Jeez. Alright. So I have this meeting with the client earlier today, and this is just, like, so representative of all of my freaking workflows now. And we have this meeting. I've got this, like, reference design concept that I'm trying to, you know, build, and it's, like, the realization during the meeting was just, we're we're kinda we're missing it. We're not really getting it. So I went and scrolled the, like, doc data for the we're trying to build on top of and inside of Claude, and that was, like, incredible. I had it create like, you know, an artifact. My point is I'm working in a folder. For a project. The whole point is I'm trying to achieve some outcome and I'm creating these artifacts along the way. And some of them are right or and some of them are wrong or whatever else, but it's an iterative process. And so anyway, I ripped all that stuff, put it into this content guide, But here's the part where it gets, like, really relevant, and it's represented in my workflow is ideally, you know, the arrive POS would do this. But blah, blah, Here's this file to reference to make sure because I I actually had to revert rewind because it it used the wrong document and gave me bad information. And so I'm like, okay. Look at this you know, reference document and this reference document. And then go use the Grain MCP to search for meetings we've had with the client, get further insight into problem to solve, an approach we could take. So uses the Grain MCP, borrower clicks clicks the client need, system doesn't verify, and in practice, Patty confirmed today many ELOs bypass client needs. Like, that is so good. That's so valuable. To feel like and I didn't have to go grab the transcript and go put it in here. But it's I think it's representative of, like, the work. Right?
+
+Jeff Whitlock
+Mhmm.
+
+Mike Adams
+And this is this is increasingly how I'm using, you know, Grain to drive these processes forward is it's like, I know the information sitting in that that conversation. I just don't have time to synthesize Right?
+
+Jeff Whitlock
+Yep.
+
+Mike Adams
+And so like, it kinda goes back to earlier in the conversation, though, around is there a benefit to so say Claude just had a recorder that was baked in or OpenAI one, and it's like, I think I wouldn't even want it because I don't want to I I want the portability. Right? That's the beauty that Grain gives me is, like, look at freaking co work. Nothing effing works in this damn product ever. API connection error blah blah blah. CoWork is trash. Blot code is amazing. Right? And so even if this local capture like, this Cloud app great, But in a year from now, Claude could be dying and it's some new thing. Right? But I don't want to, like, have to get my workflows trapped in this this tool, but I do need this kinda interface, and it just happens to be that this is the interface that I'm working in. And so I do think that there's, like, there's something really meaningful that we've built with the MCP so far that's, like, related to this conversation, that isn't being leveraged or utilized. Like, if we look at like, by the user base. And honestly, not by me until, like, a few weeks ago when I started doing it again. But if you look at, like, Amplitude, I freaking hate the, like, the know. Changed to where I would normally tab to, like, say, yep. That's the URL I want. Instead, it puts in a stupid AI mode. Drives me nuts. But, anyway, if we if we just look at, like, MCP tool calls, MCP will say session recorded. Is, like, up ticking. We look at, like, the past ninety days and we look at it weekly. It's definitely, like, moving up into the right. But we're we're we got, like, 345 Yeah. I mean, you compare that to, like, where it was in know, November. Right? This this is this we're we're we're double where we were, and I don't think we've necessarily done anything that's concerted to do that. And and while the MCP isn't the best possible approach, I think it's representative of a way to achieve the goal, which is really in line with a lot of Jake was saying earlier in terms of how and how the the the the work gets done. And so yes, we could verticalize but I don't think that that conversation is even necessarily, like, No.
+
+Jeff Whitlock
+It's not entirely mutually exclusive. Is that Yeah.
+
+Mike Adams
+I I feel like, okay. Cool. Then you're you still have to solve this problem. Right?
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+You could verticalize and that's still only kinda solving, like, the download and go into Grain and get your stuff. Like, I I just couldn't agree more with what Jake was saying earlier. It's like, I don't look at the notes. I don't look at the transcripts. Even frankly, like, sometimes it's very rare when I get the video. But the freaking juice of being able to like, I'm I'm mid flow. I've got all this other context. I'm, like, producing an output. And I want Grain to enrich that work that I'm doing it is like massive value, but it's not really baked into how Grin works. And I think on top of that, there's even ways that we could do it even better than the MCP.
+
+Jeff Whitlock
+So anyway I I agree, actually. I really agree with the the the fact that the transcripts because token windows have got so big that the transcript is the most valuable data. And it's too hard. Like, yeah, I agree that it it's like there's no great we haven't built a great way to programmatically get it into the AI tools.
+
+Mike Adams
+And there's nothing in what I was doing Even though I was sharing my screen the whole time, I'd you know, there's nothing in the video data that would have enriched or helped that workflow. It's all in the transcript.
+
+Jeff Whitlock
+Yep.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+What is the best, like, what is the best way to get if the if you frame the conversation as, like, how do you get transcripts into Quad and ChatGPT? What's the best way to do it?
+
+Jake Adams
+Well so when Michael was sharing that screen, I'm like, why didn't they're freaking copy transcript at the home page? Right? Like, that's, like, what I want. Right? It's like, I, like, I don't wanna even jump into it. I got three I have to do what is it? Three clicks to copy? Yeah. And I'm not and and that might be neither here nor there, but ultimately, there On
+
+Mike Adams
+top of the, like, search and find it, you have visually have to. Whereas, I'm, like, I'm in my flow. Telling it what I wanna do, and I say, go get the data. Right? Which is so different than even, like, I gotta get scanned through a bunch of things to even find the copy to click the transcript. So I'm with you, Jake, that surfacing that, I think, is exactly right. Because not everybody is yet in a world where they're, like, using MCP or whatever. But I think that give it give it give it a year from now, I think more and more people are going to be doing what you know, those workflows are. Like, that wasn't it's in the it's in a GitHub repo where, ultimately, there is a project and a code base there but it's this, like, I'm planning in that same space. I'm reaching researching that same space, and it's like, all of my work kinda, like, lives side by side. And I think in a in a year from now, two years from now, that is gonna become even more common practice And the idea of needing to go into an interface at all to find it is, like, like, more and more of a nice to have as opposed to, like, the core workflow.
+
+Jake Adams
+Yeah. So here here's just you know, I'm putting my my late But I do think for
+
+Mike Adams
+now people are lazy copy pasting in, and we should support that much better than we do.
+
+Jake Adams
+Yeah. It's like, here's my lazy dumbass. Right? It's like, here's this blurb. Feedback, Let's work on our feedback. I would test a few recent pitches. Right? Right? Like, this is what you do, and it's we're on a flight at 11:30 at night. Right? And the point to this point is, like, today, the easiest way is to and least friction way that's most accessible is just to copy the transcript. And we make that, about a five second thing. And and we make that about a five second thing. And and then on the other end, I'm I haven't connected to the MCP. It's like I'm like, oh, shoot. I gotta go do that. And, like, it's just it's not easy. Right? It's not, like, not easy. And a lot of these peep like, again, like, this is where it's going, how many of these people are here ready to leverage MCP to use their transcripts to this? Nth degree Not yet.
+
+Jeff Whitlock
+It's just that's a matter of time
+
+Jake Adams
+that, like, it like, this broader sense that, like, of how I think we'll be doing work, which is more through, like, a terminal, like, experience leveraging these external datasets bake that getting visualized. We AI making insights us decisioning and analyzing it, and then making those outputs. Then then conducting those outputs all through that one experience. Right? So that's, like, that meta thing that we haven't really talked about is is, like, and so then it's just this data piece. And so I just think that's where the future goes. Like, it might be a second until, like, that harness and that those The ergonomics of that work for the vast majority of people. Right? Because I'm not even setting up the MCP. Right? And so then it's just that it's that question.
+
+Jeff Whitlock
+What will in a year from now be the way that people what will we what in a year from now will be the best way that for people to get their data from Grain into Kwan? That's what we do. I'm just saying, like Oh, yeah.
+
+Jake Adams
+And so so this is where also I was thinking is, like, I I didn't don't know to work.
+
+Mike Adams
+The right question, Jeff. I agree. Yeah.
+
+Jake Adams
+That's a And so this is where I like, this is the point that I've been talking about, Mike, with on on their It's like, how would I design this?
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+Is that again, the the notes that you're gonna get contextualized through your specific thing that you're trying to do that Claude has all this context around through your files and your and whatever. They're all it's always gonna have a better leverage around the notes. Right? So if you just think about it from that notes perspective, And then then I do wonder is, like, will it also be better having access to the raw data on being able to leverage that that data than through an MCP. Does that make sense? Like, are I Does that make sense?
+
+Jeff Whitlock
+Like, mobile files or what do you what do mean?
+
+Jake Adams
+Files or Snowflake. Right? Yeah. It's like, okay. Actually, this like, will Claude will I get better results in leveraging that data as a Claude user if I'm able to to source the raw data and or point it to that location, whether it's in Snowflake or locally.
+
+Jeff Whitlock
+Can can I ask a question just technical, Why Snowflake? I I get the local point, but, like, what is why why how is Snowflake different than any This store, I guess. Right?
+
+Jake Adams
+I mean, It's just a it's just a like, a yeah. Like I think system storage.
+
+Jeff Whitlock
+It could be any database. Right? Yeah.
+
+Jake Adams
+Any database. I just think yeah. Okay.
+
+Jeff Whitlock
+Got it. I didn't know if there's something unique about it. Don't think.
+
+Jake Adams
+Mhmm. Yeah. I'm using Snowflake in the term for, like, data warehouse and, like, that we use clean.
+
+Jeff Whitlock
+Okay. I like you. Yeah. Yeah. Yeah.
+
+Jake Adams
+Yep.
+
+Jeff Whitlock
+Just direct access to the data, not translated through Yeah.
+
+Jake Adams
+Direct access to locally or to the cloud. Right? Yeah. So the like, I have access to this directly, not through some MCP doing that vector search or work on their end.
+
+Jeff Whitlock
+Yeah. I mean, that's that's yeah. Yeah. Like, what we've all learned from Cloud Code and all that sort of stuff is, like, MCs are not I'm sorry. LLMs are really good at like, doing file system stuff. Like, they know how to use greps. They know how to, like, all that thing. And, like, you don't need to build a fancy, like, search interface if you just have like, rep and text. Which is the it's been a, I think, revelation in the, you know, the research of the files. Yeah, they also know how to write SQL. So if you give them a SQL database, so they know how to write whatever. Right? Like, you don't need these You you don't need the full layer. Full layer, third And if it if it's got this the search in it, like, Scott's
+
+Mike Adams
+I'm not over advocating for MCP as the implementation. I think I'm glad we're having this conversation. Think m p z m MCP Yeah. Yeah.
+
+Jake Adams
+And and I'm talking about, like, what's where where where is the what's the future architecture of this stuff? And, like, for example, like, again, what would be the similar
+
+Mike Adams
+so nice if it was, like, if it just because even as we look here, let's, like, analyze the the MCP calls. Search meetings, Right? It filled this out based on what I said I wanted. Search meetings. Found some meetings, meeting notes, fetch meeting notes, fetch meeting notes. So Is that better than nothing? Yes. Is that what I would have done? No. I were to, like if I had, like, RAIN meeting notes or something in in this local context, then I I would just be like, alright. That meeting, that meeting, that meeting, make sure and and it would this output certainly would have been better if I was able to kinda, like, have more direction on the input that is put in there. Instead, it kinda, like, scratched the surface of Yeah. The value that I know exists in there. And then now I kinda look at it and I go, alright. Cool. But, like, do I do I rewind and I can have it do it again and then and and pull the full transcript in? Like, I I think that yeah, the MCP is not it. Think we're on all on the same page about that. I think it is the question is is what is it?
+
+Jeff Whitlock
+Yeah. Exactly. And it'd be good to it'd be really good to get which I think we're all aligned on is, like, ahead of it. If we Yeah.
+
+Mike Adams
+Exactly.
+
+Jeff Whitlock
+We have a good theory of where it's going, like, let's if we like, because we for all the limitation of m b MCP, if we had launched it, three weeks or three months prior to when we did, like, it potentially could have given us a lot more attention and I still I'm not sure because I think MZV was a dud, but is now. Yeah.
+
+Jake Adams
+It's a It's not it's not a meaningful meaningful But if
+
+Jeff Whitlock
+if the next one is because you'd you would assume that the industry is learning and evolving on how we're learning how I'm Ellen's work.
+
+Mike Adams
+Okay. So let me Jake, install the MCP. Literally, go into Cloud Code or whatever your freaking thing is, and just tell it to install the Grain MCP by, like, linking to the blog post where it tells you how to install the MCP that's what I did to install MCP, and it was freaking awesome. I feel like the problems that we've had MCP and and the reason I hadn't been using MCP for, like, six months is because every time I had go into one of these stupid GUIs, then I changed my client, and sometimes I'm over in Gemini, and sometimes I'm over in ChatGPT, Sometimes I'm in the cloud desktop app. Sometimes I'm in cloud code. That's the beauty of cloud code. Is that it it it actually can install the MCP for I just I asked it to install the MCP and it did. And then I authenticated, and then I was done. I was like, okay. Sweet. Awesome. I'm using the MCP now. That, I think, has been the biggest problem with the MCP. There's issues with how it does search and whatever, but it's like, you you gotta freaking just like Jake was saying, I gotta the transcripts out. I gotta click over here. There's different interface, and then it's changing. And sometimes it works, sometimes it But I think we can all agree that the world is moving more and more towards, like, what what people are experiencing in Cloud Code. And so the question is is if that's the if that's the reality, then MCP is cool better than nothing. A lot better than you going in the interface. But what what would make that seem? What would make that amazing? Is it a CLI? Is it Right.
+
+Jeff Whitlock
+It's like a you and I are riffing on. I mean, I think I think yeah. Like, a CLI I mean, even a CLI that's, like, bundled with the, you know, the Grain app. You install the Grain app.
+
+Mike Adams
+Mhmm. And then, like Kinda like install x code and then it pops up and then it's you know, installs the CLI.
+
+Jeff Whitlock
+The little CLI is available.
+
+Jake Adams
+Obsidian and just launch the CLI? Yeah.
+
+Jeff Whitlock
+And then, like, you go, well, it's a skill. You you just so you could tell Cloud Code, like, this is the grain skill, and then that's you know, it's a skill document. It says, like, use the CLI to fetch the data or whatever.
+
+Mike Adams
+Oh my gosh. I think that's it. When you down when you install Grain on your machine,
+
+Jeff Whitlock
+you get, like excited about this idea. Yeah.
+
+Mike Adams
+It it it just freaking changes your file system and installs So it's fuck it's just sitting there.
+
+Jeff Whitlock
+Right.
+
+Mike Adams
+Yes.
+
+Jeff Whitlock
+And, yeah, you don't have to log in separately because it just it you know, proxies all through the existing app where you've already logged in and everything like that.
+
+Mike Adams
+And so it's It doesn't even matter whether the files are stored remotely or local.
+
+Jeff Whitlock
+Yeah. I mean, I think but, you know, that's that's how to get into technical details. Like, then when you obviously make sure that our search is actually still good enough. And, you know, we can't just leverage the the power of the file system to, you know, for the border search. As long as it's good enough to, you know, get everything you need, then yeah. Think with the size of the libraries that are customers are paying us, like, are dealing with, you probably would Yeah. I mean, it'd be interesting to to to see how what would it how big would like, if I downloaded all of our workspace transcripts into my disc. How I don't know.
+
+Mike Adams
+That seems to me to be, like, Yeah. But a really viable path to where you bundle this idea of connecting Grain when you install the desktop app.
+
+Jeff Whitlock
+Yep.
+
+Mike Adams
+You're putting Grain into the context of all your local agents. Like, we could literally go and freaking update whether it's and it's a cloud desktop app. It's it's codex. It's, you know, it's it's it's whatever it is, we have they're all there.
+
+Jeff Whitlock
+Yep.
+
+Mike Adams
+They're all available for us to, like, you know, yeah.
+
+Jeff Whitlock
+That this thought, like, I really like this idea a lot, because it feels like it accomplishes the goals we're talking about. And and, like you said, makes it sing a little bit. And we're already doing a lot of the work to push the desktop out. That's like It's true. Like, right now, we're about to ship a Grain as a desktop app experiment where, like, you go to grain.com and it says download Grain.
+
+Mike Adams
+And then it pops up and says use Grain in all your use your Grain data in all in your agents. And and it asks for to install the CLI. And hell, yeah. That to me is way more exciting than even the open source path, and it seems way more doable and accessible.
+
+Jeff Whitlock
+Yes.
+
+Mike Adams
+I like the open source idea, which we haven't discussed yet.
+
+Jeff Whitlock
+But, like, It's a marketing strategy in many ways more than, a I I think more more so than, like, a
+
+Mike Adams
+I think this gets at the core problem.
+
+Jake Adams
+The core problem is There is another business opportunity outside of that, but And I I I When
+
+Mike Adams
+I install Grain, and I start using Grain, it makes my agentic workflows where I'm working on projects and actually doing things better. It's accessible. It's part of it.
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+In a way that it's, like, oh, go to a blog post and see if you can figure out how to freaking find the right place. And then we create documentation it, and then they change where how it how the connectors work and you know, I I I just it's it is the experience. It's part of the experience. That's when you guys came back from the off-site, that was, like, the main thing I was, like, harping on was just, like, it it's it has to it has has to go the goal has to be to complete the workflow. To bring the reward back where they actually want, which is they could grain in the data into their workflows, which is where Jake started this whole conversation too. I think we're all feeling it. CLI, baby.
+
+Jake Adams
+So to that point, 're talking about is, like, the opportunity, like, other than just trying to continue to grow this business at a you know, 5% ideal month over month growth, which is noble and is good and, like, we can get there. What gets what I saw is, like, okay. What can we do that granola really does not wanna do because we can YOLO?
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+A little bit more. Right? Like, what they don't wanna do is, like what is is for people to not think their app matters.
+
+Jeff Whitlock
+Yeah. I I I would love to hear kinda And
+
+Jake Adams
+that their that their notes matter.
+
+Jeff Whitlock
+The vision or the idea you yours you you see COVID. Detail. Because I've I kind of been thinking about it, but I got it secondhand. So I'd to hear you kinda just balance this.
+
+Mike Adams
+I have a 04:00. I gotta dip you guys can keep going. I'll catch the recording.
+
+Jeff Whitlock
+I I I like this, though. I really like we're kind of coalescing at the end, but wanna hear this from you, Jake. Thanks, Mike. Thanks, Mike. Yeah.
+
+Mike Adams
+I'm gonna I'm gonna hang out for two more minutes. I'm just saying I have to drop it for Yeah.
+
+Jake Adams
+No. I think, again, it's just what how do you increase the surface level of making agents more accessible? Like, I was even thinking, like, is our is Claude ready to accept data over query parameters, or can you open up a new session on on ChatGPT that can supply data directly. Right? Does that make sense? Like, can I invoke I'm surprised they don't do this? I'm surprised they don't have an SDK for this. That, like like, started a new thread with my data from my app. Does that make sense?
+
+Jeff Whitlock
+Yeah. I'm not doing that. But yeah.
+
+Jake Adams
+You get it? So, like, I'm just, rather than going in and copy and pasting, it's like there would be a button on that that meeting that says, like, send to my send to my AI.
+
+Jeff Whitlock
+Open and close.
+
+Jake Adams
+Started started really like that. I'm just like like, what's the easiest way to, like, new new people?
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+Yeah.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+I mean, like, Chat Studio has something, though. I I don't know. I've never actually haven't looked into it, like, have you guys ever seen where it's, like, if you're in Notion and then you tab over, just share my screen real quick. I actually have not dug into this, but it's like, I'm sorry. Do you see the shoot. One second. So I'm in Notion, and then I come back and work with Notion tab. I haven't actually dug into, like, what is going on there and how are gonna those.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+I'm sure it is. I don't know. But, there's there's might be something there that you can continue to, like, it is weird that you have to, like, unit and then tab over. It's, like, a weird, like, workflow, but I don't know. Worth exploring. We'll have to look into that.
+
+Jake Adams
+Yeah. What it yeah. What is that?
+
+Mike Adams
+I'll test recordings to you guys. Yeah.
+
+Jake Adams
+The Later, Mike. But point being is, okay. Is it, like, the easiest way is to, like, make that more evident through the interface itself that they can leverage that data in that way. Right? And, like, symbol is what I could see is, okay. Copy transcript and, like, and tell them so that they can put it in the like, their You
+
+Jeff Whitlock
+have you have, like, a this is dumb, but, like, this is what you're saying, but you just made me think of it. Like, you can have, like, a copy button where it was Copy for AI. Yeah. Exactly. Like, exactly. Yes.
+
+Jake Adams
+Like, I'm saying copy for ChatGPT.
+
+Jeff Whitlock
+Copy for Yeah. Yeah.
+
+Jake Adams
+I'm saying, like, right here. Like, it's just right here. Right?
+
+Jeff Whitlock
+Yeah. Yeah.
+
+Jake Adams
+Copy for Claude. Right? Like, so it just takes every all the context. In which we which is nothing more than what I think we get here. I think we drop in all the metadata and and that copy. Right? So so I'm just like, what works today? Like, how could if we wanted to if we wanted to drive this behavior, that would be the simplest way. So okay. So so coming back, it's like, I think back to this point around what would be the simplest product that I would would you would build if you were trying to make meeting data more accessible for agents. Right? And it would be simple in the fact that you would remove all the noise around all the other features. And including the notes themselves. Right? And it would just be capture, contextualize, route. And so then and then so and the route can be a matter of just being there or some other mechanisms, say, like, MCP or, like, some I don't know. Or or that it's, like, a like, the specific agent that is supposed to go, like, send to. Like, it's a a call. Right? Like like, it just had tightened that that connection that would make it more integrated into the workflow. And so that and so that's just how I was, like, you know, The simplest version of that would be, yeah, it's all local. It transcribes locally. It's saves locally. And then it's like then I can leverage those just like I would leverage like, my Obsidian notes.
+
+Jeff Whitlock
+I mean, is this like, like, is this does this kind of align? What what what you're saying right here? Like Yeah. Brain Core, Open Source, Skype for My Friendly. You know, just it's that all that we've that's that's it. Right? Like because that's what you need. Mean, even the m four a whatever. Right? Like, the audio itself.
+
+Jake Adams
+Why do you need that?
+
+Jeff Whitlock
+I need it, but it's there. It's an artifact. Yeah. But then then, like, you can layer on top effectively. Right? Yeah.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+Like, I think that's what you're saying. Right? So Yep.
+
+Jake Adams
+That's what I'm saying. And and so that's where I said the the business opportunity potentially, and, again, it just be have to be vetted and thought about is, like, is is taking that unit and actually making that a bundle that can then be used by who are those guys Jump or a Ask Elephant. Understand. And like, that's where I said, like, the bit that there's this other alternative business model of it, like, it being, like, basically recall. But from that infrastructure there so Zapier Interesting. Right? It's like you just say, oh, Zapier, like, or is is zape zap. It's a Zapier. I think it's Zapier.
+
+Jeff Whitlock
+Zapier. Yeah.
+
+Jake Adams
+It's Zapier. Yeah. I talked to my friend about it. Zapier makes you happier is what he said. And okay. Cool. Like, just use the Grain SDK and, like, you got this now. Yeah. So because that's the that's the platform's thing that where there is potentially a model is, like, you have all of these other players that are gonna try to resist alongside in that ecosystem of platform shifts. Or site. So it's like, can you push that out out that way as well?
+
+Jeff Whitlock
+One idea One just like pulling on that thread is, like, is your view bye, Jake. Have a good night. Is your is your view, like, that there's kind of there's kind of, like, is it that basically you open source that SDK, but then but then, like, but then I I I guess That's the thread I'm not fully following is, like, there's a like, the way recall works is basically you pay them to use their SDK. Right? You have to be a customer to get access to it so that's still kind of, like, it's not open source. But are you proposing, like, are you in your mind, are you riffing on a different model? Yeah.
+
+Jake Adams
+And that that it just actually be the just like it could go to all those other providers can also go to the thousands of app that people are gonna use.
+
+Jeff Whitlock
+Random people. Yeah. Exactly. Yeah. Yep.
+
+Jake Adams
+And the thousands of apps that people build.
+
+Jeff Whitlock
+The model like, what's the business model you see there?
+
+Jake Adams
+Just like and that's what again, this is where I was saying with Mike is, like, I haven't thought through distinctly the business model opportunities. Right? It's like it I was, don't know. Like, what's an open source playbook there?
+
+Jeff Whitlock
+And I'm I'm so grounded on our current model that I'm just like, I'm just like, I don't know how that works. Like, I don't understand how you Is
+
+Jake Adams
+is services on top of it. Right? So Yeah.
+
+Jeff Whitlock
+So it's like Ryan and I were on our one on one. We were like, could we were just ripping. We're like, could you reraise money on this idea And then, like, someone keeps operating brain I don't know. And just because I'm so sorry. I'm bringing the It just yeah. It just sounds so yeah. Pair It just sounds so, like, orthogonal to the I'm not saying it's I think it's actually a very interesting idea, by the way. But it seems very orthogonal to like, there might be a way to, like, do Grain as open source, and then, like, some percentage of people who I think this was the idea, like, Mike was was riffing on was, like, some percentage of people who install or or you build Grain app, it still branded Grain. And if people wanna, like, host it, like, we offer, like, a kind of the cloud service version. That's still still a little more thought on me. Like, I don't know exactly how to, like, make that work into it feels like a very different business, but maybe there's something I'm not seeing there.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+No.
+
+Jake Adams
+Totally. It's it's very diff like, like, it's the the question is do you can you actually draw go to market opportunity through that mind share and and exposure? Like, or does it actually just compromise? Like, is it like I was saying, it's like, what are they were not willing to do? Right? Yeah. Great question.
+
+Jeff Whitlock
+It's like it's what got a it's what create a jump. Basically.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+Which is, like, what are what what can we do that, like, Gong and no one else would focus on? Oh, yeah. Sure. No. We don't have to do. Alright. So I love the I love the question. I think it's really interesting.
+
+Jake Adams
+Yeah. I think this is Yeah.
+
+Jeff Whitlock
+I think it just gets the the this sticky wicket for me is, like, it just gets back to like, it's a lot easier to do that when you're failing objectively or you're you know, you're like, you have no business, you're paying salaries on credit card versus, I think, I think we've all you know, I think I think if you go back at different points in time, we've overvalued what we the progress we've made so far, and there's been a risk aversion in a lot of, like, the different moves we've made. But it actually feels now that we're kind of at a point where, like, maybe the risk aversion is justified because we're all you know you know what I mean? So I don't know. It's tricky. Mhmm.
+
+Jake Adams
+Totally. Yeah. Yeah. And I would I guess for me, it's just like yeah, this this is like a hey. Let's you take another big swing at some alternative approach and put a bunch of resources behind it, and spend some time really thinking through that business model. But again, it can totally just compromise to the point where it's like there is actually just no utility. And then then you ask, is that actually is that the inevitability of this all anyways? If we're we're trying to be horizontal, Figure.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+Right?
+
+Jeff Whitlock
+Does that make sense?
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+But the time frame of that inevitability matters a lot. True. Right? That's the key question in a lot of the Can we avoid the permanent underclass? Before then?
+
+Jake Adams
+No. Well, yeah. I mean, but but versus there is, like, you know, the is is the verticalization approach. Right? So it's like, what what what I want us to try to avoid and maybe we don't, and maybe this is just like maybe this is that middle play of just like, of, like, what we are doing today is you said something like, somewhat sort of horizontal. Right?
+
+Jeff Whitlock
+And Well, that's how we're sorry. Invariably, we are sort of horizontal today because we Yeah. Like, we we are not maximalistly horizontal. If we were, we would remove the book a demo site from a website. We would remove all the sales features that we currently have We we are specifically built for SMB to mid market, companies. Like, that's the thing we've been doing for a long time. Which is not truly vertical because, like, we're not pure play AEs or pure play sales managers or pure play you know, financial advisers. So, like, we but, like, but we do have, like, a, like, a target that we we try to focus on as far as, like, company size and company, but there's, like, different personas within Mhmm.
+
+Jake Adams
+Yeah. Versus, like, a granola, I'd say, horizontal.
+
+Jeff Whitlock
+Like Perfectly horizontal. Yeah. Yep. Perfectly horizontal.
+
+Jake Adams
+Yeah. And so for me yeah.
+
+Jeff Whitlock
+We'll have to change that at some point because you know, the challenge with really perfectly horizontal companies is they tend to not have good buyers. Right? It's hard to build a good business on freemium on on a prosumer software.
+
+Jake Adams
+Mhmm. Yeah.
+
+Jeff Whitlock
+You have to be incredibly viral to not ultimately get to a lot a budget item from with from a you know, enterprise buyer. Mhmm.
+
+Jake Adams
+Yeah. And and that's where I think what this this provocation is pushing to the ultimate horizontal to like, that it's it is it's a developed like, almost a developer tool. Right? It's like it's a it's a u it's a util Right? Yeah. Like like, a util with with a file system. And that's, like, as horizontal, like, you know, like, like, really pushing on that end. And so I'm not saying, like, that is there's somewhere in between, but, like, yeah, it's just ultimately the most important question is, like, what do we want?
+
+Jeff Whitlock
+Yeah. Right?
+
+Jake Adams
+What do, like, what what do we wanna be doing, and what do we want the outcome to be, and then maximizing against that. Right? Yeah. So what that what's the type of business we want to build here and, like, what the outcome that we're trying to get to? And then and then that should be driving the other. Because otherwise, like, this is, like, my proposal is, like, yes. It is something that, like, somebody could go and try and money for, and they're probably VBCs for it to do it. But it doesn't necessarily mean that it's gonna make a lot of money. Right? Again, just like don't sometimes I look at a lot of projects that do get funded in the developer ecosystem. Like, how is that, like, ever gonna make money? You know? But you know, But it gets eyeballs in adoption. Right? So Yeah.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+So then it's just this question of, like, are we yeah. What's the horizon here of, like, to get to what we want to? Where does what happens over on a macro level standpoint? If for that and and who is the buyer that gets us there? Right? And then what do they want and what macro changes are gonna happen over that time? That we would wanna get ahead of. Yep.
+
+Jeff Whitlock
+Makes sense. K. Dude, super fun to riff again with and thanks for thinking of us and sharing all these awesome thoughts. Really, a lot of great provocation. Yeah.
+
+Jake Adams
+For sure. Yeah. It's fun.
+
+Jeff Whitlock
+Was there any, like, is there anything else on that on that on that rift that you didn't any other idea in that meeting?
+
+Jake Adams
+No. We we I mean, Mike wanted me to go deeper on, like, kinda, like, how, like, but I I think we all see it. Like, it's, like, you know, There is this inevitability to me as far as from, like, a human computer interaction standpoint. That I was kind of alluding to that, like, the interfaces are progressively gonna die. And, like, people talk about, like, step to SaaS and, like, the, like, first order that they they're thinking, oh, well, it's just the commoditization of being able to build the interface. And for me, it's actually it's the death of the interface. Yeah.
+
+Jeff Whitlock
+Right? The other the other argument you hear a lot of I've been I've been following this death of SaaS thread a lot on Twitter over the last couple weeks is, like, that there won't there is the depth of the c based model because there won't be people in seats. Anymore. Not sure. I I don't know. I don't know. That I I I think there's a lot of there's a lot of uncertainty right now. In kind of helping this stuff will play out. And I think think there's always a little and a a it's not to completely diminish what I think I agree with you on the secular trends front. But I think there's also tends to be an over an over estimation of, like, adoption rates among buyers. Like, I think a a lot of us live, like, really in the in the future.
+
+Jake Adams
+Yeah. Yeah. I feel like I've I feel like it's super I feel like superhuman.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+Right now. Because and, again, it's it's I was talking to some I think I was talking mad about it. I was like, they don't get it yet. So, like, CoWork's not there because the the ergonomics the muscle memory isn't there. Right? Right?
+
+Jeff Whitlock
+Like, I get I'm listening some sick co co work feature? Yeah. Yeah.
+
+Jake Adams
+Because half the half the power is being able to navigate the commands and the file system. Which, you know, Ryan and I can do through the terminal because we've been working in that world for so long.
+
+Jeff Whitlock
+Yeah. Right?
+
+Jake Adams
+Does that make sense? That's the delta in a lot of ways between co work and the terminal. Is that I can use my keyboard and I can navigate because we have 70 I don't know. What what when do you think the term like, when do you think, like, VIM was in, like, this terminal, like, was Yeah. Keep keep bindings where 50 years old, 70 years old? Right? Like, human computer interaction has been optimized over 50 to 70 years old. 50 to 70 years. Right? Do you get what I'm saying there, Jeff? Around, like, navigating a terminal and, like, how, like,
+
+Jeff Whitlock
+I I think your point your point is you're saying, for someone who's not natively comfortable in the term role, that sort of intimidation slash lack of skill is the delta between why someone is willing to do you know, Versus code plus GSD plus Cloud Code that's set up that Mike that Mike showed me first is Well, I guess here here's what I'm saying.
+
+Jake Adams
+It's like, I think the narrative gets pushed too much around people programming.
+
+Jeff Whitlock
+I'm too I'm just core everyday GUI people are using.
+
+Jake Adams
+Doing the work you do.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+Right? Yeah. Does that make sense? Like, here like, let me just show you. Like, here here is like, this is what I'm like, I am I guess, did it install correctly? We'll have to test it. But you know, like, here is one thing I'm like, I'm just building up this schedule here. It's just work that I'm using leveraging this to do. Here, I'm, like, yeah. This is something like, it's like, this is connected to my Notion. So I'm I'm here's my investor database. Database. That I am using like, Claude code to one go fetch data and add data to Notion.
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+And then I'm using cloud code to like, so Notion is just my database. Right? Yep. And then I'm fetching and and and updating through and and then analyzing through Claude.
+
+Jeff Whitlock
+I gotta send you this tweet that I sent Mike. It's what you're you're this is a this is the living incarnation of the analysis of this tweet. He basically says, like, he his I mean, this isn't entirely unique. I've seen other people do it. But he says, like, there's basically three levels of software There's there is level one is the c r the so the bottom layer is the system of record. So in this case, Notion is effectively your system of record for your investors, but it's probably your system of record for some other things. And then there's the middle layer, which is the currents most a lot of current SaaS which is, like, fast UI dashboards, buttons. You click And then there's the top layer, which is, like, AI agents that execute the work.
+
+Jake Adams
+Mhmm. Yep. And yeah. Exactly. And and and that's that other part that, like, I need to get to too. It's like, okay. I'm I am able to do this. I don't I'm not still using an agent here. Right? I'm just using okay. I have data out here. Right? So I have this is an example. It's like, I went and downloaded through Cloud Code. I loaded 30,000,000 rows of transaction datas over the last five years of mortgages. Right?
+
+Jeff Whitlock
+Mhmm.
+
+Jake Adams
+And then this folder, I'm using to, like, and analyze all that. Right? So breakdown by age, home tran transactions, in Utah, by each year. It probably doesn't even need me to so point being here, is that I'm not trying to program something. I'm just trying to interface with data.
+
+Jeff Whitlock
+Instead of going inside of Excel, and writing a bunch of clear, you know, like, formulas and cells and or maybe doing a table and blah blah. You're just using AI.
+
+Jake Adams
+Then take that dataset and then use that against to do some more work. Yeah.
+
+Jeff Whitlock
+Exactly.
+
+Jake Adams
+Does that make sense?
+
+Jeff Whitlock
+Yeah. Right?
+
+Jake Adams
+And then the same thing here. Like, it's the same thing. So it's like, I don't need Notion. I don't need Snowflake. I, like, it can render and then and action as well. Yep.
+
+Jeff Whitlock
+Right?
+
+Jake Adams
+So I could say, like, okay. Here's here's my here's my here's my my investors. Okay. Now go and update or send send off these emails. Right? Like, that's how I see it's like data data aggregation, decisioning and actioning, to to and then and and then that happening in up and therefore updating. Right? Or send it out. Go ahead. Two thoughts.
+
+Jeff Whitlock
+One is I think a very promising business is building a cloud code terminal based email client. Think someone should do that, by the way. If if they have it.
+
+Jake Adams
+Oh, it's it's the one dataset I like, really don't have that I want.
+
+Jeff Whitlock
+Exactly. And then you can't yeah. It's, like, it's crazy because, like, maybe some cases, can pull data, but I don't know of a a terminal that just lets you just send draft and send AI, like, emails outside. You know? They're all like, you have to go into the GUI to send them. It's or or an extension. I've seen extensions do it.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+Or I guess or I guess you could do like this, yeah, maybe I'm not oh, sorry. Like like, for example, like, I can write in Cloud Code or any age, know, try it. Draft this email and customize it to these 50 people with if I'm, like, send the emails, I've not found a way to do that. It's my map or SMTP. Right? That's all good. Yeah. Business clients. You're more technical than me. Understand. But oh, email clients are not none of the new. Like, you can totally build, like, a MCP or a skill or anything like that. Maybe is maybe this is my next my next cloud toad project.
+
+Jake Adams
+Yeah. Yeah. No.
+
+Jeff Whitlock
+It's it's it's still any plans?
+
+Jake Adams
+Well, that's what people have liked about this whole, like, in OpenClaw, and maybe that's thread to pull on is, like, the I mean, playing around with that as well. Yeah.
+
+Jeff Whitlock
+I started I followed up in cloud this weekend, but I didn't get I didn't play around with it.
+
+Jake Adams
+I need to do something. And point being is yeah, it's like, that can get around a lot of this, like, data access stuff. Right? So, like, but and, again, I don't think I don't think it's another program. I just think it's, like, it's probably just like, whatever end state that most consumers interface through, which, like, via via quad code. Right? Does that make sense?
+
+Jeff Whitlock
+Yeah.
+
+Jake Adams
+Like, whether it's Cloud Code or some other interface like, is like that, but that is more user friendly to the to normies.
+
+Jeff Whitlock
+Yeah. I'll play with Cloud Code. Do can does Cloud Code, like, authenticate as you on Google, like, Gmail or whatever?
+
+Jake Adams
+No. No. That's the the delta right now.
+
+Jeff Whitlock
+It's like You're you're saying that, like, eventually, Gmail will let you do that?
+
+Jake Adams
+Yeah. You're you're gonna have to find some way for me to be able to, like, access that data People
+
+Jeff Whitlock
+have built, like, Claude, Claude bot. Like, Extensions for plugins. Plugins. That's how you do it. Yeah. Connect it.
+
+Jake Adams
+Yeah. So it's available in in, yeah, in CloudBot because they can, you know, just uses Interesting. The UI. Right? But it's not it's not actually really easy to connect Gmail to Claude today. Claude with the Claude code.
+
+Jeff Whitlock
+It's it's probably a little janky. Yeah. Interesting.
+
+Jake Adams
+Yeah.
+
+Jeff Whitlock
+Well, this has been super fun, Jake. I appreciate it, man.
+
+Jake Adams
+Oh, so here's your you know, this is how you render. Right?
+
+Jeff Whitlock
+The announcer. Yes.
+
+Jake Adams
+You know, here's by eight. Did we just do this by by eight band? Right?
+
+Jeff Whitlock
+The age of the property?
+
+Jake Adams
+This is by user you this is a buyer age.
+
+Jeff Whitlock
+Buyer age. Got it. Yeah.
+
+Jake Adams
+Yeah. There's actually a pretty sobering like, Dude, that's insane, man. Yeah.
+
+Jeff Whitlock
+Where'd you get where'd you get this data?
+
+Jake Adams
+So it's it's public data. It's called HMDA is the and so actually used Claude Claude to rip to pull it down and load it. Stream it back up to snuff like HMDI? HMDA, I think, is the dataset. Yeah. Like, it's crazy analysis. Like, here's actually, if you have a here, breakdown by year average in different bands the home price sells This is, like, the most separate to the other data?
+
+Jeff Whitlock
+So this is across East Utah.
+
+Jake Adams
+This is just Utah. So this is the number of buyers per year by Yeah. Well, like, what you see here is that, That is insane.
+
+Jeff Whitlock
+So, basically, young people are just camp by not by home. Anymore.
+
+Jake Adams
+Yeah. Yeah. Young people aren't buying homes anymore. Yeah.
+
+Jeff Whitlock
+Can I use this data?
+
+Jake Adams
+I wanna write I have saw I have some good con I'll just send you over these ones that I have a bunch that I wrote. For you, Todd. This this is the is the most sobering one. Look at this one. In 2018, an prices under 200,000 was 40 represented 14% of the market in Utah.
+
+Jeff Whitlock
+Yep.
+
+Jake Adams
+It's 1.5% of the market today. Jeez. Does that make sense? Yeah.
+
+Jeff Whitlock
+Can you go up?
+
+Jake Adams
+So you had six only 635 homes sell in Utah for a 100 Under under ten dollars. Yeah. This is this Utah, this is one of the most drastic markets. It's crazy. Yeah. And so yeah, and so that's where we we we get to is, like, that that yeah. That supply has just been the like, literally evaporated. Right? Versus, like, now you have your half a million look at look at a million seven x. In a matter of seven, what, seven years?
+
+Jeff Whitlock
+Seven years.
+
+Jake Adams
+Seven next in seven years. Your billion dollar homes. And so what we say is, like, we got, like we're, like well, we're we focus on the medium. Right? It's like kinda like the upper median class making $150,000 a year, but, like, nothing we can do right now to, like, fix this. Right? Crazy. Yeah. You the only the only person that can fix it, like, you like, somehow you gotta get the money which doesn't really solve it, or do you have to, like, subsidize supply? Utah is in Utah is in spot.
+
+Jeff Whitlock
+I thought it was Utah. It's our whole country, but, yeah, Utah is especially It
+
+Jake Adams
+feels the the the the relative change over that time frame from the data I was You're saying you're the most?
+
+Jeff Whitlock
+Drastic.
+
+Jake Adams
+It feels the it the most drastic and acute relative Like, one of the most drastic in acute.
+
+Jeff Whitlock
+Point is, like, yeah. Yeah. I buy that. I buy that. I think I think think a lot of yeah. It's really it's really it's really interesting. Arizona has been pretty acute too. Mhmm.
+
+Jake Adams
+Yeah. It's right there. Yeah.
+
+Jeff Whitlock
+It's so crazy. So crazy. Cool. Know this is fun. I appreciate it, Jake. Cool.
+
+Jake Adams
+Alright. We'll keep let let me know if I, yeah, I can be helpful in the future. K? Yeah.
+
+Jeff Whitlock
+Likewise. You guys.
+
+Jake Adams
+See you later.
+
+Jeff Whitlock
+Bye.

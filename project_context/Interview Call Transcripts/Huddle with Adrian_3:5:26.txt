@@ -1,0 +1,123 @@
+Internal Sync: Project Management & AI Integration
+
+Date: 3/5/2026, 10:35:14 AM • Duration: 12m
+
+Participants: Speaker 1, Speaker 2
+
+Grain URL: https://grain.com/note/3e9559b8-6fcc-4f96-a160-46e0e23cfa63/rt1TsFE8KDDZm2Ddi8miOgOAZGk0WbDhrM4JjaAk
+
+--- TRANSCRIPT ---
+
+Speaker 1
+What's going on? I got, like, fifteen minutes. So if you can work with that. Yeah. I probably have little less even because I got a meeting a lot. Perfect. That I gotta drive to. No worries. Okay. So first, I'm totally on the same wave length as you on a lot of this stuff, and I think we're gonna start moving really hard in this direction. We have a few legacy projects. We're just trying to fix trying to finish up, we're still doing some polish on this new live experience we shipped, and then there's, like, a new home page we're shipping here in a minute that kinda combines the calendar and meeting page that I I think you'll like. It kinda just makes the app
+
+Speaker 2
+Oh, not a home page for the website, but a home page for the app. And this owners of Taylor when she said that.
+
+Speaker 1
+Okay. No. That makes sense? It's just kinda combining calendar and meetings into the same page and it simplifies the sort of things. So, anyway, that's gonna go out here. It also it also includes, like, simplifications for coordination between local captures and bots in a way that's way better than now, so they don't duplicate. But anyway, so that's all coming up.
+
+Speaker 2
+I'm not seeing any duplicates right now, but
+
+Speaker 1
+That's because we got we we just had, like, clever settings that we kind of set default for everyone. But can still be duplicated very easy. There's no, like, actually, back end coordination, but that's that's coming out really soon. Anyway, so there's a few there's a few legacy projects we're trying to get out. Then kind of all of our main focus as a company will be in this kind of direction of, like, I need, like, quicker I need better language to describe it, but just kind of, projects, building context, having meetings build context, and then making that context very easy to get into AI agents, basically, is, like, the the theme So very much aligned with a lot of your ideas. The thing that I wanted to so there's a couple things. I I wanna get a little bit more detail on your, like, create a meeting link idea, but I actually wanted to understand a little bit more about if you kind of had your druthers, how you would imagine projects work. Could kinda share my thoughts, and then you could riff on them, or you could just kinda blank slate it for me. Whichever you think is better.
+
+Speaker 2
+I'll could blank slate it for you.
+
+Speaker 1
+K.
+
+Speaker 2
+I mean, I think this comes back to, like, sharing infrastructure and Teams and stuff. Right? Yeah. My use case for Teams is not very strong because of it's basically enterprise, which is fine. Yep. Enterprise. Yeah. The ability like, right now, if we're doing projects from playlist or if I'm mapping on that, it's like first of all, the interface inside of a of a playlist or a project sucks. Right? Yeah. Exactly. So just like the layout, the, like, when something was added, the ability to move things around, like, you know, maybe star a meeting or something, like, just to be able to triage and make it a little bit of a hierarchy if I'm creating one for a, you know, a a you know, I wanna go there and see the project, maybe see the most recent meeting as, like, a thumbnail see everything else as a list. Just make it feel like it has more intention than it does right now. Yeah. Yep. Agreed. Even to the point of being able to write, like, you know, what the point of the project. Right? And is this context yeah. Yeah. And and also, like, related links. Like, you know, I would basically probably have the grains project be, like, pointing them to, like, their Slack and or the Slack channel and the documents and, like, it would basically become the home page because for me to the meetings and the transcripts are the most important part of that whole thing. Yep. Know, also, you know, not at default, but, like, the ability maybe to turn on, like, hey. Is it tracking the tasks are in the meetings that were detected and then showing them like, I think for some for some projects that would be really good, like, clients specific things, that'd be really good. For other projects where it's more like features and stuff, like, maybe that's gets a bit messy. The ability to turn that on and off if I want to or as an admin, like, have control over that, think is good. But then the most important part is, like, you know, being able to create the project and say, like, every single time x y z person is in gets a is in a meeting, like, gets automatically added into here. Yeah. Like, I can take it out if I want, but, like, I the the amount of project management that's happening based off of putting things into playlists and tagging things. Fucking sucks right now. Like, biggest Yeah. Biggest sucky thing is that in terms of, like you know, even it happened the other day, like, my my of the devs was like, hey. Like, where's the meeting link? He found it. He went in, and I was like, I know it's not right. Because I haven't updated it in six months or whatever it was. Yeah. Like, that person should always feel confident that the most recent meeting is in there. I think in terms of you know, future things with automation and Zapier and things, know, there's also the, like, that meeting just got added to that playlist. Like, I trigger an automation based off of it? Also is huge if we're thinking, you know, that's like p one or p down the line. Right? But the API may already be able to do that. Don't even remember. The the Zapier integration may be able to do that. It would. And then And then also being able to, like, upload directly into that project. If I wanna upload. Right? Because, like Yeah. You know, for me, the projects start to get a little like and I and I told Taylor this in my last meeting. Like, I'm increasingly finding that I'm putting nonmeeting things into Grain into playlists more often. Right? Will download a YouTube video and throw it in there. Because it's all about context. Right, which I think is what you're talking about in general. This is just about meeting. But, like, if I find a great video that's, like, this the CTO of living here talking about some cool shit, I might throw it in a general chat that's about that's that's about, like, our dev principles or something. Right? And and share it out with the team or have have the cloud MCP be have access to it so that when it's writing tickets, it can look at that transcript. Like, it's really getting towards a world where it's like video it's the video knowledge base from my perspective, where it's transcript based knowledge base. But, like, from a positioning perspective, I think there's some awkward parts there. But Yeah. Some of that is quality of life stuff. Right? I just don't wanna have to click 15 times to upload it into that project. That's why it's like, can I create an invite directly from inside that project so that I don't have to think about Putting sorting it into that?
+
+Speaker 1
+Yeah. Yeah. It just automatically would push it back in.
+
+Speaker 2
+Yeah. This is, like, similar to the thing that I said to Taylor in the chat. In the products feedback, like, I think two days ago or something about, like, you know, in the LiveNotetaker, I wanna be able to put it into that specific playlist in like, or tag it, like, during the meeting. Because if I do it during the meeting, two seconds, then I don't have to worry about it again. And that's, like, a great middle ground towards it's all routing and doing it itself because I have rules.
+
+Speaker 1
+Yep.
+
+Speaker 2
+Does that answer your question? What are what kind of pockets can I answer?
+
+Speaker 1
+This is there are Right. Couple of quick follow ups. So I imagine, like, my my thought on rules would be, like, if like, meeting titles, domains, people. Probably.
+
+Speaker 2
+Yes. Mhmm. Like and then you can do it and or whatever. Yeah. Yep.
+
+Speaker 1
+Okay. And then Yeah.
+
+Speaker 2
+I think I think if I have to prioritize, it's domains, specific emails, titles, and then whatever you also have if I have to prioritize it. Got it. Yep. Like, domains and specific emails is by far the most important. K. And then That will take, like, 90% of the use cases. And and the ability to just combine them. Right? I would say, like, you know, this person's Gmail that person's domain, like You want email itself is the the real anchor. Yeah. Yeah.
+
+Speaker 1
+And then the other thought the other question I had was, like, I imagine it'd be very useful to be able to download a markdown file with, like, all of the transcripts for the whole project along with additional context and potentially even I don't. Sorry. Yeah?
+
+Speaker 2
+Keep going. No. No. Keep going.
+
+Speaker 1
+I was saying potentially even be able to spin up, like, temporary links that just have, like, plain text all the data so that you could like, say, open in cloud and then just pulls up, like, a a reference to that document that Claude can easily read or whatever.
+
+Speaker 2
+Agree. Agree. I think but I would argue in terms of segmentation based off of my experience, what you want is a similar export to the way that does its exports. Where you have like, a read me, Maybe you have your contacts, but, like, each of the meeting transcripts should be it's own markdown file. Yep. Okay. You should not be putting everything into one, especially if people are going it's too much yeah. It's you want to emulate the way that the codebase works. Not thrown because it just makes the context window stupid.
+
+Speaker 1
+Yeah.
+
+Speaker 2
+Okay.
+
+Speaker 1
+Yeah.
+
+Speaker 2
+But, like, a read me and then any extra information But, yeah, it's kinda similar to what I was saying with, like, the oh, I've been often copying, like, the meeting summary and the transcript with into the thing just because it, like, the meeting the the meeting summary almost acts as a read me file. Right? It's like helping it look at something short and say, like, what is this meeting about before it the actual transcript itself. Clogs up the context window. Yeah. But I think links are great. In terms of links and how that kind of thing works, are you do you guys use jam.dev?
+
+Speaker 1
+I don't use it. No.
+
+Speaker 2
+Okay. They just launched something you might wanna look at where, like, they basically well, long story short, the way that they handle creating links and passing links off to, LLMs is very elegant. You could look at them for inspiration as well. K. But, yeah, having, like, a short like, a really lightweight page where it's able to pull everything and download it what it wants, I think would be huge and really cut down on the, like, Yeah. That's exactly what we came in. Desktop.
+
+Speaker 1
+Yeah.
+
+Speaker 2
+Okay. Cool. I think that's a really good idea. I would say that's I would once I want both, but, like, that's huge. And even if it's, like, yeah. Anyway, you you said it. Anything else?
+
+Speaker 1
+Okay. And then last I gotta run here. But last thing is I don't imagine I guess like, having just, like, a standard kind of I I guess the vast majority for in your case and probably a lot of people is the vast majority of real stuff is kinda getting the data into cloud. But, like, having, like, a quick, like, ask component or whatever for the project would be marginally helpful. I guess my question is what about, like Yeah.
+
+Speaker 2
+I mean, I use that For me, I use it all the time. I use the ask and play this all the time.
+
+Speaker 1
+Yeah. Me too. Me too. Yeah. Just for, like, quick questions. But if I'm doing something more heavy, then I'll pull it into cloud. Okay.
+
+Speaker 2
+The other quick It's more like, can you find me something is the major use case. Yeah.
+
+Speaker 1
+Okay. And then Where it is? And then what about, what about, like, having something, like, custom prompts for, like, a standard summary of the project that, like, updates every time new stuff gets added for, like, almost, a project based notes or project based summary. That what's the value of that?
+
+Speaker 2
+I think about it I think about it more like you wanna see I would think or I would think of structuring it more like a you know, how in in linear or in, like, Jira or Asana, you can do, like, a project update. Yeah. I would think about it more like that. So I think about it as replacing itself. I would think about it or, like, updating, I would think about it as, like, here's the new project update. I can cycle between the project updates based off of the meetings that are, landing.
+
+Speaker 1
+Okay. Not like not like a like a continually running document that constantly gets re No. Added, but more like No. No. No. Don't segmented. Do it that way. You could have, like, a you could have, a button or something that says, like, summarize all the updates or something. Like, maybe if you need aggregation or even
+
+Speaker 2
+But the the benefit of splitting it up that way is that you can track changes. Yeah. Yeah. Okay. Which is an important part of a meeting because you're basically tracking decisions. Because at that point, it's like, oh, the the client set x y z, and then in two updates ago, or two updates later, the client set something else. You could go back and see, like, oh, actually, no. The client has contradicted themselves without having to go and do deep analysis. Much more helpful. So think about it as, a decision log, I think. That has that regenerates a new decision log every single time something lands in that Okay.
+
+Speaker 1
+Alright. This is so helpful. I gotta run, but thank you so much, man.
+
+Speaker 2
+K. See you later. Later. Bye.

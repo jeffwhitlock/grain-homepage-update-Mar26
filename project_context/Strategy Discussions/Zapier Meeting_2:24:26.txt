@@ -1,0 +1,630 @@
+Mike / Wade / Jeff
+
+Date: 2/24/2026, 1:31:38 PM • Duration: 47m
+
+Participants: Mike Adams, Wade Foster, Jeff Whitlock
+
+Grain URL: https://grain.com/share/recording/cac0460a-84ca-4f02-a0c6-2a74050606df/tjrDAuwM6uGSBlyMBad6s38quwp43Yu4LacHleiT
+
+--- TRANSCRIPT ---
+
+Mike Adams
+There was a party. Well, I think 100 member family member of more breeding party, but so not like our dude. No.
+
+Wade Foster
+I got Like, a party Cancun 4,000 people or something.
+
+Mike Adams
+So Alright.
+
+Wade Foster
+So, you know, know, 10% of the people.
+
+Mike Adams
+Yeah. And most importantly, we all get to spend a lot of time with each other and our my grandpa who is getting up there in age 90.
+
+Wade Foster
+How?
+
+Mike Adams
+90.
+
+Wade Foster
+90. That's impressive. 90 year old getting on a cruise?
+
+Mike Adams
+Yeah. He's he's starting to slow down. Sands of Alzheimer's are starting, but Mhmm. They'll be alright. It's just that's what happens. You get old.
+
+Wade Foster
+Yeah. I was pretty lucky. Both my grandpas lived to be 98 and were, like, pretty fit, well into their nineties. I remember Crazy. My when I was back out in in the Bay Area, my grandpa came and visited when it was probably, like, 94. And I we took we took and chartered a boat out, on the Bay Area and went fishing with a fishing guide.
+
+Mike Adams
+Oh, cool.
+
+Wade Foster
+And so and he was, like, catching fish all day, like, having a good time. You know?
+
+Mike Adams
+94, reeling in that sturgeon.
+
+Wade Foster
+A 100%. Yeah. So yeah. Hopefully, it's same for your grandpa.
+
+Mike Adams
+Yep.
+
+Wade Foster
+Jeff, good to meet you.
+
+Mike Adams
+I'm hoping so.
+
+Wade Foster
+Mhmm. How's guessing you didn't go on any cruises lately.
+
+Jeff Whitlock
+No. I have not been on a nope. Yeah. The last cruise I went on, let's see, was it's been a while now. Three or four years.
+
+Wade Foster
+Mhmm.
+
+Jeff Whitlock
+Yeah.
+
+Wade Foster
+Yeah. I I've it's been forever since I've been on a cruise, and I kinda I I went on one and I was like, it was okay. Hey. I don't know that it really, like, scratched that itch for me, but then so I I haven't gone on one since. But I did after I after my my sister got married at a all in one resort. Also, again, sort of, same vibe, not, like, not exactly thing that I'm, like, into. But I went there with my kids. And then I was like, oh, I understand. Like, I see the value of this thing now. Like, when you have young kids, I was like, I bet a cruise with young kids would be way, way better.
+
+Jeff Whitlock
+Yep.
+
+Mike Adams
+Especially with, like, when we had so many, it was, like, they get to just run around kids need more freedom autonomy in, like, 2026. And on a cruise boat, you can give them a lot. Because it they're not gonna fall over the edge. They're they're not Yeah. Gonna go 100%.
+
+Wade Foster
+Well, it sounded like after we chatted last time, Mike, you all had, the the two of you all had a had some long jam sessions where I don't know that you're talking about Napier much, but it sounded like you drew some similar conclusions.
+
+Mike Adams
+Definitely. And I would say thematically aligned. I'd I'd imagine that, you know, we're two of you know, that are kind of all grappling with the same thing of, like, these an increasing power player in horizontal productivity world or, like, kinda workflow world increasingly feels like CloudCode.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+And and what does what does that mean? What does that mean when you got oak pla? Right? What does that mean when you got, you know, your personal, you know, agent? A lot of these things will start to feel kind of like, go from the theoretical to the realized. And then where our discussion kinda come came in was, like, what is the role for specialized parts of that value change around, like, capture You know? Know, Zapier's case, like, automation, storage of of information, And I riffing a little bit earlier today as well about Zapier and just, like, advantage you guys have around being this, like, kinda one stop shop for not just connectivity because the connection's part of all of these check clients is one of the worst experiences.
+
+Wade Foster
+But Mhmm.
+
+Mike Adams
+But really an enablement for like, AgenTeq action and and and and tasking because it's and documented as well, and it's, you know, kinda one click. And so Jeff and I were you know, kinda riffing on that a little bit. We you know, there's some discussions around kinda grain of the CLI, maybe even open our desktop app. Like, there's just a bunch of different plays right now. Don't feel like we could make. That all of which could make sense just given how much a changing and how fast it's all changing. So that's a little bit of a kind of a catch up of our conversation since we last chat. Chatted, but curious if you have any kinda new thoughts as as well that might be also maybe new to Jeff.
+
+Wade Foster
+Yeah. One.
+
+Mike Adams
+Last call, so he's up to speed on it.
+
+Wade Foster
+Alright. Cool. The beauty of grain. Remind me what's a how did you all build your transcription service We just use Assembly. Okay. Got it. And so they power all the transcription behind the scenes?
+
+Mike Adams
+Yep.
+
+Wade Foster
+Do you like it?
+
+Jeff Whitlock
+Yeah. It's pretty good. I mean, this whole the whole transcription space is pretty commoditizing. There's a lot providers. We tried several of them. We recently tried Deepgram too, but Assembly tends to be the best to work with. And our experience are very fast, and they provide a lot of different languages and and support for various modalities that we need.
+
+Wade Foster
+Yeah. And then, you you know, you mentioned talking about, like, CLI, open source, etcetera. I so it does feel increasingly important that basically everyone is asked needs to have like, CLI, API, like because that's that's how these tools are gonna get used and in both.
+
+Mike Adams
+Yeah.
+
+Wade Foster
+You all do feel like somewhat like, a little different because the meeting does have some, like, surface area. Exposure for you So you know, you probably still need well, I guess you don't necessarily need a desktop app. You can just have, like, a launcher through No.
+
+Jeff Whitlock
+We need we need a desktop app.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+The the market is insisting on it because they're tired of these bots.
+
+Jeff Whitlock
+Yeah.
+
+Wade Foster
+Okay. Yeah. Makes sense. I mean, so that that allows you to go botless, basically.
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+And And the platforms themselves are trying to shut out the bots.
+
+Wade Foster
+Zoom and whatnot?
+
+Jeff Whitlock
+Yeah. That's that's it's a it's a long it's gonna be a long battle, but that they're all clearly really sick of it because they're customers are sick of it, especially their high end, high paying customers. Like their banks. Like, they're like, we can't have these random stuff show up to our meetings So it's kind of like a tit for tat battle right now between bots and the different various hurdles that the platforms are trying to put on them from being able to join as participant But they're okay with botless?
+
+Mike Adams
+They don't have control.
+
+Jeff Whitlock
+Yeah.
+
+Wade Foster
+Yeah. I know that. Mhmm.
+
+Jeff Whitlock
+I don't think it matters. It's just yeah.
+
+Wade Foster
+Yeah. Yeah. You put the You put the consent all this in
+
+Jeff Whitlock
+the you put on the end user But, like, the way that Zoom purse the way that, like, you know, like, Bank of America perceives it when a bot joins Zoom is that a Zoom's responsibility because it's it's a participant on the Zoom platform?
+
+Wade Foster
+I see.
+
+Mike Adams
+Whereas the, like, kinda granola push has been I think we talked about it this a little bit last time is that I think, one of our bigger strategic makes was kinda almost big brothering our users a little bit too much around. It's like, well, it's not legal, and we don't wanna to be a wiretapping tool and whatever else. And Granolah is just like, screw that. Push that onto the users. Let them use it however they want, and then the market said, yes. This is what we want. Give me the responsibility to follow the law and, like, put that responsibility on me. Because I hate these bots so much, and I just want this consistent method of capture. So have that now. Like, we launched it in, what, September? The local capture. But I think Grimola really capture a lot more than mindshare around that idea of, like, botless. Worked on a little bit of catch up there.
+
+Wade Foster
+How do you see the rest of the landscape? You mentioned granola, but there's a to your point, there's ton of these. There's, like, fathom and firefly and otter and Reed and don't know. I'm sure I like, there's the vertical stuff like DONG and yeah.
+
+Mike Adams
+Yeah. I'll let Jeff answer. I might take a bit.
+
+Jeff Whitlock
+Yeah. I mean, so the question you're just kinda saying, like, generally, what what's my my take on the space?
+
+Wade Foster
+Well, yeah. Like, my my read is, like, most of those are are, like, bigger than you guys. Maybe I'm wrong, but, like, I'm curious, like, like, what do you think they're doing to have caused that? Yeah.
+
+Jeff Whitlock
+Yeah. I mean, they I'd say the not all of them are bigger than us. There's quite there's a few that were bigger than, but the ones that are bigger than us are, Otter, Fathom, Gong, the ones you named, basically.
+
+Wade Foster
+Yeah. Yeah.
+
+Jeff Whitlock
+I think you know, there's a different story for each of them. Like, I'd say, Otter was the first mover. They're the one who really and they went, like, really, like, prosumer Fathom just out did a very good job, being very aggressive on freemium and growth. And not monetizing and then also having a very early partnership with Zoom that helped, when Zoom was launching their their app marketplace, that's kinda has gone nowhere and failed. But, initially, they were really promoting apps and Adam was, like, their headliner app. And so that got I know, like, from some information I got that, like, hundreds of thousands of users.
+
+Mike Adams
+And one of the, like, backstory reasons for that is, like, we were so much earlier and the platform was, like, so much more of a disaster.
+
+Wade Foster
+Mhmm.
+
+Mike Adams
+By the time they finally did the Zoom apps, we had just had, like, so much pain and frustration and work. With them. Is that, like, it it wasn't as you know, top priority for us to make sure that that relationship was gonna give us that opportunity to be, like, an essential included app for everybody who signs for Zoom is gonna also get a free Vatom account. And, unfortunately, you know, just kinda just misplated a little bit in terms of priorities largely because we were earlier and Zoom's platform was such a disaster that we just kinda took her out of the ball a little bit and tried to move past it. And missed the window.
+
+Wade Foster
+Interesting.
+
+Jeff Whitlock
+Yeah. Fireflies is an interesting one because I think they're quite big, but they're not really their buyers are not really in our Otter is similar to this, are not really in the markets we play in. Like, rarely run into them anymore.
+
+Mike Adams
+We never run into them.
+
+Jeff Whitlock
+It's why because a lot of international companies a lot of a lot of prosumer use. We're we're really we try to focus on kinda like, company use. I mean, we do have our share of pro sumers, but, like, we don't have a ton of academic use. We don't have a ton of just, like, one off use cases and individual uses, podcasting, etcetera, etcetera. Like, we have much more kind of in the SMB mid market agency space and and SaaS Yeah.
+
+Mike Adams
+So I can answer kinda why question, which is my this is my perspective. But it's Fireflies is always a much lower quality product in terms of user experience and reliability. However, they took an interesting strategy that I think worked really well for them, which was just almost a zap a zapier strategy. They just went integration to the moon. Every single thing was an integration.
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+And most of their integrations didn't work very well or were broken or whatever.
+
+Wade Foster
+But they checked the box Mhmm.
+
+Mike Adams
+Of kinda from an enterprise buyer and from a consumer buyer around just transcription. That follows me a transcriber that follows me around. And integrates with everything I wanna do. And then they find out later that it doesn't really work. But I think that their strategy has actually worked to where then they raise money, use that kind of growth to then eventually make it prettier and better. To where Fireflies is actually pretty solid product now, but I always wrote off Fireflies because their product drops are so bad. Over the years. But their growth drops ended up being pretty solid. And then they kinda made up ground on the product side, where I still think not as nearly as good a product as as something like Grain or even Fathom definitely not as good as, like, a granola. But there's strategy was, I think, worked out because of that you know, hyper integration play.
+
+Wade Foster
+Mhmm.
+
+Mike Adams
+Whereas we always have, like, three, you know, four, integrations, like, really deep on HubSpot, and our integration's awesome.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+You know?
+
+Wade Foster
+Makes sense. Mentioned the platforms are getting, like, tired of the bots. Is that tired like, is that across the board? Is that, like, Zoom Meet and Teams are all that way? Or is, like, one more, like, adversary than the other?
+
+Jeff Whitlock
+So Google is very not transparent in and very you know, just Google. They're Google.
+
+Wade Foster
+Yeah.
+
+Jeff Whitlock
+But, like, but we we talk a lot with Zoom and Teams, and so both Teams and Zoom are on the same page in that regard.
+
+Wade Foster
+Mhmm.
+
+Jeff Whitlock
+I would say Zoom is more aggressive on the journey further along along the journey, but it for example, we just had a conversation with the Zoom folks about how they want us to implement these new tokens that are gonna make it even harder for bots. And then that was about six months ago when we first heard about this from Zoom that they wanna see this, and now I'm starting to hear, like, like, the team the team's folks just reach out and said, oh, we're doing this now. And so they seem like six months behind Teams on this journey, but they're definitely on this journey.
+
+Mike Adams
+And Google, I been pretty easy to work with. Microsoft folks are great.
+
+Wade Foster
+We the the Zoom team Ironically, we've seen the same thing. Like, whoever is running the shop over there, there's a guy named Charlie who's, like, really senior. He is, like, a ecosystems maximalist. Yeah. And it's, like, it's kinda ironic that, like, Microsoft is the one that's like, bring it all in. Now your tech is kind of a mess, but, like, Yep.
+
+Mike Adams
+But the philosophy is right.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+It's right.
+
+Jeff Whitlock
+But we don't know about Google. Google is not very communicative.
+
+Wade Foster
+That sounds very googly too. Like, they just kinda build their stuff and then Yeah. You don't even know. Like, don't know what's going on.
+
+Mike Adams
+I mean, the only reason that Meet is any good is because of COVID. That's and the only reason there is a Zoom is because Meet and because Google and Microsoft were asleep at the wheel around video conferencing until COVID.
+
+Wade Foster
+I know. Yeah. Yeah. It's kinda wild. Yeah. I have to almost wonder, like, what would Zoom have been without COVID? Like, obviously, they became everything because of COVID, but
+
+Mike Adams
+I think Zoom's future is very, very dismal.
+
+Wade Foster
+I think they've got a they've got a tough road ahead of them a 100%.
+
+Mike Adams
+Mean, it's just the bundling. It's like there's two there's two bundles that matter. And it's Microsoft and and Google. You're on one or the other. And the justification of quality or different issue use case or whatever has to be really meaningful to to justify and not just using the free thing that comes with the bundle. And now that a couple of place, like, Google in particular, we'll focus on them. They've finally made the place to to leverage their growth surface areas of generating a calendar event meaning, like, turn on this little button to take Gemini notes. And they're getting more and more workspaces, including us to, like, move into these higher tiers of workspace to get access to Gemini to compete with instead of us paying team for CacciBitik because Gemini is just as good. So you get you know, a 100,000 of those organizations at once, it it definitely is, like it it it is a needle mover. In terms of the the competition to the non workspace players even those ones that reached the point of IPO like Zoom. And Slack experienced, I think, the same thing. With the competition with Teams and then got bought by, obviously, Salesforce. And I don't think that they've ever really followed through on their kinda workspace play How after buying Slack, but
+
+Wade Foster
+How do you think, like, Google's like, work here impacts you guys? Like, they have transcriptions baked in. They have Gemini capabilities baked in. Like, there is more sort of, like, things that they are natively doing around the meeting experience simply beyond just being, like, a a meeting recorder. Or not even a recorder, but, like, I just meeting tool. Yeah.
+
+Mike Adams
+I think it's this middleware specialization around Mhmm. Universal capture. Permission Mhmm. Access management. And then connectivity like, universal connectivity outside of the Google So anytime you have, like, a Meet recording, I mean, Meet's a little bit different because you know, their API is so open that you can just go through the recordings or the notes or whatever. And then I'll just a Google Doc or now it's just a m p four file on your on your on your Google Drive. But the around that meeting management is obviously, like, pretty inferior for those that want or need it. Yeah. But the pieces that I just don't see because we, like, live in this world and there's just ridiculous amount of permutations and complexities, I think that there are always going to just be a surface level of capture and a surface level of, like, access and permissions. They're never going to be the, like, enterprise or, you know, business, you know, b to b version of of that in my view. I think it's always just kinda gonna be that that surface level individual, like, IC type of use case. And the opportunity, just like any other SaaS monetization, is that you usually kinda you know, there's opportunities when it moves to the team version of some things. So it does make it a little bit tougher for us from a growth perspective, because increasingly, there's, you know, fewer people that are out being like, hey. I need a notetaker. And more just being like, oh, I have Gemini take notes. And so think it's we haven't seen, you know, just continue to grow, so we're, like, profitable. You know, we grow five to 10%. And for the last five year, the monetization is strong. The return retention is strong because you differentiated value prop onto kinda, like, just consumer grade minimalist you know, recorders. But the growth challenge is there because your people out in the market that instead are just kind of like, you know, it's rates. Prompting me to do it on my Google Calendar and and and it and it's real. It's a real factor. But Yeah. We just have to find different channels. And that's one of the reasons we're talking about, like, potential an open source. Right? Right?
+
+Wade Foster
+Mhmm.
+
+Mike Adams
+I think that GitHub especially if you can be a core agentic like, abstraction layer that that solves a specific problem. Data helping agents think that, like, GitHub is one of right now, is one of the largest growth tools that has ever existed. And so we're we're doing we're doing some work in that direction, so we'll see.
+
+Wade Foster
+Interesting. No. I I believe all that. Like, you know, I think Google, for as strong as their surface area is, they struggle to make their own products work well together, much less an enterprise's, like, entire application stack. Like, that's just not something that's, like, in their DNA. And I don't think agents and AI really changes that. At least it certainly hasn't so far, and I've seen them get their act together. And even with their act together, it's still it's still not amazing.
+
+Mike Adams
+And just How are you guys kinda thinking about this space in these opportunities and challenges? I know we talked about before, but maybe Yeah.
+
+Wade Foster
+I heard yeah. There's there's two things that I think are really important for us right now. Well, three, I guess. And, like, the third one is why I'm chatting with you all is so so the first one is we're we're leaning hard into interoperability. This has always been sort of like a Zapier calling card is that hey. We don't we don't care about your stack. We're gonna help you. Integrate and connect all the things that you use. Think that is just as important in AI age. Like, you talk to customers and ask them, like, what models do you use? And they're like, we use them all. And so, you know, you need a you need a vendor that sort of helps you mix and match your models and helps you, like, you know, pit agents against each other to, like, make them better. Like, that is, a that that's increasingly a common user of pattern is that, like, you have you know, codex critique quad code and, like, vice versa to just get better outputs out of these these tools. And so, you know, I I I increasingly think that people are gonna just, like, buy from multiple AI ventures because it's there's gonna get better way better outcomes from. So interoperability is really key. The the second thing that is important is we do believe that the future of building automation is an agent, not a human. And so this is where we're, like, basically working a lot hard. We're working pretty hard to, like, release all of our primitives as, like, SDK, CLI tools, keys, things like that.
+
+Mike Adams
+Yep. Yep.
+
+Wade Foster
+Yep.
+
+Mike Adams
+Yeah.
+
+Wade Foster
+We've always had this, but we just never have, like, it's just never been our focus because we sold to nontechnical users. So we've it's all just kinda been hidden behind the scenes. And people have asked us for it in the past, but I said, it's just not never been, like, a real upfront focus. But know, to your point around, like, GitHub being
+
+Mike Adams
+a good act You've had a 100,000 people in the last month. I'm guessing, get in a in a a in an IDE and, like, you know, know, a terminal window for the first time in their lives, you know, in the last month. Like, I just feel like it's just a massive shift in people becoming increasingly more technical because it's less overwhelming and intimidating. The barrier is lower the tools are so powerful, but, also, you can just go and ask and get help. Right? And so I think that it makes sense as to, like, the increased demand in these investments that you're doubling down on right now?
+
+Wade Foster
+Yeah. I yeah. A 100%. Like, I I was around with, like, Zapier SDK this morning. And basically just pointed Claude code at it, and I said, hey. Like, implement this, please. And we just did it.
+
+Mike Adams
+It's like And we did it. Yep.
+
+Wade Foster
+These experiences are pretty magical.
+
+Mike Adams
+Mhmm.
+
+Wade Foster
+Even though I have, like, no clue what it's doing under the hood, So Yep. Like, if that that's kind of the the future of no code is actually code. But it's an agent that's like, Yeah. You know, there to go build for you. So I think that's the second thing that's really important. The third thing that I think is really important is like, these like, I call it, like, data ingestion. I've heard people call it, like, cradle positions. But, basically, like, where you're a key part of, like, capturing the data at its creation point. Yeah.
+
+Mike Adams
+Mhmm.
+
+Wade Foster
+And I think this is, like, this is, like, a pretty differentiated position compared to you know, what the labs are doing. Labs are, like, sucking in all this intelligence they're not necessarily at the point of creating it. I'm not sure that they are going to be at the point of creating it. Maybe they will. Maybe they won't. But it it feels like they're I don't know.
+
+Mike Adams
+They're in addition to the labs, you mean, anthropology? And open Anthropic and open AI.
+
+Wade Foster
+Yeah. Basically. And that's where I think, like, you know, anywhere where you have like, anywhere their software deployed sits between a business and, like, their customers. Is, like, really interesting because data's coming in. That's forms, chatbots, textbots, meetings, all these types of things. Are pulling all this information in. I think those products should have like, workflow capabilities as a first order priority. Like, it's thing I was telling Mike was, like, it shouldn't be like the homepage of Grain shouldn't be, like, the best meeting tool.
+
+Mike Adams
+Like Totally.
+
+Wade Foster
+It should be, like, like, how you take actions on your meetings. Like, when your meeting is done Yeah. Like, the email should be written. The status update should be drafted. The CRM should be updated. Like, the the Jira ticket should be filed. Like, all of this stuff should have just happened. Without you having to go, like, okay. Here's my four to do items that I have to now go, like, ding ding ding ding ding ding ding ding ding. And, like, you know, especially for certain personas, like, you think, like, your sales rep who's on calls, like, all day every day. Get to the end of the day and how many, like, little action items they have that are all just that where it's, update the CRM, write the email, schedule the event, and they're just, like, literally just little, like, update monkeys. Yeah. And, like, that's not why you're paying your AE. Like, know, you're paying them to, like, actually get some stuff done. So to me, it feels like super powerful to pull those in. Now now I think in the absence of that features existing in your all's tools, like, what will happen is you all build great CLI tools and then you know, the savvier users will all have something like Cloud Cowork or whatnot set up, and they'll just be sucking all those transcriptions in and, like, trying to figure out how to build these types of automations within those tools. But I think it would be better if it's just, like, in URLs product. Instead. And so that's where I feel like we have an opportunity to, like, get ourselves, like, out of the like, the like, the the I think one of the most important things you can do in the age of AI is, like, solve the whole problem. And so I'm looking at our position and I'm like, okay. We solve a part of the problem. Can we solve the whole problem?
+
+Mike Adams
+Yeah.
+
+Wade Foster
+And I like working with know, someone like you all, is a lot closer to saying, like, hey. We're actually now solving the whole problem. And I think probably the vice versa is true for you. Like, you look at someone like us and it's like, hey. We're a lot closer to solving the whole problem versus just this, like, you know, chunk of functionality Like, that's part of a workflow, but not the whole thing.
+
+Mike Adams
+Yeah. Totally.
+
+Wade Foster
+So those are the three those are the three big areas where I'm, like, spending time on.
+
+Mike Adams
+Yeah. I think, like, our current we have a Zapier integration. We've had it for, I don't know, three, four years. And the granularity of workflow triggers with Zapier is, like, meeting created. Clip created, right, versus topic discussed or action item, you know, relevant action item detected or pattern recognized or whatever else it may be, that, like, I feel like when there's two different ways to connect into it meeting as a meeting system of record like Grain. It's either downstream from some trigger or for some action where it's like, Cool. Cool. Then the triggers here Maybe it's a manual. You know? Maybe it's a prompt in a chat, but go find that information. Or the trigger is actually in the meeting itself and the content of itself. And I think that, like, even on kind of, like, pre Agenza and Zapier, Zapier, there's there's opportunities for us, I think, to have done that kind of content based trigger even even better. But I think there's especially now, I think it's more important than ever to be able to kinda think through that connection point. Because Jeff and I were just talking about this morning. I was talking to another buddy of mine that it's, like, I feel like one of the biggest human advantages right now is the kinda edges between what has been datafied around work and and almost all of that is in meetings. And it is kinda how and and where this information goes from in brains to being in writing. And, traditionally, you know? So then a step up from that was know, oh, cool. Now there's automatic notes, but I still gotta go and read the notes, do the work. Whatever else. But it's increasingly in this new phase of, like, just you know Yeah. Do the work.
+
+Jeff Whitlock
+Exactly.
+
+Mike Adams
+Contribute to this, you know, repository of knowledge.
+
+Wade Foster
+Yeah. Yeah. I mean, I love I mean, the meeting space, I think, is so right. Like, it's it's like, to me, if people hate meetings because it's, like, you go and you you you babble. Just like babble and babble and babble and it's like, I it doesn't feel like anything gets done. And then you walk out of the meeting and it's like, gosh. I feel like I've got more work than when I when I started it.
+
+Mike Adams
+And, like And you actually have agents that are, like, listening.
+
+Wade Foster
+And then capable. Yeah. And I it actually kinda new shape. Exactly. It's almost it's almost entirely new experience where I'm like, well, maybe I just maybe I actually want to have a meeting because meeting propels work for it. Ideas come out. Know, interesting concepts shoot off. But now instead of me having to chase down every last little thread, got an agent that's doing all that stuff for me.
+
+Mike Adams
+They're forcing function for information extraction that then instead of just sitting there and needing to be actioned by the human on the other side, Totally.
+
+Wade Foster
+You wanna create a mess. Whereas in before, the mess that a meeting created is, was was like a a bug. But now it's like kind of a feature
+
+Jeff Whitlock
+I mean, meetings are very human. Right? They're just like it's like you they're low friction in the sense that it's nice to talk to someone and connect and it Mhmm. It creates exchange of ideas and stuff. And what's interesting is, like, we've been doing a lot of the prototyping of what we're talking about. And, like, when you start to see that, you actually have meetings differently. You're like, oh, I wanna keep going intel because I want my agent to be able to do all this stuff from this meeting.
+
+Wade Foster
+Mhmm.
+
+Jeff Whitlock
+So so yeah. And and you're right. It really does change the experience of meetings.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+Yeah. Like, I've got workflows now where I'm doing prototypes in quad code, having a meeting, demonstrating, presenting the prototype. Feeding, using the Grain MCP, to feed that information from the meeting back into the context window of the project that I'm working on and then kick off, like, the articulation of all of the updates and changes that need be made that were discussed.
+
+Wade Foster
+You did did of better those, and it's like boom boom boom.
+
+Mike Adams
+It's amazing.
+
+Wade Foster
+Do you literally just say like, here's what I find myself doing. I'm like, I'm usually just like, pull the transcript take what was discussed, and do the thing. Like, that is literally, like, the sophistication my prompts. Like, I was talking to somebody two weeks ago where he was describing the skill that he built out and his cloud code instance. And I was like, oh, man. That sounds really awesome. Before he even was able to share the skill with me, got off the call and was like, hey. Take that transcript. And build the skill that he was talking about, please. And it just did it.
+
+Mike Adams
+It's it's insane.
+
+Wade Foster
+That's all I had to say. I said nothing else. I I gave it no no additional context, no additional feature request, no nothing. I just said, just just do what he said he did. Please. And it it works exactly like how I he described it. I was like, it's great.
+
+Mike Adams
+It's so so crazy, man. Like, it's I know. The it's the ease of experience when you have an intelligent you know, companion to your your partner. Right? It's it's it's rubber ducking with with intelligence. It's like it's it's a whole another level. Follow-up question is, like, yeah, what what what does it kinda look like for you guys in terms of, you know, extending kinda integration types of partnership, you know, with with Grain, you know, potential opportunities to collaborate, work together more deeply. Were you guys Yeah. How are you thinking about it? Were you guys out in a process? Like, yeah, anything you can share there would be helpful for Jeff and I.
+
+Wade Foster
+Yeah. So I I'm mostly like, look. I I I would be pretty stoked to, like, team up with a company working on this. One that, like, understands the vision, understands, like, why these things these concepts actually fit really well together. I'm pretty early on. Like, I'm just sort of like, I I yeah. I I this idea was just emergent from my own behavior where I was, like Right. Totally. So, obviously, like, building these tools for myself and experiencing it and going, like, a handful of customers that I saw doing it as well too. And just, like, jaw hitting the floor. I remember about you know, four months ago, I came across a customer who had built out it it was literally the like, way he did it was so clumsy. But also ingenious at the same time. He had this, like, mega zap. It was, like, one just monster zap that had, like, a 100 plus steps in it. And it all was firing off of Gong. So he was taking these, like, Gong Gong integration sucks. Because it doesn't give you the transcript by default. So he was taking, like, the meeting ending and then he was like, parsing out the ID from something that was passed along in the URL. He was hitting, like, a webhook endpoint actually did have the transcript. He was sucking all that in. And then in one Zap, he had, like, eight use cases running on one singular Zap. Guy had no concept of modularity. It was Mhmm. Generating case studies. Was generating blog posts. He was generating images. Was generating tickets for his team. He was generating sales follow ups, like, he was generating CRM updates. Like, it it was like I was like, holy cow. This is, like, your entire company runs on this, like, singular zap. It was just this, like, massive thing. It was just, like, one of those moments where it was like, oh my god. He's like, this is so obvious, like, the the way that this should work. But no one should have to do what he did to build that.
+
+Mike Adams
+Like, that is, like Yeah.
+
+Wade Foster
+That is horrid what he had to go through to get that done.
+
+Mike Adams
+But the power trying to use your, like, Zap builder using your prompts interface? This is months and months and months ago, but, like, think what's increasingly happening is just people, like, want to build the thing to actually end up in Zapier, but, like, you said Yeah. I'm curious if you're seeing that.
+
+Wade Foster
+Gonna That's what's gonna happen. Like, you know, you if you if you go back and try it now, like, if you go try using, like, our Copilot or agent builder, it's gotten so, so much better. I'm sure it's awesome. Really good. But to your point, like, why should I have to go to zapier.com to, like, do that? Should be able to be going back and forth with my agent and then say, like, hey. Can you go deploy this for me?
+
+Mike Adams
+Like Well, mean, more importantly, all of my context is sitting in my local folder for my project that is important and relevant relevant referenced in order to make that Zap that I otherwise have to figure out. How to copy and paste and consolidate your contents in order to get into the context window of the the Zapier app building prompt window.
+
+Wade Foster
+Yeah. And I do think this is where Zapier, like, still has, like, a pretty massive advantage compared to any other experience out there. Like, partly, this is why OpenClaw, I think, took off was because OpenClaw allowed you to have external agent from your own machine that was running always in the background that was able to wake up and do tasks for you. And the reality is, like, like, there's a meme in San Francisco where people will just leave their laptops open so that their agents don't stop running. Like, how stupid is it that, like, when you close your laptop, the agent stopped at work? That is so stupid. Like, that's why we have, like, cloud hosted stuff that, like, run servers that, like, run. But that's what Zapier does for you. It's like we we have this amazing trigger infrastructure that, like, is constantly listening, constantly aware you know, can constantly wake things up. And so, like, that should be a first order capability inside those tools and systems. The flip side, of course, is that you all are often the kick start of those tools because, like, you have these transcriptions coming in.
+
+Mike Adams
+Right.
+
+Wade Foster
+And so, like, you I mean, should know when stuff ends to be, like, prompting your users to go to say, like, hey. We can do this for you. We can do that for you. We can take action this way. Can take action this way. Like, is that what you want? Like, you you understand that you have the data, so you understand the intent. Of what's going on in that meeting. And you can you can make your users smarter. Like, you can give them ideas that they don't have. About how to use that meeting.
+
+Jeff Whitlock
+Yeah. I mean, like, to your point about to your point about how the you said, like, the his company ran off his app. Like, his company is running off those meetings.
+
+Wade Foster
+Mhmm.
+
+Jeff Whitlock
+Then the Zap is the way he's getting the data, but it's an extremely inefficient way because the central focal point is the data is the raw data from the meeting.
+
+Wade Foster
+Yeah. Well, and then just, like, everything he had to do to build it is, like, it's it's, like, I'm both honored he did it that way, and I'm also, like, terrified. Because I'm like, man, that one's app is like that's load bearing for his business. Like, that that is a singular point of failure for a everything. This is, like, one little thing happens and he's he's up a creek.
+
+Mike Adams
+Yeah. But there's, like, the zap the zap scale. In cloud or the ZapScale inside of Zapier itself that, like, in Yep. Apparently understands the principles of modularity in a way that can kind of, like, all these things together. That's what's so crazy because, like, my my my career before Grain and where Grain came out of is, like, all in the education space. And I had, like, AI instructing hypotheses, you know, 2016 when I started mission you. That up being the reason why we recorded 100% of our admissions interviews, lectures, whatever, because I was like, this is only way we're gonna be able to scale this it's a venture backed business. It's a one year alternative to college learning data analytics. But, like, it's all human capital services, We need to, like, capture all that data, you know, leverage it, with AI to be able to perform you know, genuine, useful instruction. And instead of going down that route, we we sold to WeWork, and then I was like, actually, let's just go with this head on, and that's where Grain came from. But, like, the opportunity around learning is just like it's never ever ever been greater to be able to, like, wow. They still do dumb stuff, especially in, like, a senior engineering capacity. They're gonna do a lot less dumb stuff in two years from now than they do now.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+And the dumb stuff they do is a lot less than the smart stuff they do off of, like, standard best practices that especially if you're trying to learn something new that you wouldn't have otherwise even thought to do other than, like, seeing the agent do it, and now you know how to do it. And it's like, it is an unparalleled opportunity in terms of kinda, like, skill acquisition and and and development. And what it ultimately comes down to the business is, you know, the market we both serve in, which is I'd say, workflow automation and, you know, bubbling up knowledge work.
+
+Wade Foster
+Love it. I so look. I I think there's maybe, like, two ways we could go from here. You all tell me which makes the most sense. Like, one, I think the sort of somewhat obvious thing is, like, hey. We're working on exposing all these SDKs and APIs and all that sort of stuff. And, like, when they're ready, I could just say say it say, okay. Here's some cool stuff, and you could, like, improve the Zapier integration inside of Grain to, like, take advantage of these things and make a That would be cool. Better experience. The second one is, like, hey. Let's actually talk more seriously about what teaming up looks like there. And I think on that point of view, that probably looks like Let's sign some NDAs and, you know, maybe you all share a little bit of data with us in terms of, like, how the business is going and all that sort of stuff. And that can help inform a decision on, like, hey. Do we wanna put an LOI in place or something like that? So to me, that sort of feels like the two ways we can go about it. And, like, you know, there maybe there's a a a third option. Too, but that that's kinda where my head's at.
+
+Jeff Whitlock
+I know you said you're still early in this process. So if you don't know, but, like, have you decided that you're like, we definitely wanna own the meeting capture part of it because it's so critical to my vision, or are you still just in the early and it's just a question of, like, partner, build, buy, or is it more just know, you're still trying to figure that out?
+
+Wade Foster
+You know, I I don't think it's likely we will go build this on our own. It's like if we're gonna do it, we're probably gonna go buy something. Yeah. And to go buy something, well, that just means something has to be for sale and somebody has to see the world the same way. And, like, there's a lot of a lot of things that have to line up for that to be true. Yeah. So there's there's a many there's many, many, many, many, many reasons why we might not be able to buy something. That looks interesting to us. But if there's something out there, like, I do think that this is, a really compelling vision, and I think it helps us own, like, the whole problem. And I think it provides, like, reasonable differentiation from you know, what the labs are doing. Right? To me, that's think that's the thing everybody's trying to figure out is, like, how do you go something that just is not gonna get crushed by a client?
+
+Jeff Whitlock
+Clawed tip.
+
+Wade Foster
+Yeah.
+
+Mike Adams
+So when when when Anthropic releases a new feature and IBM tanks 10% in one day, I know.
+
+Wade Foster
+Right? Yesterday was just like oh my god. I was like, this is a like, oh, I guess IBM can do COBOL now. So bye bye IBM. You know?
+
+Mike Adams
+That's crazy, man. Yeah. Yeah. I think I think both those directions are interesting and and and probably best pursued in parallel.
+
+Wade Foster
+Okay.
+
+Mike Adams
+And yeah, I think that a little bit more thread on the kind of second one is, like, I know you've done a bunch of act kind of m and a in the past and, like, I we're we're pretty transparent and open about kinda, like, where we're at. I would say that that is an interesting path to us. We're kind of on the journey I would say we're past kind of an act I think I mentioned this in our first call. Like, we're past, like, an acquihire point to where it's like, we have a good business. It's profitable. It's cash you know, it's cash cash flow positive. So what would be more interesting to us is something that, like, you know, results in, you know, some not like an insane, you know, return to to to ourselves and investors, but not like an acquihire.
+
+Wade Foster
+Yeah. I'm in alignment. I'm interested in the business. That Grain has. Like, I think you've got good you got a good product. You've got good users. Like, all of those things are interesting. So to me, this is I'm not not talking Acquire.
+
+Mike Adams
+Yeah. Cool.
+
+Jeff Whitlock
+Yeah.
+
+Mike Adams
+And Go ahead, Joe.
+
+Jeff Whitlock
+Yeah. It's like, we we really love what we're building think we see a lot of opportunity. I think to you astutely pointed out at the end of calls, like, we didn't quite break out at the time when I think there was a moment to break out. And so it does feel like we're less resourced than some of our competitors. And so for the right opportunity to, like, really go after this vision, because I think Mike and I are both really excited about it. That's I think that's something that also motivates us. So it's kinda a combination of, like, making sure that know, like what we're doing. We're not, like, in any way for sale, but, you know, for the right partner, we we would be willing to, you know, make something happen. And we'd wanna be compensated for that. But beyond that, it's also the ability to really, you know, go after the vision aggressively and actually kinda change how work is done and Yeah. This vein.
+
+Wade Foster
+Makes sense. Great. Well, how about I with maybe, like, an NDA and then we can continue the combos?
+
+Mike Adams
+Oh, so and you're and you're based in Sunnyvale. Is that right?
+
+Wade Foster
+I am back in Missouri these days.
+
+Mike Adams
+That's right. And we said you moved back to Missouri. Yeah. We had that covered last time.
+
+Wade Foster
+Yep.
+
+Mike Adams
+I I I was in church. Was Missouri or Michigan? But Missouri.
+
+Wade Foster
+One of those these days.
+
+Mike Adams
+So you never know if you end up kinda coastal or whatever. You know? Yep. Depending on our conversations, it'd be great to to meet up in person at some point. But Okay.
+
+Wade Foster
+Mhmm.
+
+Mike Adams
+Yeah. I think we'll start with just NDA and and and keep the condo going. So Right. Who could I ask, like, who else is, like, are the, like, critical to makers in your kind of process that, you know, we should anticipate anticipate?
+
+Wade Foster
+I mean, it it would would be, like, me and my cofounders Brian and Mike, Austin who runs corp dev would be, like, the driver on a lot of just logistic stuff. And then Ryan and Chiyi are probably the two others. So Ryan's our CFO, so he would be, like, helping figure out all the financing details. And then Chi runs product and engineering, and so he'd be pretty impactful as well. So those are the the folks that will probably be, like, the most most key. But, like, Disappears run a little bit like a benevolent dictatorship. So, like, if if if, like, I make a very strong case, this is what we're doing, like, what we're doing.
+
+Jeff Whitlock
+As it should be in my opinion. So Yeah.
+
+Wade Foster
+Jeff.
+
+Mike Adams
+Love it. Like, if I'm being honest about my early day CEO mistakes, it might be something that I'm just in the middle dictator.
+
+Jeff Whitlock
+Yep. Should have made more of one. Yeah.
+
+Mike Adams
+Think you have to be.
+
+Jeff Whitlock
+Yeah. Yeah.
+
+Wade Foster
+I mean, look. I you know, I'm I try not to be mean about it and, you know, Yeah.
+
+Mike Adams
+But at the end of the day, there is one boss.
+
+Wade Foster
+Yeah. If you wanna move fast, you kinda gotta you gotta have a point of view and you gotta say, let's go do it. Does anyone, like, object does anyone really feel strongly enough to say otherwise? And if you do, I do need you to say so. Because I don't wanna do a stupid thing. Yeah.
+
+Mike Adams
+Totally. Well, that's that sounds great. Yeah. Looking forward to just one more logistical timeline is yeah. Any any kind of idea on, like, what your traditional kind of timeline has been when you've done these m and a processes before or, like You all would be the biggest.
+
+Wade Foster
+So, like, yeah. The traditional stuff, I think, has no almost no bearing on this. Conversation. Like, all of our other stuff have been more like acquihire which looks a lot more like hiring somebody.
+
+Mike Adams
+Yeah. I I know you guys did Vowel with Andy, and I he wasn't there anymore.
+
+Wade Foster
+Yeah. And that was, like even that was, like, more acquihire than anything. Like, he was getting really company down. And so Yeah.
+
+Mike Adams
+I talked to him after he shut down and yeah, I just yeah. Yep. That makes sense. So, yeah, this is kind of a new territory, which is Yep. Helpful to know.
+
+Wade Foster
+And Mhmm.
+
+Mike Adams
+Yeah. No. It sounds great.
+
+Wade Foster
+I think at the end of
+
+Mike Adams
+the day, like, we excited to to to collaborate, and I think there's, you know, wins to be gained along the way too, you know, regardless of whether the partnership works out or not. I think we get to know each other a bit better and build more value in each other's ecosystems. And so let's kinda see where it goes.
+
+Wade Foster
+I love it. Good catching up, guys. I'll be in touch soon.
+
+Jeff Whitlock
+Thanks, man.
+
+Mike Adams
+Talk to you soon.
+
+Jeff Whitlock
+Bye. You too. Bye.

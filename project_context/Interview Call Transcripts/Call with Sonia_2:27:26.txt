@@ -1,0 +1,207 @@
+Jeff<>Sonia re: Grain
+
+Date: 2/27/2026, 12:31:18 PM • Duration: 16m
+
+Participants: Sonia Germain, Jeff Whitlock
+
+Grain URL: https://grain.com/share/recording/b1aaf84c-97d7-4d61-a11b-e1e0fbd12402/IyNEdtJszx57Mb0WOUdGPgBMVcsOyYcgKmO1l1kU
+
+--- TRANSCRIPT ---
+
+Sonia Germain
+So happy that's not the case.
+
+Jeff Whitlock
+It'll come at some point, but we do, while we do have AI in our product, we try to make it human made.
+
+Sonia Germain
+I appreciate that. He comes from a tech background too. And so that's where his brain goes, obviously, but I was like, no, it's a real person.
+
+Jeff Whitlock
+Where are you on the East Coast.
+
+Sonia Germain
+I'm in Toronto. Okay.
+
+Jeff Whitlock
+Very nice, very nice. So about ready for the weekend, then I'm probably one of the few things to keeping you from it.
+
+Sonia Germain
+Well, still got a bit of a list to get through today. So.
+
+Jeff Whitlock
+Well, I appreciate you squeezing me in at the end. Do you 15 minutes okay? Is that perfect. Amazing. All right. So I'd like to, so just for context. Yeah, we're a small team. We're always trying to listen to our customers build for them. And something that we've noticed is a lot of our best users. Are people who. Are either in agencies or small consultancies or coaches or kind of run their own practice. And so I hope that kind of fits you as a description.
+
+Sonia Germain
+It does. Yeah. Yes.
+
+Jeff Whitlock
+I'll just start up kind of learning what you do and who you serve.
+
+Sonia Germain
+Sure. So we are also a small company. We are a year and a half old. It's myself in two partners. And we provide commercial interior design services. So we design luxury hotels around the world. Um, and we all come from much larger organizations and came together to, to have more control, I guess over our work and over our time. Um, and so we were a small business. We have a couple employees presently. We hope to grow that, uh, and we work with a lot of subcontractors and consultants at this point in our business because it, it's easier from a cash flow and workflow and everything perspective. Um, and we are dealing with, uh, international clients. So we have two clients in China right now. And, um, consultants sort all over the world in Europe and in Asia. As well as North America. Um, and it was actually one of our subcontractors that introduced us to Grain. Um, and I don't know how long we've been using it. You might know better than me. Uh, but I would say a handful of months, maybe six months. Um, and I'm the heaviest user for sure. I record almost all of my meetings. Um. And I would say the, the strongest use case for us right now is, well, internal meetings. So where we're, you know, assigning work or going through tasks, not having to take notes is golden. In the interview process, it's been invaluable because quite often the three partners don't join all interviews, but we have the recording and the notes that, you know, whoever's missed it can review so it doesn't feel like somebody's missed the opportunity. Um, and then we use it for some client conversations, but not all of them. And, uh, I would say that's one area where we would like to use it more. Um, but there's some functionality that's not there. For example, the we're all on PC. So desktop capture being able to record in - person meetings. Sometimes ad hoc meetings, you know, we don't have the opportunity to add it in. For different reasons. Um, and then I don't imagine that you're ever going to support this, but our clients in China use a Tencent product called VOOV, which is like Zoom or Teams, um, but it doesn't integrate with that. So sometimes if we have the opportunity, we'll get a transcript from Vuv and upload it into Grain, which is wonderful, but it's not always possible.
+
+Jeff Whitlock
+Um, no, this is great. Do you, so just clarification the interviews or those for subcontractors like deciding which subcontract?
+
+Sonia Germain
+Yeah. Or potential employees. Yeah. For employees in particular, I find it hugely valuable. We're a creative business. And so the recording is helpful because quite often people are showing us their portfolios. And so we can go back and say, Oh, what was that thing that they showed us and kind of dissect it and have a conversation aside afterwards. Um, we found that to be really helpful. And sometimes, you know, if you're interviewing five people in a row, you can't remember whose portfolio was who's. Unfortunately. And so that's been really valuable too.
+
+Jeff Whitlock
+Uh, how many clients do you typically serve concurrently rough just ballpart.
+
+Sonia Germain
+Like four.
+
+Jeff Whitlock
+Okay.
+
+Sonia Germain
+They're, you know, we're doing big five star hotels. So they're multi - year projects and we're at the stage of our business where we're not doing high volume.
+
+Jeff Whitlock
+Right.
+
+Sonia Germain
+We're doing big projects.
+
+Jeff Whitlock
+And so how long you said multi - year projects are what's the ratio of like the amount of meetings that kind of are in person versus, uh,
+
+Sonia Germain
+well, our Chinese clients, we go there every three or four months. And so the majority of our meetings are online.
+
+Jeff Whitlock
+Okay. Yeah. And what is the name? Like what it tell me a little bit like what's the nature of those meetings and what's the workflow that come out comes out of those meetings?
+
+Sonia Germain
+Yeah. So as you can imagine, we have a bunch of different types of meetings. Their presentations, we're doing all the talking. We're presenting our work. There are feedback meetings that we might have with, um, like the brand, for example, or with the client, uh, who's often the developer. And then there are coordination meetings with other subconsultants. So mechanical electrical plumbing, uh, with the architect. And quite often those are more workshop style meetings where we're sharing information. We're trying to solve problems. You know, everybody's got sort of a task list at the end of it. Um, that kind of thing.
+
+Jeff Whitlock
+Got it. And then, um. What's the like, if you, you mentioned how you would like to use brain more in those meetings. How would you like to use them? How do you see what's like, if you could use grain to perfectly help you with the, with the, those client meetings, what would you imagine.
+
+Sonia Germain
+I think, well, like I found the, the quality of the notes that we get from grain is superior to some of the other products out there. Like we've used Otter AI. That's a product that I think is trying to think if we, if it, if it moves supports it. Or the other way around, uh, but really that's what I would love to be able to do if there was a way to do even a desktop capture when we're in a VOOV meeting so that we could have all of our notes consolidated in one place on grain. That would be wonderful. And then if we could categorize, that would be interesting too, if we could categorize and maybe that's something that Grain already does. And I just don't know about the functionality. Um, according to client, for example, like batch sort all of our client meetings, all our HR meetings kind of into folders or some other way. That would be, that would be great to be able to go back and, and sort by phase or consultant or something like that. I know it's searchable. Anyway.
+
+Jeff Whitlock
+Yeah. That makes, that makes a lot of sense. Well, how do you use notes from Grain? How do they like fit into the work you do.
+
+Sonia Germain
+Uh, we, I use them in a few different ways. One is to provide information to team members who didn't attend a meeting, for example. Um, to track our own sort of to - dos, uh, we do a lot of internal sharing with grain notes. Um, certainly we use it as, uh, a reference. Um, and sometimes we'll quote notes that come from grain back to the client or back to a consultant to say, you know, you promise this on this date. Here's the soundbite.
+
+Jeff Whitlock
+Okay. Makes sense. Uh, what is, what would you say is like the biggest, the hardest part about managing your practice and your client relationships.
+
+Sonia Germain
+The volume of information.
+
+Jeff Whitlock
+Tell me more about that.
+
+Sonia Germain
+In the type of work that we do, there's so much information coming from so many different people and quite often through all kinds of different channels. So as I mentioned, I'm talking a lot about our Chinese clients because that's the biggest scope of work that we have right now. Um, but we get communication through email WeChat teams, you know, meetings are done on a couple of different platforms. And I would say there's no single source and. No, no easy way to share and sort of check all the information.
+
+Jeff Whitlock
+So it's like organizing it processing it and then sharing it. And is it sharing it internally to make sure the work being done is aligned or tell me more about that.
+
+Sonia Germain
+Yeah. Definitely. So, uh, as I mentioned, we've got subcontractors working in different time zones. And so sometimes, you know, we'll get information while in Toronto, we're sleeping. Somebody in the Netherlands will pick it up. They'll action some items. They may sort of flag or identify a few things that need our attention. Um, and then, uh, and then keeping track of all of those sort of action items and who's doing what and making sure that documents that are coming in and, uh, RFI responses are being addressed, I guess in a timely way, but also, uh, by the right person.
+
+Jeff Whitlock
+You all use something like a CRM.
+
+Sonia Germain
+We don't. And that's probably mostly because of our scale.
+
+Jeff Whitlock
+Yeah.
+
+Sonia Germain
+Yeah.
+
+Jeff Whitlock
+And so what do you use like to in place of is it mostly just kind of email in other places or do you, or do you.
+
+Sonia Germain
+Yeah.
+
+Jeff Whitlock
+Okay. Um. When you tell me a little bit, like is there, are you part of any like practice communities or communities of practice or communities related to what you do.
+
+Sonia Germain
+Uh, not formally, uh, we certainly have, you know, lots of longstanding relationships. The interior design, the commercial interior design community in Toronto is very small. And then the community in North America even is quite small. Um, my partners and I all come from firms that had Toronto in New York offices. And so we have, you know, pretty strong ties in both cities. But, um, we're not part of any formal organizations.
+
+Jeff Whitlock
+Do you like, do you, when, when you look, when you're looking for kind of, it sounds like someone told you about like a client told you about grain. But like when you're looking for recommendations on how to operate things better or what to use, like, where do you typically look.
+
+Sonia Germain
+Um, chat GPT.
+
+Jeff Whitlock
+Nice. Okay. Where do you find yourself telling things about?
+
+Sonia Germain
+Definitely people that are in my immediate sphere. So, um, I would say a lot of information sharing happens between us and our subcontractors because quite often their soul, you know, their independent designers working on contract or running their own small, like two business, two person practices. And, uh, efficiency at this phase of our business is hyper important. Um, so that's probably where most of the, you know, when we find something good, we want to share it and vice versa.
+
+Jeff Whitlock
+Makes sense. Yeah.
+
+Sonia Germain
+
+
+Jeff Whitlock
+Is there anything I should have asked about that I didn't or that you want to share like feedback wise.
+
+Sonia Germain
+I don't think so. Oh, something else came to mind and that's translation. That's one of the other functionalities that we've found to be kind of essential when we're dealing with, uh, international clients.
+
+Jeff Whitlock
+Okay. And just the requirement. So like the translation would be the meeting happened in English. But you want like a version of it you can share in Mandarin or something like that.
+
+Sonia Germain
+Sure. That would be nice. Uh, also most of our meetings are bilingual and we have either like a translation chat bot running or we have like a human, uh, translator. That's translating as we're meeting. And so the meetings happen in two languages.
+
+Jeff Whitlock
+And so what would you like Grain to do to make that better.
+
+Sonia Germain
+Um, I think, uh, being able to provide note summaries in another language would be great. Um. And yeah, I guess that's it.
+
+Jeff Whitlock
+Okay. Amazing. So I have some good news for you. We are, we are launching desktop capture on windows in the next, let me say two weeks or so two, three amazing.
+
+Sonia Germain
+Okay.
+
+Jeff Whitlock
+Very soon very soon. And if you'd like, I could get you on the beta for that. And that would even maybe be really. Yeah.
+
+Sonia Germain
+I would love to try it out.
+
+Jeff Whitlock
+Okay. Yeah. So we will do that. And then I will look into this into VOOV. See if that's something that would be cool or not.
+
+Sonia Germain
+I don't know where all your users are. And, you know, obviously, uh, Tencent is huge, but if there's not a lot of, um, cross userly makes sense.
+
+Jeff Whitlock
+We're mostly concentrating kind of Australia, Europe, uh, Canada and the United States, but we do have, we do have a fair amount of, of Chinese users and people who do business with China. So I'll look into it.
+
+Sonia Germain
+Interesting. Okay.
+
+Jeff Whitlock
+Okay. Well, thank you so much, Tania.
+
+Sonia Germain
+And pleasure.
+
+Jeff Whitlock
+Have a great weekend.
+
+Sonia Germain
+Thanks, you too. Bye Jeff.
+
+Jeff Whitlock
+Bye.
